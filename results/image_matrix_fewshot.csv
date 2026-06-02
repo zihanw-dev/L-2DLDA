@@ -1,0 +1,3501 @@
+dataset,shots,rep,method,accuracy
+Digits,3,0,L-2DLDA+,0.84
+Digits,3,0,DATER-reg,0.836
+Digits,3,0,MPCA,0.838
+Digits,3,0,2DLDA,0.838
+Digits,3,0,Nearest centroid,0.838
+Digits,3,0,Ridge,0.76
+Digits,3,0,Shrinkage LDA,0.786
+Digits,3,1,L-2DLDA+,0.852
+Digits,3,1,DATER-reg,0.83
+Digits,3,1,MPCA,0.834
+Digits,3,1,2DLDA,0.834
+Digits,3,1,Nearest centroid,0.834
+Digits,3,1,Ridge,0.664
+Digits,3,1,Shrinkage LDA,0.748
+Digits,3,2,L-2DLDA+,0.838
+Digits,3,2,DATER-reg,0.792
+Digits,3,2,MPCA,0.804
+Digits,3,2,2DLDA,0.804
+Digits,3,2,Nearest centroid,0.804
+Digits,3,2,Ridge,0.682
+Digits,3,2,Shrinkage LDA,0.72
+Digits,3,3,L-2DLDA+,0.808
+Digits,3,3,DATER-reg,0.816
+Digits,3,3,MPCA,0.818
+Digits,3,3,2DLDA,0.818
+Digits,3,3,Nearest centroid,0.818
+Digits,3,3,Ridge,0.676
+Digits,3,3,Shrinkage LDA,0.758
+Digits,3,4,L-2DLDA+,0.822
+Digits,3,4,DATER-reg,0.808
+Digits,3,4,MPCA,0.8
+Digits,3,4,2DLDA,0.8
+Digits,3,4,Nearest centroid,0.8
+Digits,3,4,Ridge,0.708
+Digits,3,4,Shrinkage LDA,0.768
+Digits,3,5,L-2DLDA+,0.808
+Digits,3,5,DATER-reg,0.798
+Digits,3,5,MPCA,0.802
+Digits,3,5,2DLDA,0.802
+Digits,3,5,Nearest centroid,0.802
+Digits,3,5,Ridge,0.712
+Digits,3,5,Shrinkage LDA,0.784
+Digits,3,6,L-2DLDA+,0.828
+Digits,3,6,DATER-reg,0.812
+Digits,3,6,MPCA,0.804
+Digits,3,6,2DLDA,0.804
+Digits,3,6,Nearest centroid,0.804
+Digits,3,6,Ridge,0.722
+Digits,3,6,Shrinkage LDA,0.78
+Digits,3,7,L-2DLDA+,0.852
+Digits,3,7,DATER-reg,0.822
+Digits,3,7,MPCA,0.824
+Digits,3,7,2DLDA,0.824
+Digits,3,7,Nearest centroid,0.824
+Digits,3,7,Ridge,0.718
+Digits,3,7,Shrinkage LDA,0.746
+Digits,3,8,L-2DLDA+,0.758
+Digits,3,8,DATER-reg,0.744
+Digits,3,8,MPCA,0.744
+Digits,3,8,2DLDA,0.744
+Digits,3,8,Nearest centroid,0.744
+Digits,3,8,Ridge,0.66
+Digits,3,8,Shrinkage LDA,0.692
+Digits,3,9,L-2DLDA+,0.778
+Digits,3,9,DATER-reg,0.774
+Digits,3,9,MPCA,0.77
+Digits,3,9,2DLDA,0.77
+Digits,3,9,Nearest centroid,0.77
+Digits,3,9,Ridge,0.708
+Digits,3,9,Shrinkage LDA,0.772
+Digits,3,10,L-2DLDA+,0.752
+Digits,3,10,DATER-reg,0.728
+Digits,3,10,MPCA,0.736
+Digits,3,10,2DLDA,0.736
+Digits,3,10,Nearest centroid,0.736
+Digits,3,10,Ridge,0.698
+Digits,3,10,Shrinkage LDA,0.748
+Digits,3,11,L-2DLDA+,0.804
+Digits,3,11,DATER-reg,0.796
+Digits,3,11,MPCA,0.798
+Digits,3,11,2DLDA,0.798
+Digits,3,11,Nearest centroid,0.798
+Digits,3,11,Ridge,0.728
+Digits,3,11,Shrinkage LDA,0.704
+Digits,3,12,L-2DLDA+,0.848
+Digits,3,12,DATER-reg,0.842
+Digits,3,12,MPCA,0.834
+Digits,3,12,2DLDA,0.834
+Digits,3,12,Nearest centroid,0.834
+Digits,3,12,Ridge,0.698
+Digits,3,12,Shrinkage LDA,0.792
+Digits,3,13,L-2DLDA+,0.792
+Digits,3,13,DATER-reg,0.798
+Digits,3,13,MPCA,0.8
+Digits,3,13,2DLDA,0.8
+Digits,3,13,Nearest centroid,0.8
+Digits,3,13,Ridge,0.618
+Digits,3,13,Shrinkage LDA,0.696
+Digits,3,14,L-2DLDA+,0.792
+Digits,3,14,DATER-reg,0.792
+Digits,3,14,MPCA,0.784
+Digits,3,14,2DLDA,0.784
+Digits,3,14,Nearest centroid,0.784
+Digits,3,14,Ridge,0.768
+Digits,3,14,Shrinkage LDA,0.818
+Digits,3,15,L-2DLDA+,0.782
+Digits,3,15,DATER-reg,0.786
+Digits,3,15,MPCA,0.788
+Digits,3,15,2DLDA,0.788
+Digits,3,15,Nearest centroid,0.788
+Digits,3,15,Ridge,0.712
+Digits,3,15,Shrinkage LDA,0.768
+Digits,3,16,L-2DLDA+,0.86
+Digits,3,16,DATER-reg,0.864
+Digits,3,16,MPCA,0.862
+Digits,3,16,2DLDA,0.862
+Digits,3,16,Nearest centroid,0.862
+Digits,3,16,Ridge,0.74
+Digits,3,16,Shrinkage LDA,0.834
+Digits,3,17,L-2DLDA+,0.826
+Digits,3,17,DATER-reg,0.806
+Digits,3,17,MPCA,0.81
+Digits,3,17,2DLDA,0.81
+Digits,3,17,Nearest centroid,0.81
+Digits,3,17,Ridge,0.72
+Digits,3,17,Shrinkage LDA,0.792
+Digits,3,18,L-2DLDA+,0.74
+Digits,3,18,DATER-reg,0.734
+Digits,3,18,MPCA,0.732
+Digits,3,18,2DLDA,0.732
+Digits,3,18,Nearest centroid,0.732
+Digits,3,18,Ridge,0.7
+Digits,3,18,Shrinkage LDA,0.778
+Digits,3,19,L-2DLDA+,0.778
+Digits,3,19,DATER-reg,0.77
+Digits,3,19,MPCA,0.764
+Digits,3,19,2DLDA,0.764
+Digits,3,19,Nearest centroid,0.764
+Digits,3,19,Ridge,0.582
+Digits,3,19,Shrinkage LDA,0.732
+Digits,3,20,L-2DLDA+,0.804
+Digits,3,20,DATER-reg,0.818
+Digits,3,20,MPCA,0.808
+Digits,3,20,2DLDA,0.808
+Digits,3,20,Nearest centroid,0.808
+Digits,3,20,Ridge,0.652
+Digits,3,20,Shrinkage LDA,0.73
+Digits,3,21,L-2DLDA+,0.83
+Digits,3,21,DATER-reg,0.826
+Digits,3,21,MPCA,0.824
+Digits,3,21,2DLDA,0.824
+Digits,3,21,Nearest centroid,0.824
+Digits,3,21,Ridge,0.73
+Digits,3,21,Shrinkage LDA,0.798
+Digits,3,22,L-2DLDA+,0.816
+Digits,3,22,DATER-reg,0.82
+Digits,3,22,MPCA,0.814
+Digits,3,22,2DLDA,0.814
+Digits,3,22,Nearest centroid,0.814
+Digits,3,22,Ridge,0.706
+Digits,3,22,Shrinkage LDA,0.774
+Digits,3,23,L-2DLDA+,0.836
+Digits,3,23,DATER-reg,0.824
+Digits,3,23,MPCA,0.814
+Digits,3,23,2DLDA,0.814
+Digits,3,23,Nearest centroid,0.814
+Digits,3,23,Ridge,0.692
+Digits,3,23,Shrinkage LDA,0.804
+Digits,3,24,L-2DLDA+,0.77
+Digits,3,24,DATER-reg,0.76
+Digits,3,24,MPCA,0.758
+Digits,3,24,2DLDA,0.758
+Digits,3,24,Nearest centroid,0.758
+Digits,3,24,Ridge,0.634
+Digits,3,24,Shrinkage LDA,0.678
+Digits,3,25,L-2DLDA+,0.784
+Digits,3,25,DATER-reg,0.776
+Digits,3,25,MPCA,0.776
+Digits,3,25,2DLDA,0.776
+Digits,3,25,Nearest centroid,0.776
+Digits,3,25,Ridge,0.626
+Digits,3,25,Shrinkage LDA,0.736
+Digits,3,26,L-2DLDA+,0.79
+Digits,3,26,DATER-reg,0.768
+Digits,3,26,MPCA,0.776
+Digits,3,26,2DLDA,0.776
+Digits,3,26,Nearest centroid,0.776
+Digits,3,26,Ridge,0.67
+Digits,3,26,Shrinkage LDA,0.724
+Digits,3,27,L-2DLDA+,0.794
+Digits,3,27,DATER-reg,0.802
+Digits,3,27,MPCA,0.804
+Digits,3,27,2DLDA,0.804
+Digits,3,27,Nearest centroid,0.804
+Digits,3,27,Ridge,0.636
+Digits,3,27,Shrinkage LDA,0.788
+Digits,3,28,L-2DLDA+,0.8
+Digits,3,28,DATER-reg,0.796
+Digits,3,28,MPCA,0.79
+Digits,3,28,2DLDA,0.79
+Digits,3,28,Nearest centroid,0.79
+Digits,3,28,Ridge,0.668
+Digits,3,28,Shrinkage LDA,0.756
+Digits,3,29,L-2DLDA+,0.85
+Digits,3,29,DATER-reg,0.838
+Digits,3,29,MPCA,0.838
+Digits,3,29,2DLDA,0.838
+Digits,3,29,Nearest centroid,0.838
+Digits,3,29,Ridge,0.682
+Digits,3,29,Shrinkage LDA,0.794
+Digits,3,30,L-2DLDA+,0.812
+Digits,3,30,DATER-reg,0.806
+Digits,3,30,MPCA,0.808
+Digits,3,30,2DLDA,0.808
+Digits,3,30,Nearest centroid,0.808
+Digits,3,30,Ridge,0.712
+Digits,3,30,Shrinkage LDA,0.786
+Digits,3,31,L-2DLDA+,0.758
+Digits,3,31,DATER-reg,0.752
+Digits,3,31,MPCA,0.746
+Digits,3,31,2DLDA,0.746
+Digits,3,31,Nearest centroid,0.746
+Digits,3,31,Ridge,0.682
+Digits,3,31,Shrinkage LDA,0.76
+Digits,3,32,L-2DLDA+,0.792
+Digits,3,32,DATER-reg,0.8
+Digits,3,32,MPCA,0.798
+Digits,3,32,2DLDA,0.798
+Digits,3,32,Nearest centroid,0.798
+Digits,3,32,Ridge,0.706
+Digits,3,32,Shrinkage LDA,0.782
+Digits,3,33,L-2DLDA+,0.792
+Digits,3,33,DATER-reg,0.796
+Digits,3,33,MPCA,0.788
+Digits,3,33,2DLDA,0.788
+Digits,3,33,Nearest centroid,0.788
+Digits,3,33,Ridge,0.562
+Digits,3,33,Shrinkage LDA,0.734
+Digits,3,34,L-2DLDA+,0.722
+Digits,3,34,DATER-reg,0.72
+Digits,3,34,MPCA,0.716
+Digits,3,34,2DLDA,0.716
+Digits,3,34,Nearest centroid,0.716
+Digits,3,34,Ridge,0.62
+Digits,3,34,Shrinkage LDA,0.658
+Digits,3,35,L-2DLDA+,0.85
+Digits,3,35,DATER-reg,0.854
+Digits,3,35,MPCA,0.854
+Digits,3,35,2DLDA,0.854
+Digits,3,35,Nearest centroid,0.854
+Digits,3,35,Ridge,0.722
+Digits,3,35,Shrinkage LDA,0.798
+Digits,3,36,L-2DLDA+,0.762
+Digits,3,36,DATER-reg,0.758
+Digits,3,36,MPCA,0.758
+Digits,3,36,2DLDA,0.758
+Digits,3,36,Nearest centroid,0.758
+Digits,3,36,Ridge,0.66
+Digits,3,36,Shrinkage LDA,0.688
+Digits,3,37,L-2DLDA+,0.836
+Digits,3,37,DATER-reg,0.836
+Digits,3,37,MPCA,0.836
+Digits,3,37,2DLDA,0.836
+Digits,3,37,Nearest centroid,0.836
+Digits,3,37,Ridge,0.68
+Digits,3,37,Shrinkage LDA,0.744
+Digits,3,38,L-2DLDA+,0.79
+Digits,3,38,DATER-reg,0.798
+Digits,3,38,MPCA,0.802
+Digits,3,38,2DLDA,0.802
+Digits,3,38,Nearest centroid,0.802
+Digits,3,38,Ridge,0.682
+Digits,3,38,Shrinkage LDA,0.72
+Digits,3,39,L-2DLDA+,0.802
+Digits,3,39,DATER-reg,0.794
+Digits,3,39,MPCA,0.792
+Digits,3,39,2DLDA,0.792
+Digits,3,39,Nearest centroid,0.792
+Digits,3,39,Ridge,0.638
+Digits,3,39,Shrinkage LDA,0.792
+Digits,3,40,L-2DLDA+,0.786
+Digits,3,40,DATER-reg,0.776
+Digits,3,40,MPCA,0.786
+Digits,3,40,2DLDA,0.786
+Digits,3,40,Nearest centroid,0.786
+Digits,3,40,Ridge,0.634
+Digits,3,40,Shrinkage LDA,0.752
+Digits,3,41,L-2DLDA+,0.79
+Digits,3,41,DATER-reg,0.8
+Digits,3,41,MPCA,0.798
+Digits,3,41,2DLDA,0.798
+Digits,3,41,Nearest centroid,0.798
+Digits,3,41,Ridge,0.702
+Digits,3,41,Shrinkage LDA,0.784
+Digits,3,42,L-2DLDA+,0.796
+Digits,3,42,DATER-reg,0.796
+Digits,3,42,MPCA,0.794
+Digits,3,42,2DLDA,0.794
+Digits,3,42,Nearest centroid,0.794
+Digits,3,42,Ridge,0.63
+Digits,3,42,Shrinkage LDA,0.718
+Digits,3,43,L-2DLDA+,0.85
+Digits,3,43,DATER-reg,0.842
+Digits,3,43,MPCA,0.842
+Digits,3,43,2DLDA,0.842
+Digits,3,43,Nearest centroid,0.842
+Digits,3,43,Ridge,0.702
+Digits,3,43,Shrinkage LDA,0.708
+Digits,3,44,L-2DLDA+,0.768
+Digits,3,44,DATER-reg,0.758
+Digits,3,44,MPCA,0.764
+Digits,3,44,2DLDA,0.764
+Digits,3,44,Nearest centroid,0.764
+Digits,3,44,Ridge,0.542
+Digits,3,44,Shrinkage LDA,0.584
+Digits,3,45,L-2DLDA+,0.758
+Digits,3,45,DATER-reg,0.764
+Digits,3,45,MPCA,0.76
+Digits,3,45,2DLDA,0.76
+Digits,3,45,Nearest centroid,0.76
+Digits,3,45,Ridge,0.684
+Digits,3,45,Shrinkage LDA,0.762
+Digits,3,46,L-2DLDA+,0.73
+Digits,3,46,DATER-reg,0.72
+Digits,3,46,MPCA,0.714
+Digits,3,46,2DLDA,0.714
+Digits,3,46,Nearest centroid,0.714
+Digits,3,46,Ridge,0.6
+Digits,3,46,Shrinkage LDA,0.646
+Digits,3,47,L-2DLDA+,0.808
+Digits,3,47,DATER-reg,0.816
+Digits,3,47,MPCA,0.81
+Digits,3,47,2DLDA,0.81
+Digits,3,47,Nearest centroid,0.81
+Digits,3,47,Ridge,0.662
+Digits,3,47,Shrinkage LDA,0.768
+Digits,3,48,L-2DLDA+,0.862
+Digits,3,48,DATER-reg,0.854
+Digits,3,48,MPCA,0.852
+Digits,3,48,2DLDA,0.852
+Digits,3,48,Nearest centroid,0.852
+Digits,3,48,Ridge,0.69
+Digits,3,48,Shrinkage LDA,0.74
+Digits,3,49,L-2DLDA+,0.79
+Digits,3,49,DATER-reg,0.792
+Digits,3,49,MPCA,0.8
+Digits,3,49,2DLDA,0.8
+Digits,3,49,Nearest centroid,0.8
+Digits,3,49,Ridge,0.67
+Digits,3,49,Shrinkage LDA,0.71
+Digits,5,0,L-2DLDA+,0.856
+Digits,5,0,DATER-reg,0.862
+Digits,5,0,MPCA,0.856
+Digits,5,0,2DLDA,0.856
+Digits,5,0,Nearest centroid,0.856
+Digits,5,0,Ridge,0.72
+Digits,5,0,Shrinkage LDA,0.846
+Digits,5,1,L-2DLDA+,0.832
+Digits,5,1,DATER-reg,0.836
+Digits,5,1,MPCA,0.836
+Digits,5,1,2DLDA,0.836
+Digits,5,1,Nearest centroid,0.836
+Digits,5,1,Ridge,0.648
+Digits,5,1,Shrinkage LDA,0.804
+Digits,5,2,L-2DLDA+,0.818
+Digits,5,2,DATER-reg,0.786
+Digits,5,2,MPCA,0.794
+Digits,5,2,2DLDA,0.794
+Digits,5,2,Nearest centroid,0.794
+Digits,5,2,Ridge,0.62
+Digits,5,2,Shrinkage LDA,0.762
+Digits,5,3,L-2DLDA+,0.816
+Digits,5,3,DATER-reg,0.806
+Digits,5,3,MPCA,0.8
+Digits,5,3,2DLDA,0.8
+Digits,5,3,Nearest centroid,0.8
+Digits,5,3,Ridge,0.692
+Digits,5,3,Shrinkage LDA,0.812
+Digits,5,4,L-2DLDA+,0.844
+Digits,5,4,DATER-reg,0.848
+Digits,5,4,MPCA,0.836
+Digits,5,4,2DLDA,0.836
+Digits,5,4,Nearest centroid,0.836
+Digits,5,4,Ridge,0.74
+Digits,5,4,Shrinkage LDA,0.864
+Digits,5,5,L-2DLDA+,0.858
+Digits,5,5,DATER-reg,0.856
+Digits,5,5,MPCA,0.854
+Digits,5,5,2DLDA,0.854
+Digits,5,5,Nearest centroid,0.854
+Digits,5,5,Ridge,0.682
+Digits,5,5,Shrinkage LDA,0.852
+Digits,5,6,L-2DLDA+,0.856
+Digits,5,6,DATER-reg,0.87
+Digits,5,6,MPCA,0.866
+Digits,5,6,2DLDA,0.866
+Digits,5,6,Nearest centroid,0.866
+Digits,5,6,Ridge,0.764
+Digits,5,6,Shrinkage LDA,0.872
+Digits,5,7,L-2DLDA+,0.84
+Digits,5,7,DATER-reg,0.818
+Digits,5,7,MPCA,0.822
+Digits,5,7,2DLDA,0.822
+Digits,5,7,Nearest centroid,0.822
+Digits,5,7,Ridge,0.664
+Digits,5,7,Shrinkage LDA,0.774
+Digits,5,8,L-2DLDA+,0.848
+Digits,5,8,DATER-reg,0.848
+Digits,5,8,MPCA,0.838
+Digits,5,8,2DLDA,0.838
+Digits,5,8,Nearest centroid,0.838
+Digits,5,8,Ridge,0.714
+Digits,5,8,Shrinkage LDA,0.834
+Digits,5,9,L-2DLDA+,0.854
+Digits,5,9,DATER-reg,0.852
+Digits,5,9,MPCA,0.854
+Digits,5,9,2DLDA,0.854
+Digits,5,9,Nearest centroid,0.854
+Digits,5,9,Ridge,0.734
+Digits,5,9,Shrinkage LDA,0.842
+Digits,5,10,L-2DLDA+,0.844
+Digits,5,10,DATER-reg,0.846
+Digits,5,10,MPCA,0.844
+Digits,5,10,2DLDA,0.844
+Digits,5,10,Nearest centroid,0.844
+Digits,5,10,Ridge,0.67
+Digits,5,10,Shrinkage LDA,0.788
+Digits,5,11,L-2DLDA+,0.866
+Digits,5,11,DATER-reg,0.872
+Digits,5,11,MPCA,0.868
+Digits,5,11,2DLDA,0.868
+Digits,5,11,Nearest centroid,0.868
+Digits,5,11,Ridge,0.66
+Digits,5,11,Shrinkage LDA,0.772
+Digits,5,12,L-2DLDA+,0.864
+Digits,5,12,DATER-reg,0.878
+Digits,5,12,MPCA,0.878
+Digits,5,12,2DLDA,0.878
+Digits,5,12,Nearest centroid,0.878
+Digits,5,12,Ridge,0.676
+Digits,5,12,Shrinkage LDA,0.818
+Digits,5,13,L-2DLDA+,0.83
+Digits,5,13,DATER-reg,0.836
+Digits,5,13,MPCA,0.83
+Digits,5,13,2DLDA,0.83
+Digits,5,13,Nearest centroid,0.83
+Digits,5,13,Ridge,0.692
+Digits,5,13,Shrinkage LDA,0.83
+Digits,5,14,L-2DLDA+,0.85
+Digits,5,14,DATER-reg,0.838
+Digits,5,14,MPCA,0.838
+Digits,5,14,2DLDA,0.838
+Digits,5,14,Nearest centroid,0.838
+Digits,5,14,Ridge,0.718
+Digits,5,14,Shrinkage LDA,0.806
+Digits,5,15,L-2DLDA+,0.77
+Digits,5,15,DATER-reg,0.798
+Digits,5,15,MPCA,0.79
+Digits,5,15,2DLDA,0.79
+Digits,5,15,Nearest centroid,0.79
+Digits,5,15,Ridge,0.666
+Digits,5,15,Shrinkage LDA,0.806
+Digits,5,16,L-2DLDA+,0.856
+Digits,5,16,DATER-reg,0.864
+Digits,5,16,MPCA,0.866
+Digits,5,16,2DLDA,0.866
+Digits,5,16,Nearest centroid,0.866
+Digits,5,16,Ridge,0.696
+Digits,5,16,Shrinkage LDA,0.846
+Digits,5,17,L-2DLDA+,0.832
+Digits,5,17,DATER-reg,0.822
+Digits,5,17,MPCA,0.818
+Digits,5,17,2DLDA,0.818
+Digits,5,17,Nearest centroid,0.818
+Digits,5,17,Ridge,0.68
+Digits,5,17,Shrinkage LDA,0.802
+Digits,5,18,L-2DLDA+,0.854
+Digits,5,18,DATER-reg,0.864
+Digits,5,18,MPCA,0.856
+Digits,5,18,2DLDA,0.856
+Digits,5,18,Nearest centroid,0.856
+Digits,5,18,Ridge,0.728
+Digits,5,18,Shrinkage LDA,0.872
+Digits,5,19,L-2DLDA+,0.816
+Digits,5,19,DATER-reg,0.806
+Digits,5,19,MPCA,0.812
+Digits,5,19,2DLDA,0.812
+Digits,5,19,Nearest centroid,0.812
+Digits,5,19,Ridge,0.67
+Digits,5,19,Shrinkage LDA,0.81
+Digits,5,20,L-2DLDA+,0.832
+Digits,5,20,DATER-reg,0.842
+Digits,5,20,MPCA,0.832
+Digits,5,20,2DLDA,0.832
+Digits,5,20,Nearest centroid,0.832
+Digits,5,20,Ridge,0.742
+Digits,5,20,Shrinkage LDA,0.822
+Digits,5,21,L-2DLDA+,0.834
+Digits,5,21,DATER-reg,0.82
+Digits,5,21,MPCA,0.816
+Digits,5,21,2DLDA,0.816
+Digits,5,21,Nearest centroid,0.816
+Digits,5,21,Ridge,0.764
+Digits,5,21,Shrinkage LDA,0.838
+Digits,5,22,L-2DLDA+,0.832
+Digits,5,22,DATER-reg,0.842
+Digits,5,22,MPCA,0.826
+Digits,5,22,2DLDA,0.826
+Digits,5,22,Nearest centroid,0.826
+Digits,5,22,Ridge,0.69
+Digits,5,22,Shrinkage LDA,0.808
+Digits,5,23,L-2DLDA+,0.852
+Digits,5,23,DATER-reg,0.84
+Digits,5,23,MPCA,0.842
+Digits,5,23,2DLDA,0.842
+Digits,5,23,Nearest centroid,0.842
+Digits,5,23,Ridge,0.67
+Digits,5,23,Shrinkage LDA,0.852
+Digits,5,24,L-2DLDA+,0.866
+Digits,5,24,DATER-reg,0.862
+Digits,5,24,MPCA,0.862
+Digits,5,24,2DLDA,0.862
+Digits,5,24,Nearest centroid,0.862
+Digits,5,24,Ridge,0.716
+Digits,5,24,Shrinkage LDA,0.836
+Digits,5,25,L-2DLDA+,0.884
+Digits,5,25,DATER-reg,0.862
+Digits,5,25,MPCA,0.866
+Digits,5,25,2DLDA,0.866
+Digits,5,25,Nearest centroid,0.866
+Digits,5,25,Ridge,0.7
+Digits,5,25,Shrinkage LDA,0.868
+Digits,5,26,L-2DLDA+,0.838
+Digits,5,26,DATER-reg,0.844
+Digits,5,26,MPCA,0.844
+Digits,5,26,2DLDA,0.844
+Digits,5,26,Nearest centroid,0.844
+Digits,5,26,Ridge,0.614
+Digits,5,26,Shrinkage LDA,0.816
+Digits,5,27,L-2DLDA+,0.886
+Digits,5,27,DATER-reg,0.874
+Digits,5,27,MPCA,0.868
+Digits,5,27,2DLDA,0.868
+Digits,5,27,Nearest centroid,0.868
+Digits,5,27,Ridge,0.714
+Digits,5,27,Shrinkage LDA,0.81
+Digits,5,28,L-2DLDA+,0.854
+Digits,5,28,DATER-reg,0.86
+Digits,5,28,MPCA,0.854
+Digits,5,28,2DLDA,0.854
+Digits,5,28,Nearest centroid,0.854
+Digits,5,28,Ridge,0.776
+Digits,5,28,Shrinkage LDA,0.852
+Digits,5,29,L-2DLDA+,0.802
+Digits,5,29,DATER-reg,0.8
+Digits,5,29,MPCA,0.796
+Digits,5,29,2DLDA,0.796
+Digits,5,29,Nearest centroid,0.796
+Digits,5,29,Ridge,0.716
+Digits,5,29,Shrinkage LDA,0.806
+Digits,5,30,L-2DLDA+,0.852
+Digits,5,30,DATER-reg,0.85
+Digits,5,30,MPCA,0.84
+Digits,5,30,2DLDA,0.84
+Digits,5,30,Nearest centroid,0.84
+Digits,5,30,Ridge,0.706
+Digits,5,30,Shrinkage LDA,0.84
+Digits,5,31,L-2DLDA+,0.84
+Digits,5,31,DATER-reg,0.846
+Digits,5,31,MPCA,0.844
+Digits,5,31,2DLDA,0.844
+Digits,5,31,Nearest centroid,0.844
+Digits,5,31,Ridge,0.71
+Digits,5,31,Shrinkage LDA,0.802
+Digits,5,32,L-2DLDA+,0.862
+Digits,5,32,DATER-reg,0.874
+Digits,5,32,MPCA,0.862
+Digits,5,32,2DLDA,0.862
+Digits,5,32,Nearest centroid,0.862
+Digits,5,32,Ridge,0.682
+Digits,5,32,Shrinkage LDA,0.846
+Digits,5,33,L-2DLDA+,0.846
+Digits,5,33,DATER-reg,0.842
+Digits,5,33,MPCA,0.848
+Digits,5,33,2DLDA,0.848
+Digits,5,33,Nearest centroid,0.848
+Digits,5,33,Ridge,0.7
+Digits,5,33,Shrinkage LDA,0.838
+Digits,5,34,L-2DLDA+,0.856
+Digits,5,34,DATER-reg,0.826
+Digits,5,34,MPCA,0.832
+Digits,5,34,2DLDA,0.832
+Digits,5,34,Nearest centroid,0.832
+Digits,5,34,Ridge,0.606
+Digits,5,34,Shrinkage LDA,0.814
+Digits,5,35,L-2DLDA+,0.808
+Digits,5,35,DATER-reg,0.81
+Digits,5,35,MPCA,0.804
+Digits,5,35,2DLDA,0.804
+Digits,5,35,Nearest centroid,0.804
+Digits,5,35,Ridge,0.694
+Digits,5,35,Shrinkage LDA,0.838
+Digits,5,36,L-2DLDA+,0.824
+Digits,5,36,DATER-reg,0.83
+Digits,5,36,MPCA,0.826
+Digits,5,36,2DLDA,0.826
+Digits,5,36,Nearest centroid,0.826
+Digits,5,36,Ridge,0.686
+Digits,5,36,Shrinkage LDA,0.804
+Digits,5,37,L-2DLDA+,0.836
+Digits,5,37,DATER-reg,0.822
+Digits,5,37,MPCA,0.822
+Digits,5,37,2DLDA,0.822
+Digits,5,37,Nearest centroid,0.822
+Digits,5,37,Ridge,0.718
+Digits,5,37,Shrinkage LDA,0.862
+Digits,5,38,L-2DLDA+,0.812
+Digits,5,38,DATER-reg,0.806
+Digits,5,38,MPCA,0.808
+Digits,5,38,2DLDA,0.808
+Digits,5,38,Nearest centroid,0.808
+Digits,5,38,Ridge,0.686
+Digits,5,38,Shrinkage LDA,0.814
+Digits,5,39,L-2DLDA+,0.848
+Digits,5,39,DATER-reg,0.848
+Digits,5,39,MPCA,0.848
+Digits,5,39,2DLDA,0.848
+Digits,5,39,Nearest centroid,0.848
+Digits,5,39,Ridge,0.738
+Digits,5,39,Shrinkage LDA,0.836
+Digits,5,40,L-2DLDA+,0.856
+Digits,5,40,DATER-reg,0.856
+Digits,5,40,MPCA,0.848
+Digits,5,40,2DLDA,0.848
+Digits,5,40,Nearest centroid,0.848
+Digits,5,40,Ridge,0.744
+Digits,5,40,Shrinkage LDA,0.868
+Digits,5,41,L-2DLDA+,0.86
+Digits,5,41,DATER-reg,0.862
+Digits,5,41,MPCA,0.86
+Digits,5,41,2DLDA,0.86
+Digits,5,41,Nearest centroid,0.86
+Digits,5,41,Ridge,0.742
+Digits,5,41,Shrinkage LDA,0.834
+Digits,5,42,L-2DLDA+,0.79
+Digits,5,42,DATER-reg,0.798
+Digits,5,42,MPCA,0.79
+Digits,5,42,2DLDA,0.79
+Digits,5,42,Nearest centroid,0.79
+Digits,5,42,Ridge,0.652
+Digits,5,42,Shrinkage LDA,0.764
+Digits,5,43,L-2DLDA+,0.862
+Digits,5,43,DATER-reg,0.858
+Digits,5,43,MPCA,0.864
+Digits,5,43,2DLDA,0.864
+Digits,5,43,Nearest centroid,0.864
+Digits,5,43,Ridge,0.684
+Digits,5,43,Shrinkage LDA,0.856
+Digits,5,44,L-2DLDA+,0.842
+Digits,5,44,DATER-reg,0.852
+Digits,5,44,MPCA,0.85
+Digits,5,44,2DLDA,0.85
+Digits,5,44,Nearest centroid,0.85
+Digits,5,44,Ridge,0.67
+Digits,5,44,Shrinkage LDA,0.838
+Digits,5,45,L-2DLDA+,0.868
+Digits,5,45,DATER-reg,0.878
+Digits,5,45,MPCA,0.878
+Digits,5,45,2DLDA,0.878
+Digits,5,45,Nearest centroid,0.878
+Digits,5,45,Ridge,0.696
+Digits,5,45,Shrinkage LDA,0.844
+Digits,5,46,L-2DLDA+,0.814
+Digits,5,46,DATER-reg,0.82
+Digits,5,46,MPCA,0.818
+Digits,5,46,2DLDA,0.818
+Digits,5,46,Nearest centroid,0.818
+Digits,5,46,Ridge,0.648
+Digits,5,46,Shrinkage LDA,0.79
+Digits,5,47,L-2DLDA+,0.844
+Digits,5,47,DATER-reg,0.836
+Digits,5,47,MPCA,0.84
+Digits,5,47,2DLDA,0.84
+Digits,5,47,Nearest centroid,0.84
+Digits,5,47,Ridge,0.7
+Digits,5,47,Shrinkage LDA,0.786
+Digits,5,48,L-2DLDA+,0.774
+Digits,5,48,DATER-reg,0.784
+Digits,5,48,MPCA,0.778
+Digits,5,48,2DLDA,0.778
+Digits,5,48,Nearest centroid,0.778
+Digits,5,48,Ridge,0.706
+Digits,5,48,Shrinkage LDA,0.84
+Digits,5,49,L-2DLDA+,0.846
+Digits,5,49,DATER-reg,0.848
+Digits,5,49,MPCA,0.84
+Digits,5,49,2DLDA,0.84
+Digits,5,49,Nearest centroid,0.84
+Digits,5,49,Ridge,0.71
+Digits,5,49,Shrinkage LDA,0.816
+USPS,3,0,L-2DLDA+,0.732
+USPS,3,0,DATER-reg,0.7
+USPS,3,0,MPCA,0.71
+USPS,3,0,2DLDA,0.71
+USPS,3,0,Nearest centroid,0.71
+USPS,3,0,Ridge,0.558
+USPS,3,0,Shrinkage LDA,0.67
+USPS,3,1,L-2DLDA+,0.718
+USPS,3,1,DATER-reg,0.716
+USPS,3,1,MPCA,0.712
+USPS,3,1,2DLDA,0.712
+USPS,3,1,Nearest centroid,0.712
+USPS,3,1,Ridge,0.674
+USPS,3,1,Shrinkage LDA,0.728
+USPS,3,2,L-2DLDA+,0.774
+USPS,3,2,DATER-reg,0.774
+USPS,3,2,MPCA,0.772
+USPS,3,2,2DLDA,0.772
+USPS,3,2,Nearest centroid,0.772
+USPS,3,2,Ridge,0.632
+USPS,3,2,Shrinkage LDA,0.728
+USPS,3,3,L-2DLDA+,0.71
+USPS,3,3,DATER-reg,0.708
+USPS,3,3,MPCA,0.7
+USPS,3,3,2DLDA,0.7
+USPS,3,3,Nearest centroid,0.7
+USPS,3,3,Ridge,0.586
+USPS,3,3,Shrinkage LDA,0.668
+USPS,3,4,L-2DLDA+,0.626
+USPS,3,4,DATER-reg,0.63
+USPS,3,4,MPCA,0.628
+USPS,3,4,2DLDA,0.628
+USPS,3,4,Nearest centroid,0.628
+USPS,3,4,Ridge,0.568
+USPS,3,4,Shrinkage LDA,0.65
+USPS,3,5,L-2DLDA+,0.66
+USPS,3,5,DATER-reg,0.638
+USPS,3,5,MPCA,0.656
+USPS,3,5,2DLDA,0.656
+USPS,3,5,Nearest centroid,0.656
+USPS,3,5,Ridge,0.558
+USPS,3,5,Shrinkage LDA,0.64
+USPS,3,6,L-2DLDA+,0.78
+USPS,3,6,DATER-reg,0.766
+USPS,3,6,MPCA,0.762
+USPS,3,6,2DLDA,0.762
+USPS,3,6,Nearest centroid,0.762
+USPS,3,6,Ridge,0.626
+USPS,3,6,Shrinkage LDA,0.69
+USPS,3,7,L-2DLDA+,0.676
+USPS,3,7,DATER-reg,0.656
+USPS,3,7,MPCA,0.666
+USPS,3,7,2DLDA,0.666
+USPS,3,7,Nearest centroid,0.666
+USPS,3,7,Ridge,0.596
+USPS,3,7,Shrinkage LDA,0.654
+USPS,3,8,L-2DLDA+,0.746
+USPS,3,8,DATER-reg,0.762
+USPS,3,8,MPCA,0.75
+USPS,3,8,2DLDA,0.75
+USPS,3,8,Nearest centroid,0.75
+USPS,3,8,Ridge,0.626
+USPS,3,8,Shrinkage LDA,0.694
+USPS,3,9,L-2DLDA+,0.742
+USPS,3,9,DATER-reg,0.738
+USPS,3,9,MPCA,0.746
+USPS,3,9,2DLDA,0.746
+USPS,3,9,Nearest centroid,0.746
+USPS,3,9,Ridge,0.638
+USPS,3,9,Shrinkage LDA,0.686
+USPS,3,10,L-2DLDA+,0.76
+USPS,3,10,DATER-reg,0.776
+USPS,3,10,MPCA,0.77
+USPS,3,10,2DLDA,0.77
+USPS,3,10,Nearest centroid,0.77
+USPS,3,10,Ridge,0.58
+USPS,3,10,Shrinkage LDA,0.674
+USPS,3,11,L-2DLDA+,0.726
+USPS,3,11,DATER-reg,0.708
+USPS,3,11,MPCA,0.722
+USPS,3,11,2DLDA,0.722
+USPS,3,11,Nearest centroid,0.722
+USPS,3,11,Ridge,0.672
+USPS,3,11,Shrinkage LDA,0.7
+USPS,3,12,L-2DLDA+,0.766
+USPS,3,12,DATER-reg,0.756
+USPS,3,12,MPCA,0.772
+USPS,3,12,2DLDA,0.772
+USPS,3,12,Nearest centroid,0.772
+USPS,3,12,Ridge,0.622
+USPS,3,12,Shrinkage LDA,0.688
+USPS,3,13,L-2DLDA+,0.746
+USPS,3,13,DATER-reg,0.742
+USPS,3,13,MPCA,0.746
+USPS,3,13,2DLDA,0.746
+USPS,3,13,Nearest centroid,0.746
+USPS,3,13,Ridge,0.688
+USPS,3,13,Shrinkage LDA,0.74
+USPS,3,14,L-2DLDA+,0.722
+USPS,3,14,DATER-reg,0.708
+USPS,3,14,MPCA,0.716
+USPS,3,14,2DLDA,0.714
+USPS,3,14,Nearest centroid,0.716
+USPS,3,14,Ridge,0.602
+USPS,3,14,Shrinkage LDA,0.656
+USPS,3,15,L-2DLDA+,0.746
+USPS,3,15,DATER-reg,0.74
+USPS,3,15,MPCA,0.73
+USPS,3,15,2DLDA,0.73
+USPS,3,15,Nearest centroid,0.73
+USPS,3,15,Ridge,0.674
+USPS,3,15,Shrinkage LDA,0.724
+USPS,3,16,L-2DLDA+,0.754
+USPS,3,16,DATER-reg,0.714
+USPS,3,16,MPCA,0.734
+USPS,3,16,2DLDA,0.734
+USPS,3,16,Nearest centroid,0.734
+USPS,3,16,Ridge,0.606
+USPS,3,16,Shrinkage LDA,0.626
+USPS,3,17,L-2DLDA+,0.688
+USPS,3,17,DATER-reg,0.688
+USPS,3,17,MPCA,0.69
+USPS,3,17,2DLDA,0.69
+USPS,3,17,Nearest centroid,0.69
+USPS,3,17,Ridge,0.632
+USPS,3,17,Shrinkage LDA,0.716
+USPS,3,18,L-2DLDA+,0.74
+USPS,3,18,DATER-reg,0.72
+USPS,3,18,MPCA,0.728
+USPS,3,18,2DLDA,0.728
+USPS,3,18,Nearest centroid,0.728
+USPS,3,18,Ridge,0.62
+USPS,3,18,Shrinkage LDA,0.652
+USPS,3,19,L-2DLDA+,0.8
+USPS,3,19,DATER-reg,0.792
+USPS,3,19,MPCA,0.798
+USPS,3,19,2DLDA,0.798
+USPS,3,19,Nearest centroid,0.8
+USPS,3,19,Ridge,0.62
+USPS,3,19,Shrinkage LDA,0.776
+USPS,3,20,L-2DLDA+,0.756
+USPS,3,20,DATER-reg,0.748
+USPS,3,20,MPCA,0.738
+USPS,3,20,2DLDA,0.738
+USPS,3,20,Nearest centroid,0.738
+USPS,3,20,Ridge,0.7
+USPS,3,20,Shrinkage LDA,0.724
+USPS,3,21,L-2DLDA+,0.75
+USPS,3,21,DATER-reg,0.75
+USPS,3,21,MPCA,0.754
+USPS,3,21,2DLDA,0.754
+USPS,3,21,Nearest centroid,0.754
+USPS,3,21,Ridge,0.676
+USPS,3,21,Shrinkage LDA,0.73
+USPS,3,22,L-2DLDA+,0.738
+USPS,3,22,DATER-reg,0.738
+USPS,3,22,MPCA,0.722
+USPS,3,22,2DLDA,0.722
+USPS,3,22,Nearest centroid,0.722
+USPS,3,22,Ridge,0.694
+USPS,3,22,Shrinkage LDA,0.74
+USPS,3,23,L-2DLDA+,0.716
+USPS,3,23,DATER-reg,0.698
+USPS,3,23,MPCA,0.706
+USPS,3,23,2DLDA,0.706
+USPS,3,23,Nearest centroid,0.706
+USPS,3,23,Ridge,0.612
+USPS,3,23,Shrinkage LDA,0.694
+USPS,3,24,L-2DLDA+,0.69
+USPS,3,24,DATER-reg,0.66
+USPS,3,24,MPCA,0.664
+USPS,3,24,2DLDA,0.664
+USPS,3,24,Nearest centroid,0.664
+USPS,3,24,Ridge,0.568
+USPS,3,24,Shrinkage LDA,0.662
+USPS,3,25,L-2DLDA+,0.718
+USPS,3,25,DATER-reg,0.712
+USPS,3,25,MPCA,0.714
+USPS,3,25,2DLDA,0.714
+USPS,3,25,Nearest centroid,0.714
+USPS,3,25,Ridge,0.562
+USPS,3,25,Shrinkage LDA,0.644
+USPS,3,26,L-2DLDA+,0.73
+USPS,3,26,DATER-reg,0.696
+USPS,3,26,MPCA,0.708
+USPS,3,26,2DLDA,0.708
+USPS,3,26,Nearest centroid,0.708
+USPS,3,26,Ridge,0.654
+USPS,3,26,Shrinkage LDA,0.694
+USPS,3,27,L-2DLDA+,0.654
+USPS,3,27,DATER-reg,0.66
+USPS,3,27,MPCA,0.66
+USPS,3,27,2DLDA,0.66
+USPS,3,27,Nearest centroid,0.66
+USPS,3,27,Ridge,0.584
+USPS,3,27,Shrinkage LDA,0.628
+USPS,3,28,L-2DLDA+,0.802
+USPS,3,28,DATER-reg,0.788
+USPS,3,28,MPCA,0.794
+USPS,3,28,2DLDA,0.796
+USPS,3,28,Nearest centroid,0.796
+USPS,3,28,Ridge,0.672
+USPS,3,28,Shrinkage LDA,0.732
+USPS,3,29,L-2DLDA+,0.69
+USPS,3,29,DATER-reg,0.67
+USPS,3,29,MPCA,0.688
+USPS,3,29,2DLDA,0.688
+USPS,3,29,Nearest centroid,0.688
+USPS,3,29,Ridge,0.584
+USPS,3,29,Shrinkage LDA,0.636
+USPS,3,30,L-2DLDA+,0.722
+USPS,3,30,DATER-reg,0.698
+USPS,3,30,MPCA,0.698
+USPS,3,30,2DLDA,0.698
+USPS,3,30,Nearest centroid,0.698
+USPS,3,30,Ridge,0.612
+USPS,3,30,Shrinkage LDA,0.66
+USPS,3,31,L-2DLDA+,0.768
+USPS,3,31,DATER-reg,0.75
+USPS,3,31,MPCA,0.752
+USPS,3,31,2DLDA,0.752
+USPS,3,31,Nearest centroid,0.752
+USPS,3,31,Ridge,0.68
+USPS,3,31,Shrinkage LDA,0.714
+USPS,3,32,L-2DLDA+,0.748
+USPS,3,32,DATER-reg,0.72
+USPS,3,32,MPCA,0.73
+USPS,3,32,2DLDA,0.728
+USPS,3,32,Nearest centroid,0.728
+USPS,3,32,Ridge,0.62
+USPS,3,32,Shrinkage LDA,0.716
+USPS,3,33,L-2DLDA+,0.702
+USPS,3,33,DATER-reg,0.702
+USPS,3,33,MPCA,0.706
+USPS,3,33,2DLDA,0.706
+USPS,3,33,Nearest centroid,0.706
+USPS,3,33,Ridge,0.654
+USPS,3,33,Shrinkage LDA,0.688
+USPS,3,34,L-2DLDA+,0.67
+USPS,3,34,DATER-reg,0.682
+USPS,3,34,MPCA,0.672
+USPS,3,34,2DLDA,0.672
+USPS,3,34,Nearest centroid,0.672
+USPS,3,34,Ridge,0.618
+USPS,3,34,Shrinkage LDA,0.672
+USPS,3,35,L-2DLDA+,0.67
+USPS,3,35,DATER-reg,0.664
+USPS,3,35,MPCA,0.662
+USPS,3,35,2DLDA,0.662
+USPS,3,35,Nearest centroid,0.66
+USPS,3,35,Ridge,0.638
+USPS,3,35,Shrinkage LDA,0.65
+USPS,3,36,L-2DLDA+,0.722
+USPS,3,36,DATER-reg,0.706
+USPS,3,36,MPCA,0.704
+USPS,3,36,2DLDA,0.704
+USPS,3,36,Nearest centroid,0.704
+USPS,3,36,Ridge,0.564
+USPS,3,36,Shrinkage LDA,0.64
+USPS,3,37,L-2DLDA+,0.762
+USPS,3,37,DATER-reg,0.732
+USPS,3,37,MPCA,0.73
+USPS,3,37,2DLDA,0.726
+USPS,3,37,Nearest centroid,0.726
+USPS,3,37,Ridge,0.658
+USPS,3,37,Shrinkage LDA,0.71
+USPS,3,38,L-2DLDA+,0.714
+USPS,3,38,DATER-reg,0.722
+USPS,3,38,MPCA,0.72
+USPS,3,38,2DLDA,0.72
+USPS,3,38,Nearest centroid,0.72
+USPS,3,38,Ridge,0.62
+USPS,3,38,Shrinkage LDA,0.738
+USPS,3,39,L-2DLDA+,0.786
+USPS,3,39,DATER-reg,0.784
+USPS,3,39,MPCA,0.784
+USPS,3,39,2DLDA,0.784
+USPS,3,39,Nearest centroid,0.784
+USPS,3,39,Ridge,0.636
+USPS,3,39,Shrinkage LDA,0.686
+USPS,3,40,L-2DLDA+,0.764
+USPS,3,40,DATER-reg,0.76
+USPS,3,40,MPCA,0.76
+USPS,3,40,2DLDA,0.76
+USPS,3,40,Nearest centroid,0.76
+USPS,3,40,Ridge,0.582
+USPS,3,40,Shrinkage LDA,0.676
+USPS,3,41,L-2DLDA+,0.776
+USPS,3,41,DATER-reg,0.764
+USPS,3,41,MPCA,0.768
+USPS,3,41,2DLDA,0.768
+USPS,3,41,Nearest centroid,0.768
+USPS,3,41,Ridge,0.678
+USPS,3,41,Shrinkage LDA,0.748
+USPS,3,42,L-2DLDA+,0.654
+USPS,3,42,DATER-reg,0.638
+USPS,3,42,MPCA,0.648
+USPS,3,42,2DLDA,0.648
+USPS,3,42,Nearest centroid,0.648
+USPS,3,42,Ridge,0.558
+USPS,3,42,Shrinkage LDA,0.586
+USPS,3,43,L-2DLDA+,0.802
+USPS,3,43,DATER-reg,0.798
+USPS,3,43,MPCA,0.786
+USPS,3,43,2DLDA,0.786
+USPS,3,43,Nearest centroid,0.786
+USPS,3,43,Ridge,0.712
+USPS,3,43,Shrinkage LDA,0.78
+USPS,3,44,L-2DLDA+,0.742
+USPS,3,44,DATER-reg,0.742
+USPS,3,44,MPCA,0.742
+USPS,3,44,2DLDA,0.742
+USPS,3,44,Nearest centroid,0.742
+USPS,3,44,Ridge,0.696
+USPS,3,44,Shrinkage LDA,0.756
+USPS,3,45,L-2DLDA+,0.832
+USPS,3,45,DATER-reg,0.812
+USPS,3,45,MPCA,0.812
+USPS,3,45,2DLDA,0.812
+USPS,3,45,Nearest centroid,0.812
+USPS,3,45,Ridge,0.686
+USPS,3,45,Shrinkage LDA,0.782
+USPS,3,46,L-2DLDA+,0.704
+USPS,3,46,DATER-reg,0.674
+USPS,3,46,MPCA,0.686
+USPS,3,46,2DLDA,0.686
+USPS,3,46,Nearest centroid,0.686
+USPS,3,46,Ridge,0.562
+USPS,3,46,Shrinkage LDA,0.62
+USPS,3,47,L-2DLDA+,0.736
+USPS,3,47,DATER-reg,0.742
+USPS,3,47,MPCA,0.744
+USPS,3,47,2DLDA,0.744
+USPS,3,47,Nearest centroid,0.744
+USPS,3,47,Ridge,0.636
+USPS,3,47,Shrinkage LDA,0.716
+USPS,3,48,L-2DLDA+,0.694
+USPS,3,48,DATER-reg,0.684
+USPS,3,48,MPCA,0.686
+USPS,3,48,2DLDA,0.686
+USPS,3,48,Nearest centroid,0.686
+USPS,3,48,Ridge,0.624
+USPS,3,48,Shrinkage LDA,0.716
+USPS,3,49,L-2DLDA+,0.778
+USPS,3,49,DATER-reg,0.766
+USPS,3,49,MPCA,0.776
+USPS,3,49,2DLDA,0.776
+USPS,3,49,Nearest centroid,0.776
+USPS,3,49,Ridge,0.708
+USPS,3,49,Shrinkage LDA,0.742
+USPS,5,0,L-2DLDA+,0.818
+USPS,5,0,DATER-reg,0.806
+USPS,5,0,MPCA,0.816
+USPS,5,0,2DLDA,0.816
+USPS,5,0,Nearest centroid,0.816
+USPS,5,0,Ridge,0.71
+USPS,5,0,Shrinkage LDA,0.828
+USPS,5,1,L-2DLDA+,0.832
+USPS,5,1,DATER-reg,0.814
+USPS,5,1,MPCA,0.828
+USPS,5,1,2DLDA,0.828
+USPS,5,1,Nearest centroid,0.828
+USPS,5,1,Ridge,0.756
+USPS,5,1,Shrinkage LDA,0.82
+USPS,5,2,L-2DLDA+,0.81
+USPS,5,2,DATER-reg,0.786
+USPS,5,2,MPCA,0.8
+USPS,5,2,2DLDA,0.798
+USPS,5,2,Nearest centroid,0.798
+USPS,5,2,Ridge,0.596
+USPS,5,2,Shrinkage LDA,0.738
+USPS,5,3,L-2DLDA+,0.75
+USPS,5,3,DATER-reg,0.756
+USPS,5,3,MPCA,0.756
+USPS,5,3,2DLDA,0.756
+USPS,5,3,Nearest centroid,0.756
+USPS,5,3,Ridge,0.608
+USPS,5,3,Shrinkage LDA,0.756
+USPS,5,4,L-2DLDA+,0.776
+USPS,5,4,DATER-reg,0.754
+USPS,5,4,MPCA,0.754
+USPS,5,4,2DLDA,0.756
+USPS,5,4,Nearest centroid,0.756
+USPS,5,4,Ridge,0.642
+USPS,5,4,Shrinkage LDA,0.782
+USPS,5,5,L-2DLDA+,0.828
+USPS,5,5,DATER-reg,0.824
+USPS,5,5,MPCA,0.83
+USPS,5,5,2DLDA,0.83
+USPS,5,5,Nearest centroid,0.83
+USPS,5,5,Ridge,0.714
+USPS,5,5,Shrinkage LDA,0.84
+USPS,5,6,L-2DLDA+,0.786
+USPS,5,6,DATER-reg,0.77
+USPS,5,6,MPCA,0.78
+USPS,5,6,2DLDA,0.78
+USPS,5,6,Nearest centroid,0.778
+USPS,5,6,Ridge,0.716
+USPS,5,6,Shrinkage LDA,0.788
+USPS,5,7,L-2DLDA+,0.806
+USPS,5,7,DATER-reg,0.8
+USPS,5,7,MPCA,0.796
+USPS,5,7,2DLDA,0.796
+USPS,5,7,Nearest centroid,0.796
+USPS,5,7,Ridge,0.648
+USPS,5,7,Shrinkage LDA,0.82
+USPS,5,8,L-2DLDA+,0.77
+USPS,5,8,DATER-reg,0.758
+USPS,5,8,MPCA,0.748
+USPS,5,8,2DLDA,0.748
+USPS,5,8,Nearest centroid,0.748
+USPS,5,8,Ridge,0.592
+USPS,5,8,Shrinkage LDA,0.744
+USPS,5,9,L-2DLDA+,0.798
+USPS,5,9,DATER-reg,0.786
+USPS,5,9,MPCA,0.782
+USPS,5,9,2DLDA,0.782
+USPS,5,9,Nearest centroid,0.782
+USPS,5,9,Ridge,0.584
+USPS,5,9,Shrinkage LDA,0.72
+USPS,5,10,L-2DLDA+,0.76
+USPS,5,10,DATER-reg,0.752
+USPS,5,10,MPCA,0.758
+USPS,5,10,2DLDA,0.758
+USPS,5,10,Nearest centroid,0.758
+USPS,5,10,Ridge,0.66
+USPS,5,10,Shrinkage LDA,0.762
+USPS,5,11,L-2DLDA+,0.814
+USPS,5,11,DATER-reg,0.82
+USPS,5,11,MPCA,0.814
+USPS,5,11,2DLDA,0.814
+USPS,5,11,Nearest centroid,0.814
+USPS,5,11,Ridge,0.752
+USPS,5,11,Shrinkage LDA,0.806
+USPS,5,12,L-2DLDA+,0.764
+USPS,5,12,DATER-reg,0.76
+USPS,5,12,MPCA,0.76
+USPS,5,12,2DLDA,0.76
+USPS,5,12,Nearest centroid,0.76
+USPS,5,12,Ridge,0.616
+USPS,5,12,Shrinkage LDA,0.744
+USPS,5,13,L-2DLDA+,0.754
+USPS,5,13,DATER-reg,0.736
+USPS,5,13,MPCA,0.738
+USPS,5,13,2DLDA,0.736
+USPS,5,13,Nearest centroid,0.736
+USPS,5,13,Ridge,0.526
+USPS,5,13,Shrinkage LDA,0.708
+USPS,5,14,L-2DLDA+,0.78
+USPS,5,14,DATER-reg,0.762
+USPS,5,14,MPCA,0.766
+USPS,5,14,2DLDA,0.766
+USPS,5,14,Nearest centroid,0.768
+USPS,5,14,Ridge,0.686
+USPS,5,14,Shrinkage LDA,0.812
+USPS,5,15,L-2DLDA+,0.788
+USPS,5,15,DATER-reg,0.782
+USPS,5,15,MPCA,0.776
+USPS,5,15,2DLDA,0.776
+USPS,5,15,Nearest centroid,0.776
+USPS,5,15,Ridge,0.624
+USPS,5,15,Shrinkage LDA,0.754
+USPS,5,16,L-2DLDA+,0.828
+USPS,5,16,DATER-reg,0.806
+USPS,5,16,MPCA,0.806
+USPS,5,16,2DLDA,0.806
+USPS,5,16,Nearest centroid,0.806
+USPS,5,16,Ridge,0.664
+USPS,5,16,Shrinkage LDA,0.796
+USPS,5,17,L-2DLDA+,0.842
+USPS,5,17,DATER-reg,0.832
+USPS,5,17,MPCA,0.834
+USPS,5,17,2DLDA,0.834
+USPS,5,17,Nearest centroid,0.834
+USPS,5,17,Ridge,0.666
+USPS,5,17,Shrinkage LDA,0.834
+USPS,5,18,L-2DLDA+,0.752
+USPS,5,18,DATER-reg,0.766
+USPS,5,18,MPCA,0.756
+USPS,5,18,2DLDA,0.756
+USPS,5,18,Nearest centroid,0.756
+USPS,5,18,Ridge,0.656
+USPS,5,18,Shrinkage LDA,0.774
+USPS,5,19,L-2DLDA+,0.752
+USPS,5,19,DATER-reg,0.74
+USPS,5,19,MPCA,0.738
+USPS,5,19,2DLDA,0.74
+USPS,5,19,Nearest centroid,0.738
+USPS,5,19,Ridge,0.678
+USPS,5,19,Shrinkage LDA,0.8
+USPS,5,20,L-2DLDA+,0.786
+USPS,5,20,DATER-reg,0.786
+USPS,5,20,MPCA,0.788
+USPS,5,20,2DLDA,0.788
+USPS,5,20,Nearest centroid,0.788
+USPS,5,20,Ridge,0.642
+USPS,5,20,Shrinkage LDA,0.762
+USPS,5,21,L-2DLDA+,0.732
+USPS,5,21,DATER-reg,0.742
+USPS,5,21,MPCA,0.732
+USPS,5,21,2DLDA,0.732
+USPS,5,21,Nearest centroid,0.732
+USPS,5,21,Ridge,0.628
+USPS,5,21,Shrinkage LDA,0.748
+USPS,5,22,L-2DLDA+,0.802
+USPS,5,22,DATER-reg,0.79
+USPS,5,22,MPCA,0.788
+USPS,5,22,2DLDA,0.788
+USPS,5,22,Nearest centroid,0.788
+USPS,5,22,Ridge,0.628
+USPS,5,22,Shrinkage LDA,0.778
+USPS,5,23,L-2DLDA+,0.808
+USPS,5,23,DATER-reg,0.802
+USPS,5,23,MPCA,0.806
+USPS,5,23,2DLDA,0.806
+USPS,5,23,Nearest centroid,0.806
+USPS,5,23,Ridge,0.616
+USPS,5,23,Shrinkage LDA,0.768
+USPS,5,24,L-2DLDA+,0.784
+USPS,5,24,DATER-reg,0.78
+USPS,5,24,MPCA,0.784
+USPS,5,24,2DLDA,0.784
+USPS,5,24,Nearest centroid,0.784
+USPS,5,24,Ridge,0.646
+USPS,5,24,Shrinkage LDA,0.786
+USPS,5,25,L-2DLDA+,0.78
+USPS,5,25,DATER-reg,0.776
+USPS,5,25,MPCA,0.764
+USPS,5,25,2DLDA,0.764
+USPS,5,25,Nearest centroid,0.764
+USPS,5,25,Ridge,0.648
+USPS,5,25,Shrinkage LDA,0.826
+USPS,5,26,L-2DLDA+,0.786
+USPS,5,26,DATER-reg,0.768
+USPS,5,26,MPCA,0.778
+USPS,5,26,2DLDA,0.778
+USPS,5,26,Nearest centroid,0.778
+USPS,5,26,Ridge,0.57
+USPS,5,26,Shrinkage LDA,0.68
+USPS,5,27,L-2DLDA+,0.778
+USPS,5,27,DATER-reg,0.766
+USPS,5,27,MPCA,0.774
+USPS,5,27,2DLDA,0.774
+USPS,5,27,Nearest centroid,0.774
+USPS,5,27,Ridge,0.64
+USPS,5,27,Shrinkage LDA,0.77
+USPS,5,28,L-2DLDA+,0.788
+USPS,5,28,DATER-reg,0.782
+USPS,5,28,MPCA,0.79
+USPS,5,28,2DLDA,0.79
+USPS,5,28,Nearest centroid,0.79
+USPS,5,28,Ridge,0.674
+USPS,5,28,Shrinkage LDA,0.804
+USPS,5,29,L-2DLDA+,0.772
+USPS,5,29,DATER-reg,0.768
+USPS,5,29,MPCA,0.776
+USPS,5,29,2DLDA,0.776
+USPS,5,29,Nearest centroid,0.776
+USPS,5,29,Ridge,0.622
+USPS,5,29,Shrinkage LDA,0.744
+USPS,5,30,L-2DLDA+,0.768
+USPS,5,30,DATER-reg,0.768
+USPS,5,30,MPCA,0.748
+USPS,5,30,2DLDA,0.75
+USPS,5,30,Nearest centroid,0.75
+USPS,5,30,Ridge,0.64
+USPS,5,30,Shrinkage LDA,0.732
+USPS,5,31,L-2DLDA+,0.748
+USPS,5,31,DATER-reg,0.74
+USPS,5,31,MPCA,0.732
+USPS,5,31,2DLDA,0.732
+USPS,5,31,Nearest centroid,0.732
+USPS,5,31,Ridge,0.594
+USPS,5,31,Shrinkage LDA,0.698
+USPS,5,32,L-2DLDA+,0.746
+USPS,5,32,DATER-reg,0.756
+USPS,5,32,MPCA,0.746
+USPS,5,32,2DLDA,0.746
+USPS,5,32,Nearest centroid,0.748
+USPS,5,32,Ridge,0.662
+USPS,5,32,Shrinkage LDA,0.78
+USPS,5,33,L-2DLDA+,0.784
+USPS,5,33,DATER-reg,0.786
+USPS,5,33,MPCA,0.792
+USPS,5,33,2DLDA,0.792
+USPS,5,33,Nearest centroid,0.792
+USPS,5,33,Ridge,0.636
+USPS,5,33,Shrinkage LDA,0.804
+USPS,5,34,L-2DLDA+,0.776
+USPS,5,34,DATER-reg,0.754
+USPS,5,34,MPCA,0.752
+USPS,5,34,2DLDA,0.752
+USPS,5,34,Nearest centroid,0.752
+USPS,5,34,Ridge,0.644
+USPS,5,34,Shrinkage LDA,0.78
+USPS,5,35,L-2DLDA+,0.792
+USPS,5,35,DATER-reg,0.778
+USPS,5,35,MPCA,0.784
+USPS,5,35,2DLDA,0.784
+USPS,5,35,Nearest centroid,0.784
+USPS,5,35,Ridge,0.642
+USPS,5,35,Shrinkage LDA,0.768
+USPS,5,36,L-2DLDA+,0.802
+USPS,5,36,DATER-reg,0.812
+USPS,5,36,MPCA,0.802
+USPS,5,36,2DLDA,0.802
+USPS,5,36,Nearest centroid,0.802
+USPS,5,36,Ridge,0.66
+USPS,5,36,Shrinkage LDA,0.778
+USPS,5,37,L-2DLDA+,0.748
+USPS,5,37,DATER-reg,0.746
+USPS,5,37,MPCA,0.744
+USPS,5,37,2DLDA,0.744
+USPS,5,37,Nearest centroid,0.744
+USPS,5,37,Ridge,0.64
+USPS,5,37,Shrinkage LDA,0.734
+USPS,5,38,L-2DLDA+,0.77
+USPS,5,38,DATER-reg,0.764
+USPS,5,38,MPCA,0.758
+USPS,5,38,2DLDA,0.758
+USPS,5,38,Nearest centroid,0.758
+USPS,5,38,Ridge,0.598
+USPS,5,38,Shrinkage LDA,0.782
+USPS,5,39,L-2DLDA+,0.772
+USPS,5,39,DATER-reg,0.768
+USPS,5,39,MPCA,0.776
+USPS,5,39,2DLDA,0.776
+USPS,5,39,Nearest centroid,0.776
+USPS,5,39,Ridge,0.6
+USPS,5,39,Shrinkage LDA,0.776
+USPS,5,40,L-2DLDA+,0.74
+USPS,5,40,DATER-reg,0.732
+USPS,5,40,MPCA,0.732
+USPS,5,40,2DLDA,0.732
+USPS,5,40,Nearest centroid,0.732
+USPS,5,40,Ridge,0.594
+USPS,5,40,Shrinkage LDA,0.71
+USPS,5,41,L-2DLDA+,0.756
+USPS,5,41,DATER-reg,0.744
+USPS,5,41,MPCA,0.74
+USPS,5,41,2DLDA,0.74
+USPS,5,41,Nearest centroid,0.74
+USPS,5,41,Ridge,0.67
+USPS,5,41,Shrinkage LDA,0.75
+USPS,5,42,L-2DLDA+,0.792
+USPS,5,42,DATER-reg,0.798
+USPS,5,42,MPCA,0.79
+USPS,5,42,2DLDA,0.79
+USPS,5,42,Nearest centroid,0.79
+USPS,5,42,Ridge,0.664
+USPS,5,42,Shrinkage LDA,0.79
+USPS,5,43,L-2DLDA+,0.81
+USPS,5,43,DATER-reg,0.812
+USPS,5,43,MPCA,0.81
+USPS,5,43,2DLDA,0.81
+USPS,5,43,Nearest centroid,0.81
+USPS,5,43,Ridge,0.662
+USPS,5,43,Shrinkage LDA,0.812
+USPS,5,44,L-2DLDA+,0.714
+USPS,5,44,DATER-reg,0.734
+USPS,5,44,MPCA,0.726
+USPS,5,44,2DLDA,0.726
+USPS,5,44,Nearest centroid,0.726
+USPS,5,44,Ridge,0.606
+USPS,5,44,Shrinkage LDA,0.692
+USPS,5,45,L-2DLDA+,0.772
+USPS,5,45,DATER-reg,0.772
+USPS,5,45,MPCA,0.764
+USPS,5,45,2DLDA,0.764
+USPS,5,45,Nearest centroid,0.764
+USPS,5,45,Ridge,0.598
+USPS,5,45,Shrinkage LDA,0.728
+USPS,5,46,L-2DLDA+,0.758
+USPS,5,46,DATER-reg,0.756
+USPS,5,46,MPCA,0.758
+USPS,5,46,2DLDA,0.758
+USPS,5,46,Nearest centroid,0.758
+USPS,5,46,Ridge,0.656
+USPS,5,46,Shrinkage LDA,0.77
+USPS,5,47,L-2DLDA+,0.756
+USPS,5,47,DATER-reg,0.758
+USPS,5,47,MPCA,0.76
+USPS,5,47,2DLDA,0.76
+USPS,5,47,Nearest centroid,0.76
+USPS,5,47,Ridge,0.632
+USPS,5,47,Shrinkage LDA,0.756
+USPS,5,48,L-2DLDA+,0.824
+USPS,5,48,DATER-reg,0.812
+USPS,5,48,MPCA,0.812
+USPS,5,48,2DLDA,0.812
+USPS,5,48,Nearest centroid,0.812
+USPS,5,48,Ridge,0.68
+USPS,5,48,Shrinkage LDA,0.818
+USPS,5,49,L-2DLDA+,0.758
+USPS,5,49,DATER-reg,0.754
+USPS,5,49,MPCA,0.758
+USPS,5,49,2DLDA,0.758
+USPS,5,49,Nearest centroid,0.758
+USPS,5,49,Ridge,0.682
+USPS,5,49,Shrinkage LDA,0.77
+MNIST,3,0,L-2DLDA+,0.632
+MNIST,3,0,DATER-reg,0.594
+MNIST,3,0,MPCA,0.61
+MNIST,3,0,2DLDA,0.606
+MNIST,3,0,Nearest centroid,0.608
+MNIST,3,0,Ridge,0.564
+MNIST,3,0,Shrinkage LDA,0.574
+MNIST,3,1,L-2DLDA+,0.576
+MNIST,3,1,DATER-reg,0.558
+MNIST,3,1,MPCA,0.56
+MNIST,3,1,2DLDA,0.562
+MNIST,3,1,Nearest centroid,0.558
+MNIST,3,1,Ridge,0.528
+MNIST,3,1,Shrinkage LDA,0.55
+MNIST,3,2,L-2DLDA+,0.568
+MNIST,3,2,DATER-reg,0.548
+MNIST,3,2,MPCA,0.56
+MNIST,3,2,2DLDA,0.554
+MNIST,3,2,Nearest centroid,0.554
+MNIST,3,2,Ridge,0.482
+MNIST,3,2,Shrinkage LDA,0.472
+MNIST,3,3,L-2DLDA+,0.686
+MNIST,3,3,DATER-reg,0.65
+MNIST,3,3,MPCA,0.664
+MNIST,3,3,2DLDA,0.656
+MNIST,3,3,Nearest centroid,0.668
+MNIST,3,3,Ridge,0.542
+MNIST,3,3,Shrinkage LDA,0.556
+MNIST,3,4,L-2DLDA+,0.624
+MNIST,3,4,DATER-reg,0.596
+MNIST,3,4,MPCA,0.628
+MNIST,3,4,2DLDA,0.618
+MNIST,3,4,Nearest centroid,0.622
+MNIST,3,4,Ridge,0.508
+MNIST,3,4,Shrinkage LDA,0.508
+MNIST,3,5,L-2DLDA+,0.598
+MNIST,3,5,DATER-reg,0.552
+MNIST,3,5,MPCA,0.574
+MNIST,3,5,2DLDA,0.574
+MNIST,3,5,Nearest centroid,0.574
+MNIST,3,5,Ridge,0.508
+MNIST,3,5,Shrinkage LDA,0.588
+MNIST,3,6,L-2DLDA+,0.598
+MNIST,3,6,DATER-reg,0.582
+MNIST,3,6,MPCA,0.576
+MNIST,3,6,2DLDA,0.58
+MNIST,3,6,Nearest centroid,0.58
+MNIST,3,6,Ridge,0.556
+MNIST,3,6,Shrinkage LDA,0.56
+MNIST,3,7,L-2DLDA+,0.608
+MNIST,3,7,DATER-reg,0.574
+MNIST,3,7,MPCA,0.58
+MNIST,3,7,2DLDA,0.592
+MNIST,3,7,Nearest centroid,0.584
+MNIST,3,7,Ridge,0.518
+MNIST,3,7,Shrinkage LDA,0.542
+MNIST,3,8,L-2DLDA+,0.634
+MNIST,3,8,DATER-reg,0.612
+MNIST,3,8,MPCA,0.632
+MNIST,3,8,2DLDA,0.626
+MNIST,3,8,Nearest centroid,0.614
+MNIST,3,8,Ridge,0.59
+MNIST,3,8,Shrinkage LDA,0.56
+MNIST,3,9,L-2DLDA+,0.626
+MNIST,3,9,DATER-reg,0.578
+MNIST,3,9,MPCA,0.6
+MNIST,3,9,2DLDA,0.594
+MNIST,3,9,Nearest centroid,0.586
+MNIST,3,9,Ridge,0.532
+MNIST,3,9,Shrinkage LDA,0.548
+MNIST,3,10,L-2DLDA+,0.544
+MNIST,3,10,DATER-reg,0.526
+MNIST,3,10,MPCA,0.54
+MNIST,3,10,2DLDA,0.536
+MNIST,3,10,Nearest centroid,0.534
+MNIST,3,10,Ridge,0.538
+MNIST,3,10,Shrinkage LDA,0.54
+MNIST,3,11,L-2DLDA+,0.636
+MNIST,3,11,DATER-reg,0.612
+MNIST,3,11,MPCA,0.614
+MNIST,3,11,2DLDA,0.62
+MNIST,3,11,Nearest centroid,0.622
+MNIST,3,11,Ridge,0.578
+MNIST,3,11,Shrinkage LDA,0.592
+MNIST,3,12,L-2DLDA+,0.532
+MNIST,3,12,DATER-reg,0.508
+MNIST,3,12,MPCA,0.524
+MNIST,3,12,2DLDA,0.524
+MNIST,3,12,Nearest centroid,0.524
+MNIST,3,12,Ridge,0.49
+MNIST,3,12,Shrinkage LDA,0.492
+MNIST,3,13,L-2DLDA+,0.646
+MNIST,3,13,DATER-reg,0.652
+MNIST,3,13,MPCA,0.654
+MNIST,3,13,2DLDA,0.65
+MNIST,3,13,Nearest centroid,0.658
+MNIST,3,13,Ridge,0.624
+MNIST,3,13,Shrinkage LDA,0.632
+MNIST,3,14,L-2DLDA+,0.584
+MNIST,3,14,DATER-reg,0.556
+MNIST,3,14,MPCA,0.562
+MNIST,3,14,2DLDA,0.564
+MNIST,3,14,Nearest centroid,0.558
+MNIST,3,14,Ridge,0.55
+MNIST,3,14,Shrinkage LDA,0.494
+MNIST,3,15,L-2DLDA+,0.568
+MNIST,3,15,DATER-reg,0.542
+MNIST,3,15,MPCA,0.55
+MNIST,3,15,2DLDA,0.562
+MNIST,3,15,Nearest centroid,0.556
+MNIST,3,15,Ridge,0.564
+MNIST,3,15,Shrinkage LDA,0.554
+MNIST,3,16,L-2DLDA+,0.566
+MNIST,3,16,DATER-reg,0.526
+MNIST,3,16,MPCA,0.534
+MNIST,3,16,2DLDA,0.532
+MNIST,3,16,Nearest centroid,0.538
+MNIST,3,16,Ridge,0.532
+MNIST,3,16,Shrinkage LDA,0.518
+MNIST,3,17,L-2DLDA+,0.644
+MNIST,3,17,DATER-reg,0.598
+MNIST,3,17,MPCA,0.612
+MNIST,3,17,2DLDA,0.616
+MNIST,3,17,Nearest centroid,0.62
+MNIST,3,17,Ridge,0.542
+MNIST,3,17,Shrinkage LDA,0.544
+MNIST,3,18,L-2DLDA+,0.684
+MNIST,3,18,DATER-reg,0.638
+MNIST,3,18,MPCA,0.652
+MNIST,3,18,2DLDA,0.654
+MNIST,3,18,Nearest centroid,0.654
+MNIST,3,18,Ridge,0.518
+MNIST,3,18,Shrinkage LDA,0.574
+MNIST,3,19,L-2DLDA+,0.55
+MNIST,3,19,DATER-reg,0.518
+MNIST,3,19,MPCA,0.526
+MNIST,3,19,2DLDA,0.532
+MNIST,3,19,Nearest centroid,0.532
+MNIST,3,19,Ridge,0.446
+MNIST,3,19,Shrinkage LDA,0.482
+MNIST,3,20,L-2DLDA+,0.606
+MNIST,3,20,DATER-reg,0.588
+MNIST,3,20,MPCA,0.59
+MNIST,3,20,2DLDA,0.586
+MNIST,3,20,Nearest centroid,0.59
+MNIST,3,20,Ridge,0.574
+MNIST,3,20,Shrinkage LDA,0.568
+MNIST,3,21,L-2DLDA+,0.542
+MNIST,3,21,DATER-reg,0.496
+MNIST,3,21,MPCA,0.506
+MNIST,3,21,2DLDA,0.504
+MNIST,3,21,Nearest centroid,0.502
+MNIST,3,21,Ridge,0.474
+MNIST,3,21,Shrinkage LDA,0.432
+MNIST,3,22,L-2DLDA+,0.644
+MNIST,3,22,DATER-reg,0.622
+MNIST,3,22,MPCA,0.634
+MNIST,3,22,2DLDA,0.636
+MNIST,3,22,Nearest centroid,0.624
+MNIST,3,22,Ridge,0.6
+MNIST,3,22,Shrinkage LDA,0.564
+MNIST,3,23,L-2DLDA+,0.578
+MNIST,3,23,DATER-reg,0.542
+MNIST,3,23,MPCA,0.558
+MNIST,3,23,2DLDA,0.556
+MNIST,3,23,Nearest centroid,0.556
+MNIST,3,23,Ridge,0.462
+MNIST,3,23,Shrinkage LDA,0.506
+MNIST,3,24,L-2DLDA+,0.602
+MNIST,3,24,DATER-reg,0.562
+MNIST,3,24,MPCA,0.584
+MNIST,3,24,2DLDA,0.582
+MNIST,3,24,Nearest centroid,0.576
+MNIST,3,24,Ridge,0.498
+MNIST,3,24,Shrinkage LDA,0.54
+MNIST,3,25,L-2DLDA+,0.64
+MNIST,3,25,DATER-reg,0.598
+MNIST,3,25,MPCA,0.62
+MNIST,3,25,2DLDA,0.622
+MNIST,3,25,Nearest centroid,0.622
+MNIST,3,25,Ridge,0.554
+MNIST,3,25,Shrinkage LDA,0.524
+MNIST,3,26,L-2DLDA+,0.694
+MNIST,3,26,DATER-reg,0.648
+MNIST,3,26,MPCA,0.664
+MNIST,3,26,2DLDA,0.658
+MNIST,3,26,Nearest centroid,0.652
+MNIST,3,26,Ridge,0.524
+MNIST,3,26,Shrinkage LDA,0.552
+MNIST,3,27,L-2DLDA+,0.594
+MNIST,3,27,DATER-reg,0.558
+MNIST,3,27,MPCA,0.574
+MNIST,3,27,2DLDA,0.572
+MNIST,3,27,Nearest centroid,0.574
+MNIST,3,27,Ridge,0.55
+MNIST,3,27,Shrinkage LDA,0.534
+MNIST,3,28,L-2DLDA+,0.606
+MNIST,3,28,DATER-reg,0.552
+MNIST,3,28,MPCA,0.566
+MNIST,3,28,2DLDA,0.57
+MNIST,3,28,Nearest centroid,0.574
+MNIST,3,28,Ridge,0.548
+MNIST,3,28,Shrinkage LDA,0.572
+MNIST,3,29,L-2DLDA+,0.65
+MNIST,3,29,DATER-reg,0.632
+MNIST,3,29,MPCA,0.65
+MNIST,3,29,2DLDA,0.646
+MNIST,3,29,Nearest centroid,0.646
+MNIST,3,29,Ridge,0.57
+MNIST,3,29,Shrinkage LDA,0.552
+MNIST,3,30,L-2DLDA+,0.622
+MNIST,3,30,DATER-reg,0.612
+MNIST,3,30,MPCA,0.61
+MNIST,3,30,2DLDA,0.612
+MNIST,3,30,Nearest centroid,0.612
+MNIST,3,30,Ridge,0.57
+MNIST,3,30,Shrinkage LDA,0.62
+MNIST,3,31,L-2DLDA+,0.59
+MNIST,3,31,DATER-reg,0.558
+MNIST,3,31,MPCA,0.57
+MNIST,3,31,2DLDA,0.574
+MNIST,3,31,Nearest centroid,0.57
+MNIST,3,31,Ridge,0.5
+MNIST,3,31,Shrinkage LDA,0.496
+MNIST,3,32,L-2DLDA+,0.582
+MNIST,3,32,DATER-reg,0.552
+MNIST,3,32,MPCA,0.564
+MNIST,3,32,2DLDA,0.562
+MNIST,3,32,Nearest centroid,0.554
+MNIST,3,32,Ridge,0.588
+MNIST,3,32,Shrinkage LDA,0.566
+MNIST,3,33,L-2DLDA+,0.566
+MNIST,3,33,DATER-reg,0.546
+MNIST,3,33,MPCA,0.552
+MNIST,3,33,2DLDA,0.55
+MNIST,3,33,Nearest centroid,0.558
+MNIST,3,33,Ridge,0.55
+MNIST,3,33,Shrinkage LDA,0.55
+MNIST,3,34,L-2DLDA+,0.628
+MNIST,3,34,DATER-reg,0.59
+MNIST,3,34,MPCA,0.61
+MNIST,3,34,2DLDA,0.606
+MNIST,3,34,Nearest centroid,0.606
+MNIST,3,34,Ridge,0.546
+MNIST,3,34,Shrinkage LDA,0.54
+MNIST,3,35,L-2DLDA+,0.578
+MNIST,3,35,DATER-reg,0.53
+MNIST,3,35,MPCA,0.54
+MNIST,3,35,2DLDA,0.54
+MNIST,3,35,Nearest centroid,0.528
+MNIST,3,35,Ridge,0.522
+MNIST,3,35,Shrinkage LDA,0.496
+MNIST,3,36,L-2DLDA+,0.57
+MNIST,3,36,DATER-reg,0.546
+MNIST,3,36,MPCA,0.56
+MNIST,3,36,2DLDA,0.556
+MNIST,3,36,Nearest centroid,0.552
+MNIST,3,36,Ridge,0.516
+MNIST,3,36,Shrinkage LDA,0.508
+MNIST,3,37,L-2DLDA+,0.612
+MNIST,3,37,DATER-reg,0.602
+MNIST,3,37,MPCA,0.592
+MNIST,3,37,2DLDA,0.592
+MNIST,3,37,Nearest centroid,0.592
+MNIST,3,37,Ridge,0.52
+MNIST,3,37,Shrinkage LDA,0.54
+MNIST,3,38,L-2DLDA+,0.646
+MNIST,3,38,DATER-reg,0.596
+MNIST,3,38,MPCA,0.608
+MNIST,3,38,2DLDA,0.602
+MNIST,3,38,Nearest centroid,0.606
+MNIST,3,38,Ridge,0.52
+MNIST,3,38,Shrinkage LDA,0.55
+MNIST,3,39,L-2DLDA+,0.636
+MNIST,3,39,DATER-reg,0.574
+MNIST,3,39,MPCA,0.606
+MNIST,3,39,2DLDA,0.598
+MNIST,3,39,Nearest centroid,0.596
+MNIST,3,39,Ridge,0.506
+MNIST,3,39,Shrinkage LDA,0.522
+MNIST,3,40,L-2DLDA+,0.67
+MNIST,3,40,DATER-reg,0.64
+MNIST,3,40,MPCA,0.636
+MNIST,3,40,2DLDA,0.638
+MNIST,3,40,Nearest centroid,0.64
+MNIST,3,40,Ridge,0.59
+MNIST,3,40,Shrinkage LDA,0.58
+MNIST,3,41,L-2DLDA+,0.626
+MNIST,3,41,DATER-reg,0.62
+MNIST,3,41,MPCA,0.618
+MNIST,3,41,2DLDA,0.618
+MNIST,3,41,Nearest centroid,0.614
+MNIST,3,41,Ridge,0.562
+MNIST,3,41,Shrinkage LDA,0.558
+MNIST,3,42,L-2DLDA+,0.606
+MNIST,3,42,DATER-reg,0.576
+MNIST,3,42,MPCA,0.59
+MNIST,3,42,2DLDA,0.592
+MNIST,3,42,Nearest centroid,0.588
+MNIST,3,42,Ridge,0.56
+MNIST,3,42,Shrinkage LDA,0.538
+MNIST,3,43,L-2DLDA+,0.648
+MNIST,3,43,DATER-reg,0.642
+MNIST,3,43,MPCA,0.64
+MNIST,3,43,2DLDA,0.644
+MNIST,3,43,Nearest centroid,0.638
+MNIST,3,43,Ridge,0.596
+MNIST,3,43,Shrinkage LDA,0.612
+MNIST,3,44,L-2DLDA+,0.686
+MNIST,3,44,DATER-reg,0.644
+MNIST,3,44,MPCA,0.644
+MNIST,3,44,2DLDA,0.654
+MNIST,3,44,Nearest centroid,0.652
+MNIST,3,44,Ridge,0.556
+MNIST,3,44,Shrinkage LDA,0.568
+MNIST,3,45,L-2DLDA+,0.524
+MNIST,3,45,DATER-reg,0.528
+MNIST,3,45,MPCA,0.534
+MNIST,3,45,2DLDA,0.538
+MNIST,3,45,Nearest centroid,0.542
+MNIST,3,45,Ridge,0.51
+MNIST,3,45,Shrinkage LDA,0.508
+MNIST,3,46,L-2DLDA+,0.614
+MNIST,3,46,DATER-reg,0.572
+MNIST,3,46,MPCA,0.592
+MNIST,3,46,2DLDA,0.588
+MNIST,3,46,Nearest centroid,0.582
+MNIST,3,46,Ridge,0.51
+MNIST,3,46,Shrinkage LDA,0.486
+MNIST,3,47,L-2DLDA+,0.58
+MNIST,3,47,DATER-reg,0.558
+MNIST,3,47,MPCA,0.574
+MNIST,3,47,2DLDA,0.57
+MNIST,3,47,Nearest centroid,0.568
+MNIST,3,47,Ridge,0.464
+MNIST,3,47,Shrinkage LDA,0.466
+MNIST,3,48,L-2DLDA+,0.686
+MNIST,3,48,DATER-reg,0.654
+MNIST,3,48,MPCA,0.66
+MNIST,3,48,2DLDA,0.664
+MNIST,3,48,Nearest centroid,0.662
+MNIST,3,48,Ridge,0.602
+MNIST,3,48,Shrinkage LDA,0.554
+MNIST,3,49,L-2DLDA+,0.62
+MNIST,3,49,DATER-reg,0.592
+MNIST,3,49,MPCA,0.586
+MNIST,3,49,2DLDA,0.582
+MNIST,3,49,Nearest centroid,0.592
+MNIST,3,49,Ridge,0.528
+MNIST,3,49,Shrinkage LDA,0.52
+MNIST,5,0,L-2DLDA+,0.744
+MNIST,5,0,DATER-reg,0.702
+MNIST,5,0,MPCA,0.716
+MNIST,5,0,2DLDA,0.726
+MNIST,5,0,Nearest centroid,0.714
+MNIST,5,0,Ridge,0.6
+MNIST,5,0,Shrinkage LDA,0.636
+MNIST,5,1,L-2DLDA+,0.696
+MNIST,5,1,DATER-reg,0.664
+MNIST,5,1,MPCA,0.672
+MNIST,5,1,2DLDA,0.672
+MNIST,5,1,Nearest centroid,0.662
+MNIST,5,1,Ridge,0.624
+MNIST,5,1,Shrinkage LDA,0.638
+MNIST,5,2,L-2DLDA+,0.714
+MNIST,5,2,DATER-reg,0.672
+MNIST,5,2,MPCA,0.678
+MNIST,5,2,2DLDA,0.678
+MNIST,5,2,Nearest centroid,0.68
+MNIST,5,2,Ridge,0.624
+MNIST,5,2,Shrinkage LDA,0.62
+MNIST,5,3,L-2DLDA+,0.73
+MNIST,5,3,DATER-reg,0.716
+MNIST,5,3,MPCA,0.718
+MNIST,5,3,2DLDA,0.718
+MNIST,5,3,Nearest centroid,0.728
+MNIST,5,3,Ridge,0.66
+MNIST,5,3,Shrinkage LDA,0.704
+MNIST,5,4,L-2DLDA+,0.688
+MNIST,5,4,DATER-reg,0.652
+MNIST,5,4,MPCA,0.664
+MNIST,5,4,2DLDA,0.662
+MNIST,5,4,Nearest centroid,0.664
+MNIST,5,4,Ridge,0.584
+MNIST,5,4,Shrinkage LDA,0.59
+MNIST,5,5,L-2DLDA+,0.638
+MNIST,5,5,DATER-reg,0.602
+MNIST,5,5,MPCA,0.622
+MNIST,5,5,2DLDA,0.62
+MNIST,5,5,Nearest centroid,0.614
+MNIST,5,5,Ridge,0.57
+MNIST,5,5,Shrinkage LDA,0.608
+MNIST,5,6,L-2DLDA+,0.682
+MNIST,5,6,DATER-reg,0.662
+MNIST,5,6,MPCA,0.66
+MNIST,5,6,2DLDA,0.666
+MNIST,5,6,Nearest centroid,0.664
+MNIST,5,6,Ridge,0.644
+MNIST,5,6,Shrinkage LDA,0.7
+MNIST,5,7,L-2DLDA+,0.68
+MNIST,5,7,DATER-reg,0.666
+MNIST,5,7,MPCA,0.664
+MNIST,5,7,2DLDA,0.668
+MNIST,5,7,Nearest centroid,0.672
+MNIST,5,7,Ridge,0.594
+MNIST,5,7,Shrinkage LDA,0.658
+MNIST,5,8,L-2DLDA+,0.682
+MNIST,5,8,DATER-reg,0.654
+MNIST,5,8,MPCA,0.658
+MNIST,5,8,2DLDA,0.664
+MNIST,5,8,Nearest centroid,0.664
+MNIST,5,8,Ridge,0.568
+MNIST,5,8,Shrinkage LDA,0.642
+MNIST,5,9,L-2DLDA+,0.694
+MNIST,5,9,DATER-reg,0.682
+MNIST,5,9,MPCA,0.674
+MNIST,5,9,2DLDA,0.684
+MNIST,5,9,Nearest centroid,0.676
+MNIST,5,9,Ridge,0.568
+MNIST,5,9,Shrinkage LDA,0.584
+MNIST,5,10,L-2DLDA+,0.684
+MNIST,5,10,DATER-reg,0.64
+MNIST,5,10,MPCA,0.664
+MNIST,5,10,2DLDA,0.66
+MNIST,5,10,Nearest centroid,0.668
+MNIST,5,10,Ridge,0.562
+MNIST,5,10,Shrinkage LDA,0.614
+MNIST,5,11,L-2DLDA+,0.64
+MNIST,5,11,DATER-reg,0.634
+MNIST,5,11,MPCA,0.642
+MNIST,5,11,2DLDA,0.638
+MNIST,5,11,Nearest centroid,0.64
+MNIST,5,11,Ridge,0.61
+MNIST,5,11,Shrinkage LDA,0.618
+MNIST,5,12,L-2DLDA+,0.706
+MNIST,5,12,DATER-reg,0.684
+MNIST,5,12,MPCA,0.678
+MNIST,5,12,2DLDA,0.68
+MNIST,5,12,Nearest centroid,0.69
+MNIST,5,12,Ridge,0.656
+MNIST,5,12,Shrinkage LDA,0.668
+MNIST,5,13,L-2DLDA+,0.606
+MNIST,5,13,DATER-reg,0.59
+MNIST,5,13,MPCA,0.588
+MNIST,5,13,2DLDA,0.592
+MNIST,5,13,Nearest centroid,0.594
+MNIST,5,13,Ridge,0.522
+MNIST,5,13,Shrinkage LDA,0.554
+MNIST,5,14,L-2DLDA+,0.742
+MNIST,5,14,DATER-reg,0.722
+MNIST,5,14,MPCA,0.716
+MNIST,5,14,2DLDA,0.716
+MNIST,5,14,Nearest centroid,0.718
+MNIST,5,14,Ridge,0.642
+MNIST,5,14,Shrinkage LDA,0.666
+MNIST,5,15,L-2DLDA+,0.72
+MNIST,5,15,DATER-reg,0.694
+MNIST,5,15,MPCA,0.704
+MNIST,5,15,2DLDA,0.704
+MNIST,5,15,Nearest centroid,0.706
+MNIST,5,15,Ridge,0.614
+MNIST,5,15,Shrinkage LDA,0.652
+MNIST,5,16,L-2DLDA+,0.65
+MNIST,5,16,DATER-reg,0.626
+MNIST,5,16,MPCA,0.616
+MNIST,5,16,2DLDA,0.618
+MNIST,5,16,Nearest centroid,0.618
+MNIST,5,16,Ridge,0.562
+MNIST,5,16,Shrinkage LDA,0.614
+MNIST,5,17,L-2DLDA+,0.678
+MNIST,5,17,DATER-reg,0.668
+MNIST,5,17,MPCA,0.662
+MNIST,5,17,2DLDA,0.67
+MNIST,5,17,Nearest centroid,0.662
+MNIST,5,17,Ridge,0.596
+MNIST,5,17,Shrinkage LDA,0.592
+MNIST,5,18,L-2DLDA+,0.722
+MNIST,5,18,DATER-reg,0.698
+MNIST,5,18,MPCA,0.706
+MNIST,5,18,2DLDA,0.706
+MNIST,5,18,Nearest centroid,0.71
+MNIST,5,18,Ridge,0.62
+MNIST,5,18,Shrinkage LDA,0.654
+MNIST,5,19,L-2DLDA+,0.686
+MNIST,5,19,DATER-reg,0.67
+MNIST,5,19,MPCA,0.666
+MNIST,5,19,2DLDA,0.664
+MNIST,5,19,Nearest centroid,0.67
+MNIST,5,19,Ridge,0.612
+MNIST,5,19,Shrinkage LDA,0.644
+MNIST,5,20,L-2DLDA+,0.68
+MNIST,5,20,DATER-reg,0.652
+MNIST,5,20,MPCA,0.672
+MNIST,5,20,2DLDA,0.674
+MNIST,5,20,Nearest centroid,0.678
+MNIST,5,20,Ridge,0.542
+MNIST,5,20,Shrinkage LDA,0.57
+MNIST,5,21,L-2DLDA+,0.696
+MNIST,5,21,DATER-reg,0.638
+MNIST,5,21,MPCA,0.658
+MNIST,5,21,2DLDA,0.664
+MNIST,5,21,Nearest centroid,0.66
+MNIST,5,21,Ridge,0.608
+MNIST,5,21,Shrinkage LDA,0.618
+MNIST,5,22,L-2DLDA+,0.674
+MNIST,5,22,DATER-reg,0.662
+MNIST,5,22,MPCA,0.658
+MNIST,5,22,2DLDA,0.658
+MNIST,5,22,Nearest centroid,0.66
+MNIST,5,22,Ridge,0.57
+MNIST,5,22,Shrinkage LDA,0.602
+MNIST,5,23,L-2DLDA+,0.666
+MNIST,5,23,DATER-reg,0.634
+MNIST,5,23,MPCA,0.64
+MNIST,5,23,2DLDA,0.642
+MNIST,5,23,Nearest centroid,0.646
+MNIST,5,23,Ridge,0.63
+MNIST,5,23,Shrinkage LDA,0.666
+MNIST,5,24,L-2DLDA+,0.634
+MNIST,5,24,DATER-reg,0.628
+MNIST,5,24,MPCA,0.624
+MNIST,5,24,2DLDA,0.628
+MNIST,5,24,Nearest centroid,0.628
+MNIST,5,24,Ridge,0.61
+MNIST,5,24,Shrinkage LDA,0.614
+MNIST,5,25,L-2DLDA+,0.584
+MNIST,5,25,DATER-reg,0.546
+MNIST,5,25,MPCA,0.566
+MNIST,5,25,2DLDA,0.568
+MNIST,5,25,Nearest centroid,0.57
+MNIST,5,25,Ridge,0.582
+MNIST,5,25,Shrinkage LDA,0.57
+MNIST,5,26,L-2DLDA+,0.682
+MNIST,5,26,DATER-reg,0.656
+MNIST,5,26,MPCA,0.68
+MNIST,5,26,2DLDA,0.68
+MNIST,5,26,Nearest centroid,0.676
+MNIST,5,26,Ridge,0.598
+MNIST,5,26,Shrinkage LDA,0.624
+MNIST,5,27,L-2DLDA+,0.63
+MNIST,5,27,DATER-reg,0.61
+MNIST,5,27,MPCA,0.62
+MNIST,5,27,2DLDA,0.622
+MNIST,5,27,Nearest centroid,0.618
+MNIST,5,27,Ridge,0.564
+MNIST,5,27,Shrinkage LDA,0.612
+MNIST,5,28,L-2DLDA+,0.692
+MNIST,5,28,DATER-reg,0.676
+MNIST,5,28,MPCA,0.672
+MNIST,5,28,2DLDA,0.68
+MNIST,5,28,Nearest centroid,0.672
+MNIST,5,28,Ridge,0.618
+MNIST,5,28,Shrinkage LDA,0.658
+MNIST,5,29,L-2DLDA+,0.716
+MNIST,5,29,DATER-reg,0.66
+MNIST,5,29,MPCA,0.696
+MNIST,5,29,2DLDA,0.692
+MNIST,5,29,Nearest centroid,0.686
+MNIST,5,29,Ridge,0.568
+MNIST,5,29,Shrinkage LDA,0.642
+MNIST,5,30,L-2DLDA+,0.714
+MNIST,5,30,DATER-reg,0.688
+MNIST,5,30,MPCA,0.704
+MNIST,5,30,2DLDA,0.704
+MNIST,5,30,Nearest centroid,0.702
+MNIST,5,30,Ridge,0.608
+MNIST,5,30,Shrinkage LDA,0.636
+MNIST,5,31,L-2DLDA+,0.652
+MNIST,5,31,DATER-reg,0.638
+MNIST,5,31,MPCA,0.648
+MNIST,5,31,2DLDA,0.646
+MNIST,5,31,Nearest centroid,0.646
+MNIST,5,31,Ridge,0.606
+MNIST,5,31,Shrinkage LDA,0.622
+MNIST,5,32,L-2DLDA+,0.61
+MNIST,5,32,DATER-reg,0.608
+MNIST,5,32,MPCA,0.6
+MNIST,5,32,2DLDA,0.604
+MNIST,5,32,Nearest centroid,0.606
+MNIST,5,32,Ridge,0.556
+MNIST,5,32,Shrinkage LDA,0.566
+MNIST,5,33,L-2DLDA+,0.668
+MNIST,5,33,DATER-reg,0.632
+MNIST,5,33,MPCA,0.65
+MNIST,5,33,2DLDA,0.654
+MNIST,5,33,Nearest centroid,0.648
+MNIST,5,33,Ridge,0.596
+MNIST,5,33,Shrinkage LDA,0.584
+MNIST,5,34,L-2DLDA+,0.66
+MNIST,5,34,DATER-reg,0.64
+MNIST,5,34,MPCA,0.65
+MNIST,5,34,2DLDA,0.648
+MNIST,5,34,Nearest centroid,0.65
+MNIST,5,34,Ridge,0.59
+MNIST,5,34,Shrinkage LDA,0.638
+MNIST,5,35,L-2DLDA+,0.666
+MNIST,5,35,DATER-reg,0.64
+MNIST,5,35,MPCA,0.668
+MNIST,5,35,2DLDA,0.666
+MNIST,5,35,Nearest centroid,0.67
+MNIST,5,35,Ridge,0.6
+MNIST,5,35,Shrinkage LDA,0.634
+MNIST,5,36,L-2DLDA+,0.658
+MNIST,5,36,DATER-reg,0.632
+MNIST,5,36,MPCA,0.646
+MNIST,5,36,2DLDA,0.642
+MNIST,5,36,Nearest centroid,0.636
+MNIST,5,36,Ridge,0.596
+MNIST,5,36,Shrinkage LDA,0.606
+MNIST,5,37,L-2DLDA+,0.648
+MNIST,5,37,DATER-reg,0.618
+MNIST,5,37,MPCA,0.628
+MNIST,5,37,2DLDA,0.626
+MNIST,5,37,Nearest centroid,0.624
+MNIST,5,37,Ridge,0.576
+MNIST,5,37,Shrinkage LDA,0.604
+MNIST,5,38,L-2DLDA+,0.732
+MNIST,5,38,DATER-reg,0.692
+MNIST,5,38,MPCA,0.702
+MNIST,5,38,2DLDA,0.7
+MNIST,5,38,Nearest centroid,0.702
+MNIST,5,38,Ridge,0.6
+MNIST,5,38,Shrinkage LDA,0.61
+MNIST,5,39,L-2DLDA+,0.678
+MNIST,5,39,DATER-reg,0.656
+MNIST,5,39,MPCA,0.674
+MNIST,5,39,2DLDA,0.672
+MNIST,5,39,Nearest centroid,0.67
+MNIST,5,39,Ridge,0.59
+MNIST,5,39,Shrinkage LDA,0.622
+MNIST,5,40,L-2DLDA+,0.74
+MNIST,5,40,DATER-reg,0.72
+MNIST,5,40,MPCA,0.722
+MNIST,5,40,2DLDA,0.73
+MNIST,5,40,Nearest centroid,0.73
+MNIST,5,40,Ridge,0.63
+MNIST,5,40,Shrinkage LDA,0.66
+MNIST,5,41,L-2DLDA+,0.69
+MNIST,5,41,DATER-reg,0.662
+MNIST,5,41,MPCA,0.674
+MNIST,5,41,2DLDA,0.674
+MNIST,5,41,Nearest centroid,0.678
+MNIST,5,41,Ridge,0.562
+MNIST,5,41,Shrinkage LDA,0.616
+MNIST,5,42,L-2DLDA+,0.71
+MNIST,5,42,DATER-reg,0.676
+MNIST,5,42,MPCA,0.672
+MNIST,5,42,2DLDA,0.68
+MNIST,5,42,Nearest centroid,0.68
+MNIST,5,42,Ridge,0.632
+MNIST,5,42,Shrinkage LDA,0.626
+MNIST,5,43,L-2DLDA+,0.604
+MNIST,5,43,DATER-reg,0.598
+MNIST,5,43,MPCA,0.604
+MNIST,5,43,2DLDA,0.608
+MNIST,5,43,Nearest centroid,0.602
+MNIST,5,43,Ridge,0.524
+MNIST,5,43,Shrinkage LDA,0.534
+MNIST,5,44,L-2DLDA+,0.67
+MNIST,5,44,DATER-reg,0.648
+MNIST,5,44,MPCA,0.654
+MNIST,5,44,2DLDA,0.664
+MNIST,5,44,Nearest centroid,0.656
+MNIST,5,44,Ridge,0.592
+MNIST,5,44,Shrinkage LDA,0.614
+MNIST,5,45,L-2DLDA+,0.72
+MNIST,5,45,DATER-reg,0.696
+MNIST,5,45,MPCA,0.71
+MNIST,5,45,2DLDA,0.712
+MNIST,5,45,Nearest centroid,0.716
+MNIST,5,45,Ridge,0.636
+MNIST,5,45,Shrinkage LDA,0.698
+MNIST,5,46,L-2DLDA+,0.69
+MNIST,5,46,DATER-reg,0.658
+MNIST,5,46,MPCA,0.672
+MNIST,5,46,2DLDA,0.664
+MNIST,5,46,Nearest centroid,0.66
+MNIST,5,46,Ridge,0.57
+MNIST,5,46,Shrinkage LDA,0.556
+MNIST,5,47,L-2DLDA+,0.684
+MNIST,5,47,DATER-reg,0.666
+MNIST,5,47,MPCA,0.676
+MNIST,5,47,2DLDA,0.68
+MNIST,5,47,Nearest centroid,0.68
+MNIST,5,47,Ridge,0.564
+MNIST,5,47,Shrinkage LDA,0.598
+MNIST,5,48,L-2DLDA+,0.658
+MNIST,5,48,DATER-reg,0.634
+MNIST,5,48,MPCA,0.642
+MNIST,5,48,2DLDA,0.644
+MNIST,5,48,Nearest centroid,0.646
+MNIST,5,48,Ridge,0.582
+MNIST,5,48,Shrinkage LDA,0.578
+MNIST,5,49,L-2DLDA+,0.69
+MNIST,5,49,DATER-reg,0.67
+MNIST,5,49,MPCA,0.67
+MNIST,5,49,2DLDA,0.678
+MNIST,5,49,Nearest centroid,0.674
+MNIST,5,49,Ridge,0.61
+MNIST,5,49,Shrinkage LDA,0.642
+"Digits-32, $\sigma=1.2$",5,0,L-2DLDA,0.638
+"Digits-32, $\sigma=1.2$",5,0,DATER-reg,0.616
+"Digits-32, $\sigma=1.2$",5,0,MPCA,0.576
+"Digits-32, $\sigma=1.2$",5,0,2DLDA,0.576
+"Digits-32, $\sigma=1.2$",5,0,Nearest centroid,0.57
+"Digits-32, $\sigma=1.2$",5,0,Ridge,0.49
+"Digits-32, $\sigma=1.2$",5,0,Shrinkage LDA,0.558
+"Digits-32, $\sigma=1.2$",5,1,L-2DLDA,0.582
+"Digits-32, $\sigma=1.2$",5,1,DATER-reg,0.576
+"Digits-32, $\sigma=1.2$",5,1,MPCA,0.536
+"Digits-32, $\sigma=1.2$",5,1,2DLDA,0.554
+"Digits-32, $\sigma=1.2$",5,1,Nearest centroid,0.562
+"Digits-32, $\sigma=1.2$",5,1,Ridge,0.464
+"Digits-32, $\sigma=1.2$",5,1,Shrinkage LDA,0.496
+"Digits-32, $\sigma=1.2$",5,2,L-2DLDA,0.622
+"Digits-32, $\sigma=1.2$",5,2,DATER-reg,0.606
+"Digits-32, $\sigma=1.2$",5,2,MPCA,0.548
+"Digits-32, $\sigma=1.2$",5,2,2DLDA,0.55
+"Digits-32, $\sigma=1.2$",5,2,Nearest centroid,0.55
+"Digits-32, $\sigma=1.2$",5,2,Ridge,0.414
+"Digits-32, $\sigma=1.2$",5,2,Shrinkage LDA,0.462
+"Digits-32, $\sigma=1.2$",5,3,L-2DLDA,0.61
+"Digits-32, $\sigma=1.2$",5,3,DATER-reg,0.59
+"Digits-32, $\sigma=1.2$",5,3,MPCA,0.568
+"Digits-32, $\sigma=1.2$",5,3,2DLDA,0.556
+"Digits-32, $\sigma=1.2$",5,3,Nearest centroid,0.554
+"Digits-32, $\sigma=1.2$",5,3,Ridge,0.478
+"Digits-32, $\sigma=1.2$",5,3,Shrinkage LDA,0.532
+"Digits-32, $\sigma=1.2$",5,4,L-2DLDA,0.632
+"Digits-32, $\sigma=1.2$",5,4,DATER-reg,0.61
+"Digits-32, $\sigma=1.2$",5,4,MPCA,0.572
+"Digits-32, $\sigma=1.2$",5,4,2DLDA,0.576
+"Digits-32, $\sigma=1.2$",5,4,Nearest centroid,0.576
+"Digits-32, $\sigma=1.2$",5,4,Ridge,0.484
+"Digits-32, $\sigma=1.2$",5,4,Shrinkage LDA,0.506
+"Digits-32, $\sigma=1.2$",5,5,L-2DLDA,0.63
+"Digits-32, $\sigma=1.2$",5,5,DATER-reg,0.61
+"Digits-32, $\sigma=1.2$",5,5,MPCA,0.574
+"Digits-32, $\sigma=1.2$",5,5,2DLDA,0.586
+"Digits-32, $\sigma=1.2$",5,5,Nearest centroid,0.58
+"Digits-32, $\sigma=1.2$",5,5,Ridge,0.522
+"Digits-32, $\sigma=1.2$",5,5,Shrinkage LDA,0.562
+"Digits-32, $\sigma=1.2$",5,6,L-2DLDA,0.632
+"Digits-32, $\sigma=1.2$",5,6,DATER-reg,0.59
+"Digits-32, $\sigma=1.2$",5,6,MPCA,0.536
+"Digits-32, $\sigma=1.2$",5,6,2DLDA,0.552
+"Digits-32, $\sigma=1.2$",5,6,Nearest centroid,0.56
+"Digits-32, $\sigma=1.2$",5,6,Ridge,0.494
+"Digits-32, $\sigma=1.2$",5,6,Shrinkage LDA,0.516
+"Digits-32, $\sigma=1.2$",5,7,L-2DLDA,0.614
+"Digits-32, $\sigma=1.2$",5,7,DATER-reg,0.582
+"Digits-32, $\sigma=1.2$",5,7,MPCA,0.522
+"Digits-32, $\sigma=1.2$",5,7,2DLDA,0.528
+"Digits-32, $\sigma=1.2$",5,7,Nearest centroid,0.532
+"Digits-32, $\sigma=1.2$",5,7,Ridge,0.498
+"Digits-32, $\sigma=1.2$",5,7,Shrinkage LDA,0.496
+"Digits-32, $\sigma=1.2$",5,8,L-2DLDA,0.574
+"Digits-32, $\sigma=1.2$",5,8,DATER-reg,0.56
+"Digits-32, $\sigma=1.2$",5,8,MPCA,0.506
+"Digits-32, $\sigma=1.2$",5,8,2DLDA,0.518
+"Digits-32, $\sigma=1.2$",5,8,Nearest centroid,0.518
+"Digits-32, $\sigma=1.2$",5,8,Ridge,0.462
+"Digits-32, $\sigma=1.2$",5,8,Shrinkage LDA,0.508
+"Digits-32, $\sigma=1.2$",5,9,L-2DLDA,0.624
+"Digits-32, $\sigma=1.2$",5,9,DATER-reg,0.604
+"Digits-32, $\sigma=1.2$",5,9,MPCA,0.542
+"Digits-32, $\sigma=1.2$",5,9,2DLDA,0.558
+"Digits-32, $\sigma=1.2$",5,9,Nearest centroid,0.552
+"Digits-32, $\sigma=1.2$",5,9,Ridge,0.494
+"Digits-32, $\sigma=1.2$",5,9,Shrinkage LDA,0.51
+"Digits-32, $\sigma=1.2$",5,10,L-2DLDA,0.594
+"Digits-32, $\sigma=1.2$",5,10,DATER-reg,0.582
+"Digits-32, $\sigma=1.2$",5,10,MPCA,0.542
+"Digits-32, $\sigma=1.2$",5,10,2DLDA,0.564
+"Digits-32, $\sigma=1.2$",5,10,Nearest centroid,0.562
+"Digits-32, $\sigma=1.2$",5,10,Ridge,0.484
+"Digits-32, $\sigma=1.2$",5,10,Shrinkage LDA,0.5
+"Digits-32, $\sigma=1.2$",5,11,L-2DLDA,0.67
+"Digits-32, $\sigma=1.2$",5,11,DATER-reg,0.65
+"Digits-32, $\sigma=1.2$",5,11,MPCA,0.604
+"Digits-32, $\sigma=1.2$",5,11,2DLDA,0.618
+"Digits-32, $\sigma=1.2$",5,11,Nearest centroid,0.608
+"Digits-32, $\sigma=1.2$",5,11,Ridge,0.542
+"Digits-32, $\sigma=1.2$",5,11,Shrinkage LDA,0.582
+"Digits-32, $\sigma=1.2$",5,12,L-2DLDA,0.65
+"Digits-32, $\sigma=1.2$",5,12,DATER-reg,0.626
+"Digits-32, $\sigma=1.2$",5,12,MPCA,0.564
+"Digits-32, $\sigma=1.2$",5,12,2DLDA,0.578
+"Digits-32, $\sigma=1.2$",5,12,Nearest centroid,0.588
+"Digits-32, $\sigma=1.2$",5,12,Ridge,0.5
+"Digits-32, $\sigma=1.2$",5,12,Shrinkage LDA,0.554
+"Digits-32, $\sigma=1.2$",5,13,L-2DLDA,0.62
+"Digits-32, $\sigma=1.2$",5,13,DATER-reg,0.576
+"Digits-32, $\sigma=1.2$",5,13,MPCA,0.532
+"Digits-32, $\sigma=1.2$",5,13,2DLDA,0.542
+"Digits-32, $\sigma=1.2$",5,13,Nearest centroid,0.536
+"Digits-32, $\sigma=1.2$",5,13,Ridge,0.48
+"Digits-32, $\sigma=1.2$",5,13,Shrinkage LDA,0.498
+"Digits-32, $\sigma=1.2$",5,14,L-2DLDA,0.63
+"Digits-32, $\sigma=1.2$",5,14,DATER-reg,0.61
+"Digits-32, $\sigma=1.2$",5,14,MPCA,0.578
+"Digits-32, $\sigma=1.2$",5,14,2DLDA,0.59
+"Digits-32, $\sigma=1.2$",5,14,Nearest centroid,0.578
+"Digits-32, $\sigma=1.2$",5,14,Ridge,0.508
+"Digits-32, $\sigma=1.2$",5,14,Shrinkage LDA,0.54
+"Digits-32, $\sigma=1.2$",5,15,L-2DLDA,0.622
+"Digits-32, $\sigma=1.2$",5,15,DATER-reg,0.572
+"Digits-32, $\sigma=1.2$",5,15,MPCA,0.498
+"Digits-32, $\sigma=1.2$",5,15,2DLDA,0.504
+"Digits-32, $\sigma=1.2$",5,15,Nearest centroid,0.516
+"Digits-32, $\sigma=1.2$",5,15,Ridge,0.442
+"Digits-32, $\sigma=1.2$",5,15,Shrinkage LDA,0.466
+"Digits-32, $\sigma=1.2$",5,16,L-2DLDA,0.614
+"Digits-32, $\sigma=1.2$",5,16,DATER-reg,0.598
+"Digits-32, $\sigma=1.2$",5,16,MPCA,0.58
+"Digits-32, $\sigma=1.2$",5,16,2DLDA,0.59
+"Digits-32, $\sigma=1.2$",5,16,Nearest centroid,0.594
+"Digits-32, $\sigma=1.2$",5,16,Ridge,0.508
+"Digits-32, $\sigma=1.2$",5,16,Shrinkage LDA,0.532
+"Digits-32, $\sigma=1.2$",5,17,L-2DLDA,0.67
+"Digits-32, $\sigma=1.2$",5,17,DATER-reg,0.622
+"Digits-32, $\sigma=1.2$",5,17,MPCA,0.594
+"Digits-32, $\sigma=1.2$",5,17,2DLDA,0.608
+"Digits-32, $\sigma=1.2$",5,17,Nearest centroid,0.598
+"Digits-32, $\sigma=1.2$",5,17,Ridge,0.45
+"Digits-32, $\sigma=1.2$",5,17,Shrinkage LDA,0.504
+"Digits-32, $\sigma=1.2$",5,18,L-2DLDA,0.642
+"Digits-32, $\sigma=1.2$",5,18,DATER-reg,0.626
+"Digits-32, $\sigma=1.2$",5,18,MPCA,0.556
+"Digits-32, $\sigma=1.2$",5,18,2DLDA,0.556
+"Digits-32, $\sigma=1.2$",5,18,Nearest centroid,0.566
+"Digits-32, $\sigma=1.2$",5,18,Ridge,0.506
+"Digits-32, $\sigma=1.2$",5,18,Shrinkage LDA,0.508
+"Digits-32, $\sigma=1.2$",5,19,L-2DLDA,0.62
+"Digits-32, $\sigma=1.2$",5,19,DATER-reg,0.598
+"Digits-32, $\sigma=1.2$",5,19,MPCA,0.57
+"Digits-32, $\sigma=1.2$",5,19,2DLDA,0.57
+"Digits-32, $\sigma=1.2$",5,19,Nearest centroid,0.582
+"Digits-32, $\sigma=1.2$",5,19,Ridge,0.494
+"Digits-32, $\sigma=1.2$",5,19,Shrinkage LDA,0.544
+"Digits-32, $\sigma=1.2$",5,20,L-2DLDA,0.618
+"Digits-32, $\sigma=1.2$",5,20,DATER-reg,0.596
+"Digits-32, $\sigma=1.2$",5,20,MPCA,0.562
+"Digits-32, $\sigma=1.2$",5,20,2DLDA,0.556
+"Digits-32, $\sigma=1.2$",5,20,Nearest centroid,0.562
+"Digits-32, $\sigma=1.2$",5,20,Ridge,0.474
+"Digits-32, $\sigma=1.2$",5,20,Shrinkage LDA,0.524
+"Digits-32, $\sigma=1.2$",5,21,L-2DLDA,0.6
+"Digits-32, $\sigma=1.2$",5,21,DATER-reg,0.584
+"Digits-32, $\sigma=1.2$",5,21,MPCA,0.532
+"Digits-32, $\sigma=1.2$",5,21,2DLDA,0.546
+"Digits-32, $\sigma=1.2$",5,21,Nearest centroid,0.554
+"Digits-32, $\sigma=1.2$",5,21,Ridge,0.442
+"Digits-32, $\sigma=1.2$",5,21,Shrinkage LDA,0.496
+"Digits-32, $\sigma=1.2$",5,22,L-2DLDA,0.684
+"Digits-32, $\sigma=1.2$",5,22,DATER-reg,0.66
+"Digits-32, $\sigma=1.2$",5,22,MPCA,0.608
+"Digits-32, $\sigma=1.2$",5,22,2DLDA,0.628
+"Digits-32, $\sigma=1.2$",5,22,Nearest centroid,0.63
+"Digits-32, $\sigma=1.2$",5,22,Ridge,0.586
+"Digits-32, $\sigma=1.2$",5,22,Shrinkage LDA,0.608
+"Digits-32, $\sigma=1.2$",5,23,L-2DLDA,0.616
+"Digits-32, $\sigma=1.2$",5,23,DATER-reg,0.588
+"Digits-32, $\sigma=1.2$",5,23,MPCA,0.542
+"Digits-32, $\sigma=1.2$",5,23,2DLDA,0.542
+"Digits-32, $\sigma=1.2$",5,23,Nearest centroid,0.546
+"Digits-32, $\sigma=1.2$",5,23,Ridge,0.45
+"Digits-32, $\sigma=1.2$",5,23,Shrinkage LDA,0.502
+"Digits-32, $\sigma=1.2$",5,24,L-2DLDA,0.646
+"Digits-32, $\sigma=1.2$",5,24,DATER-reg,0.63
+"Digits-32, $\sigma=1.2$",5,24,MPCA,0.594
+"Digits-32, $\sigma=1.2$",5,24,2DLDA,0.606
+"Digits-32, $\sigma=1.2$",5,24,Nearest centroid,0.602
+"Digits-32, $\sigma=1.2$",5,24,Ridge,0.484
+"Digits-32, $\sigma=1.2$",5,24,Shrinkage LDA,0.514
+"Digits-32, $\sigma=1.2$",5,25,L-2DLDA,0.6
+"Digits-32, $\sigma=1.2$",5,25,DATER-reg,0.596
+"Digits-32, $\sigma=1.2$",5,25,MPCA,0.534
+"Digits-32, $\sigma=1.2$",5,25,2DLDA,0.548
+"Digits-32, $\sigma=1.2$",5,25,Nearest centroid,0.544
+"Digits-32, $\sigma=1.2$",5,25,Ridge,0.448
+"Digits-32, $\sigma=1.2$",5,25,Shrinkage LDA,0.524
+"Digits-32, $\sigma=1.2$",5,26,L-2DLDA,0.682
+"Digits-32, $\sigma=1.2$",5,26,DATER-reg,0.636
+"Digits-32, $\sigma=1.2$",5,26,MPCA,0.558
+"Digits-32, $\sigma=1.2$",5,26,2DLDA,0.586
+"Digits-32, $\sigma=1.2$",5,26,Nearest centroid,0.596
+"Digits-32, $\sigma=1.2$",5,26,Ridge,0.534
+"Digits-32, $\sigma=1.2$",5,26,Shrinkage LDA,0.584
+"Digits-32, $\sigma=1.2$",5,27,L-2DLDA,0.608
+"Digits-32, $\sigma=1.2$",5,27,DATER-reg,0.6
+"Digits-32, $\sigma=1.2$",5,27,MPCA,0.55
+"Digits-32, $\sigma=1.2$",5,27,2DLDA,0.55
+"Digits-32, $\sigma=1.2$",5,27,Nearest centroid,0.564
+"Digits-32, $\sigma=1.2$",5,27,Ridge,0.502
+"Digits-32, $\sigma=1.2$",5,27,Shrinkage LDA,0.55
+"Digits-32, $\sigma=1.2$",5,28,L-2DLDA,0.588
+"Digits-32, $\sigma=1.2$",5,28,DATER-reg,0.562
+"Digits-32, $\sigma=1.2$",5,28,MPCA,0.52
+"Digits-32, $\sigma=1.2$",5,28,2DLDA,0.518
+"Digits-32, $\sigma=1.2$",5,28,Nearest centroid,0.524
+"Digits-32, $\sigma=1.2$",5,28,Ridge,0.414
+"Digits-32, $\sigma=1.2$",5,28,Shrinkage LDA,0.502
+"Digits-32, $\sigma=1.2$",5,29,L-2DLDA,0.644
+"Digits-32, $\sigma=1.2$",5,29,DATER-reg,0.596
+"Digits-32, $\sigma=1.2$",5,29,MPCA,0.562
+"Digits-32, $\sigma=1.2$",5,29,2DLDA,0.566
+"Digits-32, $\sigma=1.2$",5,29,Nearest centroid,0.574
+"Digits-32, $\sigma=1.2$",5,29,Ridge,0.484
+"Digits-32, $\sigma=1.2$",5,29,Shrinkage LDA,0.516
+"Digits-32, $\sigma=1.2$",5,30,L-2DLDA,0.69
+"Digits-32, $\sigma=1.2$",5,30,DATER-reg,0.63
+"Digits-32, $\sigma=1.2$",5,30,MPCA,0.586
+"Digits-32, $\sigma=1.2$",5,30,2DLDA,0.598
+"Digits-32, $\sigma=1.2$",5,30,Nearest centroid,0.584
+"Digits-32, $\sigma=1.2$",5,30,Ridge,0.568
+"Digits-32, $\sigma=1.2$",5,30,Shrinkage LDA,0.578
+"Digits-32, $\sigma=1.2$",5,31,L-2DLDA,0.604
+"Digits-32, $\sigma=1.2$",5,31,DATER-reg,0.578
+"Digits-32, $\sigma=1.2$",5,31,MPCA,0.52
+"Digits-32, $\sigma=1.2$",5,31,2DLDA,0.526
+"Digits-32, $\sigma=1.2$",5,31,Nearest centroid,0.522
+"Digits-32, $\sigma=1.2$",5,31,Ridge,0.486
+"Digits-32, $\sigma=1.2$",5,31,Shrinkage LDA,0.53
+"Digits-32, $\sigma=1.2$",5,32,L-2DLDA,0.682
+"Digits-32, $\sigma=1.2$",5,32,DATER-reg,0.624
+"Digits-32, $\sigma=1.2$",5,32,MPCA,0.588
+"Digits-32, $\sigma=1.2$",5,32,2DLDA,0.584
+"Digits-32, $\sigma=1.2$",5,32,Nearest centroid,0.604
+"Digits-32, $\sigma=1.2$",5,32,Ridge,0.508
+"Digits-32, $\sigma=1.2$",5,32,Shrinkage LDA,0.556
+"Digits-32, $\sigma=1.2$",5,33,L-2DLDA,0.64
+"Digits-32, $\sigma=1.2$",5,33,DATER-reg,0.61
+"Digits-32, $\sigma=1.2$",5,33,MPCA,0.574
+"Digits-32, $\sigma=1.2$",5,33,2DLDA,0.578
+"Digits-32, $\sigma=1.2$",5,33,Nearest centroid,0.584
+"Digits-32, $\sigma=1.2$",5,33,Ridge,0.47
+"Digits-32, $\sigma=1.2$",5,33,Shrinkage LDA,0.542
+"Digits-32, $\sigma=1.2$",5,34,L-2DLDA,0.622
+"Digits-32, $\sigma=1.2$",5,34,DATER-reg,0.582
+"Digits-32, $\sigma=1.2$",5,34,MPCA,0.526
+"Digits-32, $\sigma=1.2$",5,34,2DLDA,0.534
+"Digits-32, $\sigma=1.2$",5,34,Nearest centroid,0.542
+"Digits-32, $\sigma=1.2$",5,34,Ridge,0.486
+"Digits-32, $\sigma=1.2$",5,34,Shrinkage LDA,0.478
+"Digits-32, $\sigma=1.2$",5,35,L-2DLDA,0.648
+"Digits-32, $\sigma=1.2$",5,35,DATER-reg,0.608
+"Digits-32, $\sigma=1.2$",5,35,MPCA,0.552
+"Digits-32, $\sigma=1.2$",5,35,2DLDA,0.562
+"Digits-32, $\sigma=1.2$",5,35,Nearest centroid,0.568
+"Digits-32, $\sigma=1.2$",5,35,Ridge,0.502
+"Digits-32, $\sigma=1.2$",5,35,Shrinkage LDA,0.534
+"Digits-32, $\sigma=1.2$",5,36,L-2DLDA,0.684
+"Digits-32, $\sigma=1.2$",5,36,DATER-reg,0.628
+"Digits-32, $\sigma=1.2$",5,36,MPCA,0.57
+"Digits-32, $\sigma=1.2$",5,36,2DLDA,0.59
+"Digits-32, $\sigma=1.2$",5,36,Nearest centroid,0.594
+"Digits-32, $\sigma=1.2$",5,36,Ridge,0.562
+"Digits-32, $\sigma=1.2$",5,36,Shrinkage LDA,0.59
+"Digits-32, $\sigma=1.2$",5,37,L-2DLDA,0.64
+"Digits-32, $\sigma=1.2$",5,37,DATER-reg,0.61
+"Digits-32, $\sigma=1.2$",5,37,MPCA,0.544
+"Digits-32, $\sigma=1.2$",5,37,2DLDA,0.546
+"Digits-32, $\sigma=1.2$",5,37,Nearest centroid,0.546
+"Digits-32, $\sigma=1.2$",5,37,Ridge,0.528
+"Digits-32, $\sigma=1.2$",5,37,Shrinkage LDA,0.574
+"Digits-32, $\sigma=1.2$",5,38,L-2DLDA,0.608
+"Digits-32, $\sigma=1.2$",5,38,DATER-reg,0.574
+"Digits-32, $\sigma=1.2$",5,38,MPCA,0.524
+"Digits-32, $\sigma=1.2$",5,38,2DLDA,0.542
+"Digits-32, $\sigma=1.2$",5,38,Nearest centroid,0.538
+"Digits-32, $\sigma=1.2$",5,38,Ridge,0.474
+"Digits-32, $\sigma=1.2$",5,38,Shrinkage LDA,0.524
+"Digits-32, $\sigma=1.2$",5,39,L-2DLDA,0.64
+"Digits-32, $\sigma=1.2$",5,39,DATER-reg,0.624
+"Digits-32, $\sigma=1.2$",5,39,MPCA,0.582
+"Digits-32, $\sigma=1.2$",5,39,2DLDA,0.584
+"Digits-32, $\sigma=1.2$",5,39,Nearest centroid,0.592
+"Digits-32, $\sigma=1.2$",5,39,Ridge,0.528
+"Digits-32, $\sigma=1.2$",5,39,Shrinkage LDA,0.542
+"Digits-32, $\sigma=1.2$",5,40,L-2DLDA,0.628
+"Digits-32, $\sigma=1.2$",5,40,DATER-reg,0.574
+"Digits-32, $\sigma=1.2$",5,40,MPCA,0.536
+"Digits-32, $\sigma=1.2$",5,40,2DLDA,0.55
+"Digits-32, $\sigma=1.2$",5,40,Nearest centroid,0.544
+"Digits-32, $\sigma=1.2$",5,40,Ridge,0.436
+"Digits-32, $\sigma=1.2$",5,40,Shrinkage LDA,0.46
+"Digits-32, $\sigma=1.2$",5,41,L-2DLDA,0.67
+"Digits-32, $\sigma=1.2$",5,41,DATER-reg,0.63
+"Digits-32, $\sigma=1.2$",5,41,MPCA,0.572
+"Digits-32, $\sigma=1.2$",5,41,2DLDA,0.582
+"Digits-32, $\sigma=1.2$",5,41,Nearest centroid,0.588
+"Digits-32, $\sigma=1.2$",5,41,Ridge,0.522
+"Digits-32, $\sigma=1.2$",5,41,Shrinkage LDA,0.544
+"Digits-32, $\sigma=1.2$",5,42,L-2DLDA,0.594
+"Digits-32, $\sigma=1.2$",5,42,DATER-reg,0.566
+"Digits-32, $\sigma=1.2$",5,42,MPCA,0.524
+"Digits-32, $\sigma=1.2$",5,42,2DLDA,0.524
+"Digits-32, $\sigma=1.2$",5,42,Nearest centroid,0.542
+"Digits-32, $\sigma=1.2$",5,42,Ridge,0.444
+"Digits-32, $\sigma=1.2$",5,42,Shrinkage LDA,0.44
+"Digits-32, $\sigma=1.2$",5,43,L-2DLDA,0.61
+"Digits-32, $\sigma=1.2$",5,43,DATER-reg,0.598
+"Digits-32, $\sigma=1.2$",5,43,MPCA,0.542
+"Digits-32, $\sigma=1.2$",5,43,2DLDA,0.554
+"Digits-32, $\sigma=1.2$",5,43,Nearest centroid,0.566
+"Digits-32, $\sigma=1.2$",5,43,Ridge,0.462
+"Digits-32, $\sigma=1.2$",5,43,Shrinkage LDA,0.54
+"Digits-32, $\sigma=1.2$",5,44,L-2DLDA,0.606
+"Digits-32, $\sigma=1.2$",5,44,DATER-reg,0.58
+"Digits-32, $\sigma=1.2$",5,44,MPCA,0.524
+"Digits-32, $\sigma=1.2$",5,44,2DLDA,0.542
+"Digits-32, $\sigma=1.2$",5,44,Nearest centroid,0.532
+"Digits-32, $\sigma=1.2$",5,44,Ridge,0.458
+"Digits-32, $\sigma=1.2$",5,44,Shrinkage LDA,0.474
+"Digits-32, $\sigma=1.2$",5,45,L-2DLDA,0.648
+"Digits-32, $\sigma=1.2$",5,45,DATER-reg,0.626
+"Digits-32, $\sigma=1.2$",5,45,MPCA,0.572
+"Digits-32, $\sigma=1.2$",5,45,2DLDA,0.584
+"Digits-32, $\sigma=1.2$",5,45,Nearest centroid,0.582
+"Digits-32, $\sigma=1.2$",5,45,Ridge,0.488
+"Digits-32, $\sigma=1.2$",5,45,Shrinkage LDA,0.514
+"Digits-32, $\sigma=1.2$",5,46,L-2DLDA,0.628
+"Digits-32, $\sigma=1.2$",5,46,DATER-reg,0.59
+"Digits-32, $\sigma=1.2$",5,46,MPCA,0.53
+"Digits-32, $\sigma=1.2$",5,46,2DLDA,0.546
+"Digits-32, $\sigma=1.2$",5,46,Nearest centroid,0.548
+"Digits-32, $\sigma=1.2$",5,46,Ridge,0.51
+"Digits-32, $\sigma=1.2$",5,46,Shrinkage LDA,0.536
+"Digits-32, $\sigma=1.2$",5,47,L-2DLDA,0.668
+"Digits-32, $\sigma=1.2$",5,47,DATER-reg,0.636
+"Digits-32, $\sigma=1.2$",5,47,MPCA,0.6
+"Digits-32, $\sigma=1.2$",5,47,2DLDA,0.588
+"Digits-32, $\sigma=1.2$",5,47,Nearest centroid,0.592
+"Digits-32, $\sigma=1.2$",5,47,Ridge,0.508
+"Digits-32, $\sigma=1.2$",5,47,Shrinkage LDA,0.538
+"Digits-32, $\sigma=1.2$",5,48,L-2DLDA,0.642
+"Digits-32, $\sigma=1.2$",5,48,DATER-reg,0.57
+"Digits-32, $\sigma=1.2$",5,48,MPCA,0.522
+"Digits-32, $\sigma=1.2$",5,48,2DLDA,0.526
+"Digits-32, $\sigma=1.2$",5,48,Nearest centroid,0.53
+"Digits-32, $\sigma=1.2$",5,48,Ridge,0.514
+"Digits-32, $\sigma=1.2$",5,48,Shrinkage LDA,0.552
+"Digits-32, $\sigma=1.2$",5,49,L-2DLDA,0.628
+"Digits-32, $\sigma=1.2$",5,49,DATER-reg,0.608
+"Digits-32, $\sigma=1.2$",5,49,MPCA,0.554
+"Digits-32, $\sigma=1.2$",5,49,2DLDA,0.564
+"Digits-32, $\sigma=1.2$",5,49,Nearest centroid,0.584
+"Digits-32, $\sigma=1.2$",5,49,Ridge,0.462
+"Digits-32, $\sigma=1.2$",5,49,Shrinkage LDA,0.478
+"Digits-32, $\sigma=1.6$",5,0,L-2DLDA,0.49
+"Digits-32, $\sigma=1.6$",5,0,DATER-reg,0.446
+"Digits-32, $\sigma=1.6$",5,0,MPCA,0.404
+"Digits-32, $\sigma=1.6$",5,0,2DLDA,0.412
+"Digits-32, $\sigma=1.6$",5,0,Nearest centroid,0.408
+"Digits-32, $\sigma=1.6$",5,0,Ridge,0.368
+"Digits-32, $\sigma=1.6$",5,0,Shrinkage LDA,0.392
+"Digits-32, $\sigma=1.6$",5,1,L-2DLDA,0.438
+"Digits-32, $\sigma=1.6$",5,1,DATER-reg,0.404
+"Digits-32, $\sigma=1.6$",5,1,MPCA,0.368
+"Digits-32, $\sigma=1.6$",5,1,2DLDA,0.392
+"Digits-32, $\sigma=1.6$",5,1,Nearest centroid,0.39
+"Digits-32, $\sigma=1.6$",5,1,Ridge,0.356
+"Digits-32, $\sigma=1.6$",5,1,Shrinkage LDA,0.364
+"Digits-32, $\sigma=1.6$",5,2,L-2DLDA,0.472
+"Digits-32, $\sigma=1.6$",5,2,DATER-reg,0.446
+"Digits-32, $\sigma=1.6$",5,2,MPCA,0.392
+"Digits-32, $\sigma=1.6$",5,2,2DLDA,0.412
+"Digits-32, $\sigma=1.6$",5,2,Nearest centroid,0.412
+"Digits-32, $\sigma=1.6$",5,2,Ridge,0.344
+"Digits-32, $\sigma=1.6$",5,2,Shrinkage LDA,0.374
+"Digits-32, $\sigma=1.6$",5,3,L-2DLDA,0.456
+"Digits-32, $\sigma=1.6$",5,3,DATER-reg,0.432
+"Digits-32, $\sigma=1.6$",5,3,MPCA,0.38
+"Digits-32, $\sigma=1.6$",5,3,2DLDA,0.392
+"Digits-32, $\sigma=1.6$",5,3,Nearest centroid,0.408
+"Digits-32, $\sigma=1.6$",5,3,Ridge,0.336
+"Digits-32, $\sigma=1.6$",5,3,Shrinkage LDA,0.352
+"Digits-32, $\sigma=1.6$",5,4,L-2DLDA,0.474
+"Digits-32, $\sigma=1.6$",5,4,DATER-reg,0.448
+"Digits-32, $\sigma=1.6$",5,4,MPCA,0.396
+"Digits-32, $\sigma=1.6$",5,4,2DLDA,0.42
+"Digits-32, $\sigma=1.6$",5,4,Nearest centroid,0.412
+"Digits-32, $\sigma=1.6$",5,4,Ridge,0.352
+"Digits-32, $\sigma=1.6$",5,4,Shrinkage LDA,0.364
+"Digits-32, $\sigma=1.6$",5,5,L-2DLDA,0.442
+"Digits-32, $\sigma=1.6$",5,5,DATER-reg,0.404
+"Digits-32, $\sigma=1.6$",5,5,MPCA,0.35
+"Digits-32, $\sigma=1.6$",5,5,2DLDA,0.368
+"Digits-32, $\sigma=1.6$",5,5,Nearest centroid,0.366
+"Digits-32, $\sigma=1.6$",5,5,Ridge,0.338
+"Digits-32, $\sigma=1.6$",5,5,Shrinkage LDA,0.336
+"Digits-32, $\sigma=1.6$",5,6,L-2DLDA,0.478
+"Digits-32, $\sigma=1.6$",5,6,DATER-reg,0.478
+"Digits-32, $\sigma=1.6$",5,6,MPCA,0.432
+"Digits-32, $\sigma=1.6$",5,6,2DLDA,0.44
+"Digits-32, $\sigma=1.6$",5,6,Nearest centroid,0.45
+"Digits-32, $\sigma=1.6$",5,6,Ridge,0.392
+"Digits-32, $\sigma=1.6$",5,6,Shrinkage LDA,0.404
+"Digits-32, $\sigma=1.6$",5,7,L-2DLDA,0.554
+"Digits-32, $\sigma=1.6$",5,7,DATER-reg,0.518
+"Digits-32, $\sigma=1.6$",5,7,MPCA,0.466
+"Digits-32, $\sigma=1.6$",5,7,2DLDA,0.488
+"Digits-32, $\sigma=1.6$",5,7,Nearest centroid,0.474
+"Digits-32, $\sigma=1.6$",5,7,Ridge,0.392
+"Digits-32, $\sigma=1.6$",5,7,Shrinkage LDA,0.414
+"Digits-32, $\sigma=1.6$",5,8,L-2DLDA,0.5
+"Digits-32, $\sigma=1.6$",5,8,DATER-reg,0.46
+"Digits-32, $\sigma=1.6$",5,8,MPCA,0.42
+"Digits-32, $\sigma=1.6$",5,8,2DLDA,0.424
+"Digits-32, $\sigma=1.6$",5,8,Nearest centroid,0.416
+"Digits-32, $\sigma=1.6$",5,8,Ridge,0.358
+"Digits-32, $\sigma=1.6$",5,8,Shrinkage LDA,0.4
+"Digits-32, $\sigma=1.6$",5,9,L-2DLDA,0.472
+"Digits-32, $\sigma=1.6$",5,9,DATER-reg,0.438
+"Digits-32, $\sigma=1.6$",5,9,MPCA,0.38
+"Digits-32, $\sigma=1.6$",5,9,2DLDA,0.39
+"Digits-32, $\sigma=1.6$",5,9,Nearest centroid,0.392
+"Digits-32, $\sigma=1.6$",5,9,Ridge,0.382
+"Digits-32, $\sigma=1.6$",5,9,Shrinkage LDA,0.382
+"Digits-32, $\sigma=1.6$",5,10,L-2DLDA,0.548
+"Digits-32, $\sigma=1.6$",5,10,DATER-reg,0.518
+"Digits-32, $\sigma=1.6$",5,10,MPCA,0.46
+"Digits-32, $\sigma=1.6$",5,10,2DLDA,0.486
+"Digits-32, $\sigma=1.6$",5,10,Nearest centroid,0.466
+"Digits-32, $\sigma=1.6$",5,10,Ridge,0.386
+"Digits-32, $\sigma=1.6$",5,10,Shrinkage LDA,0.414
+"Digits-32, $\sigma=1.6$",5,11,L-2DLDA,0.516
+"Digits-32, $\sigma=1.6$",5,11,DATER-reg,0.478
+"Digits-32, $\sigma=1.6$",5,11,MPCA,0.44
+"Digits-32, $\sigma=1.6$",5,11,2DLDA,0.45
+"Digits-32, $\sigma=1.6$",5,11,Nearest centroid,0.448
+"Digits-32, $\sigma=1.6$",5,11,Ridge,0.4
+"Digits-32, $\sigma=1.6$",5,11,Shrinkage LDA,0.448
+"Digits-32, $\sigma=1.6$",5,12,L-2DLDA,0.484
+"Digits-32, $\sigma=1.6$",5,12,DATER-reg,0.448
+"Digits-32, $\sigma=1.6$",5,12,MPCA,0.406
+"Digits-32, $\sigma=1.6$",5,12,2DLDA,0.4
+"Digits-32, $\sigma=1.6$",5,12,Nearest centroid,0.41
+"Digits-32, $\sigma=1.6$",5,12,Ridge,0.38
+"Digits-32, $\sigma=1.6$",5,12,Shrinkage LDA,0.398
+"Digits-32, $\sigma=1.6$",5,13,L-2DLDA,0.508
+"Digits-32, $\sigma=1.6$",5,13,DATER-reg,0.468
+"Digits-32, $\sigma=1.6$",5,13,MPCA,0.386
+"Digits-32, $\sigma=1.6$",5,13,2DLDA,0.414
+"Digits-32, $\sigma=1.6$",5,13,Nearest centroid,0.428
+"Digits-32, $\sigma=1.6$",5,13,Ridge,0.344
+"Digits-32, $\sigma=1.6$",5,13,Shrinkage LDA,0.378
+"Digits-32, $\sigma=1.6$",5,14,L-2DLDA,0.44
+"Digits-32, $\sigma=1.6$",5,14,DATER-reg,0.412
+"Digits-32, $\sigma=1.6$",5,14,MPCA,0.374
+"Digits-32, $\sigma=1.6$",5,14,2DLDA,0.38
+"Digits-32, $\sigma=1.6$",5,14,Nearest centroid,0.388
+"Digits-32, $\sigma=1.6$",5,14,Ridge,0.346
+"Digits-32, $\sigma=1.6$",5,14,Shrinkage LDA,0.358
+"Digits-32, $\sigma=1.6$",5,15,L-2DLDA,0.47
+"Digits-32, $\sigma=1.6$",5,15,DATER-reg,0.43
+"Digits-32, $\sigma=1.6$",5,15,MPCA,0.35
+"Digits-32, $\sigma=1.6$",5,15,2DLDA,0.368
+"Digits-32, $\sigma=1.6$",5,15,Nearest centroid,0.37
+"Digits-32, $\sigma=1.6$",5,15,Ridge,0.336
+"Digits-32, $\sigma=1.6$",5,15,Shrinkage LDA,0.354
+"Digits-32, $\sigma=1.6$",5,16,L-2DLDA,0.52
+"Digits-32, $\sigma=1.6$",5,16,DATER-reg,0.456
+"Digits-32, $\sigma=1.6$",5,16,MPCA,0.386
+"Digits-32, $\sigma=1.6$",5,16,2DLDA,0.412
+"Digits-32, $\sigma=1.6$",5,16,Nearest centroid,0.406
+"Digits-32, $\sigma=1.6$",5,16,Ridge,0.354
+"Digits-32, $\sigma=1.6$",5,16,Shrinkage LDA,0.38
+"Digits-32, $\sigma=1.6$",5,17,L-2DLDA,0.414
+"Digits-32, $\sigma=1.6$",5,17,DATER-reg,0.4
+"Digits-32, $\sigma=1.6$",5,17,MPCA,0.362
+"Digits-32, $\sigma=1.6$",5,17,2DLDA,0.374
+"Digits-32, $\sigma=1.6$",5,17,Nearest centroid,0.376
+"Digits-32, $\sigma=1.6$",5,17,Ridge,0.356
+"Digits-32, $\sigma=1.6$",5,17,Shrinkage LDA,0.354
+"Digits-32, $\sigma=1.6$",5,18,L-2DLDA,0.474
+"Digits-32, $\sigma=1.6$",5,18,DATER-reg,0.436
+"Digits-32, $\sigma=1.6$",5,18,MPCA,0.394
+"Digits-32, $\sigma=1.6$",5,18,2DLDA,0.398
+"Digits-32, $\sigma=1.6$",5,18,Nearest centroid,0.4
+"Digits-32, $\sigma=1.6$",5,18,Ridge,0.368
+"Digits-32, $\sigma=1.6$",5,18,Shrinkage LDA,0.404
+"Digits-32, $\sigma=1.6$",5,19,L-2DLDA,0.482
+"Digits-32, $\sigma=1.6$",5,19,DATER-reg,0.44
+"Digits-32, $\sigma=1.6$",5,19,MPCA,0.398
+"Digits-32, $\sigma=1.6$",5,19,2DLDA,0.412
+"Digits-32, $\sigma=1.6$",5,19,Nearest centroid,0.416
+"Digits-32, $\sigma=1.6$",5,19,Ridge,0.374
+"Digits-32, $\sigma=1.6$",5,19,Shrinkage LDA,0.376
+"Digits-32, $\sigma=1.6$",5,20,L-2DLDA,0.514
+"Digits-32, $\sigma=1.6$",5,20,DATER-reg,0.47
+"Digits-32, $\sigma=1.6$",5,20,MPCA,0.416
+"Digits-32, $\sigma=1.6$",5,20,2DLDA,0.43
+"Digits-32, $\sigma=1.6$",5,20,Nearest centroid,0.434
+"Digits-32, $\sigma=1.6$",5,20,Ridge,0.424
+"Digits-32, $\sigma=1.6$",5,20,Shrinkage LDA,0.436
+"Digits-32, $\sigma=1.6$",5,21,L-2DLDA,0.478
+"Digits-32, $\sigma=1.6$",5,21,DATER-reg,0.448
+"Digits-32, $\sigma=1.6$",5,21,MPCA,0.408
+"Digits-32, $\sigma=1.6$",5,21,2DLDA,0.402
+"Digits-32, $\sigma=1.6$",5,21,Nearest centroid,0.41
+"Digits-32, $\sigma=1.6$",5,21,Ridge,0.36
+"Digits-32, $\sigma=1.6$",5,21,Shrinkage LDA,0.386
+"Digits-32, $\sigma=1.6$",5,22,L-2DLDA,0.512
+"Digits-32, $\sigma=1.6$",5,22,DATER-reg,0.462
+"Digits-32, $\sigma=1.6$",5,22,MPCA,0.4
+"Digits-32, $\sigma=1.6$",5,22,2DLDA,0.41
+"Digits-32, $\sigma=1.6$",5,22,Nearest centroid,0.41
+"Digits-32, $\sigma=1.6$",5,22,Ridge,0.386
+"Digits-32, $\sigma=1.6$",5,22,Shrinkage LDA,0.418
+"Digits-32, $\sigma=1.6$",5,23,L-2DLDA,0.454
+"Digits-32, $\sigma=1.6$",5,23,DATER-reg,0.404
+"Digits-32, $\sigma=1.6$",5,23,MPCA,0.346
+"Digits-32, $\sigma=1.6$",5,23,2DLDA,0.338
+"Digits-32, $\sigma=1.6$",5,23,Nearest centroid,0.374
+"Digits-32, $\sigma=1.6$",5,23,Ridge,0.354
+"Digits-32, $\sigma=1.6$",5,23,Shrinkage LDA,0.382
+"Digits-32, $\sigma=1.6$",5,24,L-2DLDA,0.47
+"Digits-32, $\sigma=1.6$",5,24,DATER-reg,0.412
+"Digits-32, $\sigma=1.6$",5,24,MPCA,0.36
+"Digits-32, $\sigma=1.6$",5,24,2DLDA,0.37
+"Digits-32, $\sigma=1.6$",5,24,Nearest centroid,0.372
+"Digits-32, $\sigma=1.6$",5,24,Ridge,0.32
+"Digits-32, $\sigma=1.6$",5,24,Shrinkage LDA,0.358
+"Digits-32, $\sigma=1.6$",5,25,L-2DLDA,0.446
+"Digits-32, $\sigma=1.6$",5,25,DATER-reg,0.416
+"Digits-32, $\sigma=1.6$",5,25,MPCA,0.33
+"Digits-32, $\sigma=1.6$",5,25,2DLDA,0.348
+"Digits-32, $\sigma=1.6$",5,25,Nearest centroid,0.354
+"Digits-32, $\sigma=1.6$",5,25,Ridge,0.344
+"Digits-32, $\sigma=1.6$",5,25,Shrinkage LDA,0.334
+"Digits-32, $\sigma=1.6$",5,26,L-2DLDA,0.512
+"Digits-32, $\sigma=1.6$",5,26,DATER-reg,0.46
+"Digits-32, $\sigma=1.6$",5,26,MPCA,0.394
+"Digits-32, $\sigma=1.6$",5,26,2DLDA,0.41
+"Digits-32, $\sigma=1.6$",5,26,Nearest centroid,0.408
+"Digits-32, $\sigma=1.6$",5,26,Ridge,0.36
+"Digits-32, $\sigma=1.6$",5,26,Shrinkage LDA,0.398
+"Digits-32, $\sigma=1.6$",5,27,L-2DLDA,0.436
+"Digits-32, $\sigma=1.6$",5,27,DATER-reg,0.406
+"Digits-32, $\sigma=1.6$",5,27,MPCA,0.366
+"Digits-32, $\sigma=1.6$",5,27,2DLDA,0.362
+"Digits-32, $\sigma=1.6$",5,27,Nearest centroid,0.354
+"Digits-32, $\sigma=1.6$",5,27,Ridge,0.33
+"Digits-32, $\sigma=1.6$",5,27,Shrinkage LDA,0.35
+"Digits-32, $\sigma=1.6$",5,28,L-2DLDA,0.47
+"Digits-32, $\sigma=1.6$",5,28,DATER-reg,0.436
+"Digits-32, $\sigma=1.6$",5,28,MPCA,0.37
+"Digits-32, $\sigma=1.6$",5,28,2DLDA,0.394
+"Digits-32, $\sigma=1.6$",5,28,Nearest centroid,0.414
+"Digits-32, $\sigma=1.6$",5,28,Ridge,0.352
+"Digits-32, $\sigma=1.6$",5,28,Shrinkage LDA,0.376
+"Digits-32, $\sigma=1.6$",5,29,L-2DLDA,0.48
+"Digits-32, $\sigma=1.6$",5,29,DATER-reg,0.458
+"Digits-32, $\sigma=1.6$",5,29,MPCA,0.4
+"Digits-32, $\sigma=1.6$",5,29,2DLDA,0.398
+"Digits-32, $\sigma=1.6$",5,29,Nearest centroid,0.414
+"Digits-32, $\sigma=1.6$",5,29,Ridge,0.37
+"Digits-32, $\sigma=1.6$",5,29,Shrinkage LDA,0.388
+"Digits-32, $\sigma=1.6$",5,30,L-2DLDA,0.45
+"Digits-32, $\sigma=1.6$",5,30,DATER-reg,0.416
+"Digits-32, $\sigma=1.6$",5,30,MPCA,0.376
+"Digits-32, $\sigma=1.6$",5,30,2DLDA,0.378
+"Digits-32, $\sigma=1.6$",5,30,Nearest centroid,0.386
+"Digits-32, $\sigma=1.6$",5,30,Ridge,0.348
+"Digits-32, $\sigma=1.6$",5,30,Shrinkage LDA,0.354
+"Digits-32, $\sigma=1.6$",5,31,L-2DLDA,0.434
+"Digits-32, $\sigma=1.6$",5,31,DATER-reg,0.416
+"Digits-32, $\sigma=1.6$",5,31,MPCA,0.382
+"Digits-32, $\sigma=1.6$",5,31,2DLDA,0.396
+"Digits-32, $\sigma=1.6$",5,31,Nearest centroid,0.4
+"Digits-32, $\sigma=1.6$",5,31,Ridge,0.338
+"Digits-32, $\sigma=1.6$",5,31,Shrinkage LDA,0.362
+"Digits-32, $\sigma=1.6$",5,32,L-2DLDA,0.496
+"Digits-32, $\sigma=1.6$",5,32,DATER-reg,0.458
+"Digits-32, $\sigma=1.6$",5,32,MPCA,0.384
+"Digits-32, $\sigma=1.6$",5,32,2DLDA,0.396
+"Digits-32, $\sigma=1.6$",5,32,Nearest centroid,0.424
+"Digits-32, $\sigma=1.6$",5,32,Ridge,0.396
+"Digits-32, $\sigma=1.6$",5,32,Shrinkage LDA,0.432
+"Digits-32, $\sigma=1.6$",5,33,L-2DLDA,0.472
+"Digits-32, $\sigma=1.6$",5,33,DATER-reg,0.456
+"Digits-32, $\sigma=1.6$",5,33,MPCA,0.402
+"Digits-32, $\sigma=1.6$",5,33,2DLDA,0.41
+"Digits-32, $\sigma=1.6$",5,33,Nearest centroid,0.418
+"Digits-32, $\sigma=1.6$",5,33,Ridge,0.396
+"Digits-32, $\sigma=1.6$",5,33,Shrinkage LDA,0.398
+"Digits-32, $\sigma=1.6$",5,34,L-2DLDA,0.5
+"Digits-32, $\sigma=1.6$",5,34,DATER-reg,0.452
+"Digits-32, $\sigma=1.6$",5,34,MPCA,0.402
+"Digits-32, $\sigma=1.6$",5,34,2DLDA,0.386
+"Digits-32, $\sigma=1.6$",5,34,Nearest centroid,0.406
+"Digits-32, $\sigma=1.6$",5,34,Ridge,0.384
+"Digits-32, $\sigma=1.6$",5,34,Shrinkage LDA,0.364
+"Digits-32, $\sigma=1.6$",5,35,L-2DLDA,0.522
+"Digits-32, $\sigma=1.6$",5,35,DATER-reg,0.478
+"Digits-32, $\sigma=1.6$",5,35,MPCA,0.43
+"Digits-32, $\sigma=1.6$",5,35,2DLDA,0.45
+"Digits-32, $\sigma=1.6$",5,35,Nearest centroid,0.444
+"Digits-32, $\sigma=1.6$",5,35,Ridge,0.404
+"Digits-32, $\sigma=1.6$",5,35,Shrinkage LDA,0.41
+"Digits-32, $\sigma=1.6$",5,36,L-2DLDA,0.464
+"Digits-32, $\sigma=1.6$",5,36,DATER-reg,0.46
+"Digits-32, $\sigma=1.6$",5,36,MPCA,0.418
+"Digits-32, $\sigma=1.6$",5,36,2DLDA,0.424
+"Digits-32, $\sigma=1.6$",5,36,Nearest centroid,0.426
+"Digits-32, $\sigma=1.6$",5,36,Ridge,0.39
+"Digits-32, $\sigma=1.6$",5,36,Shrinkage LDA,0.414
+"Digits-32, $\sigma=1.6$",5,37,L-2DLDA,0.486
+"Digits-32, $\sigma=1.6$",5,37,DATER-reg,0.464
+"Digits-32, $\sigma=1.6$",5,37,MPCA,0.43
+"Digits-32, $\sigma=1.6$",5,37,2DLDA,0.438
+"Digits-32, $\sigma=1.6$",5,37,Nearest centroid,0.432
+"Digits-32, $\sigma=1.6$",5,37,Ridge,0.372
+"Digits-32, $\sigma=1.6$",5,37,Shrinkage LDA,0.41
+"Digits-32, $\sigma=1.6$",5,38,L-2DLDA,0.49
+"Digits-32, $\sigma=1.6$",5,38,DATER-reg,0.448
+"Digits-32, $\sigma=1.6$",5,38,MPCA,0.36
+"Digits-32, $\sigma=1.6$",5,38,2DLDA,0.368
+"Digits-32, $\sigma=1.6$",5,38,Nearest centroid,0.382
+"Digits-32, $\sigma=1.6$",5,38,Ridge,0.372
+"Digits-32, $\sigma=1.6$",5,38,Shrinkage LDA,0.368
+"Digits-32, $\sigma=1.6$",5,39,L-2DLDA,0.51
+"Digits-32, $\sigma=1.6$",5,39,DATER-reg,0.48
+"Digits-32, $\sigma=1.6$",5,39,MPCA,0.434
+"Digits-32, $\sigma=1.6$",5,39,2DLDA,0.442
+"Digits-32, $\sigma=1.6$",5,39,Nearest centroid,0.448
+"Digits-32, $\sigma=1.6$",5,39,Ridge,0.432
+"Digits-32, $\sigma=1.6$",5,39,Shrinkage LDA,0.416
+"Digits-32, $\sigma=1.6$",5,40,L-2DLDA,0.516
+"Digits-32, $\sigma=1.6$",5,40,DATER-reg,0.476
+"Digits-32, $\sigma=1.6$",5,40,MPCA,0.426
+"Digits-32, $\sigma=1.6$",5,40,2DLDA,0.444
+"Digits-32, $\sigma=1.6$",5,40,Nearest centroid,0.458
+"Digits-32, $\sigma=1.6$",5,40,Ridge,0.372
+"Digits-32, $\sigma=1.6$",5,40,Shrinkage LDA,0.392
+"Digits-32, $\sigma=1.6$",5,41,L-2DLDA,0.536
+"Digits-32, $\sigma=1.6$",5,41,DATER-reg,0.486
+"Digits-32, $\sigma=1.6$",5,41,MPCA,0.41
+"Digits-32, $\sigma=1.6$",5,41,2DLDA,0.422
+"Digits-32, $\sigma=1.6$",5,41,Nearest centroid,0.422
+"Digits-32, $\sigma=1.6$",5,41,Ridge,0.396
+"Digits-32, $\sigma=1.6$",5,41,Shrinkage LDA,0.404
+"Digits-32, $\sigma=1.6$",5,42,L-2DLDA,0.44
+"Digits-32, $\sigma=1.6$",5,42,DATER-reg,0.406
+"Digits-32, $\sigma=1.6$",5,42,MPCA,0.34
+"Digits-32, $\sigma=1.6$",5,42,2DLDA,0.36
+"Digits-32, $\sigma=1.6$",5,42,Nearest centroid,0.372
+"Digits-32, $\sigma=1.6$",5,42,Ridge,0.336
+"Digits-32, $\sigma=1.6$",5,42,Shrinkage LDA,0.362
+"Digits-32, $\sigma=1.6$",5,43,L-2DLDA,0.522
+"Digits-32, $\sigma=1.6$",5,43,DATER-reg,0.474
+"Digits-32, $\sigma=1.6$",5,43,MPCA,0.402
+"Digits-32, $\sigma=1.6$",5,43,2DLDA,0.406
+"Digits-32, $\sigma=1.6$",5,43,Nearest centroid,0.41
+"Digits-32, $\sigma=1.6$",5,43,Ridge,0.372
+"Digits-32, $\sigma=1.6$",5,43,Shrinkage LDA,0.402
+"Digits-32, $\sigma=1.6$",5,44,L-2DLDA,0.48
+"Digits-32, $\sigma=1.6$",5,44,DATER-reg,0.456
+"Digits-32, $\sigma=1.6$",5,44,MPCA,0.378
+"Digits-32, $\sigma=1.6$",5,44,2DLDA,0.39
+"Digits-32, $\sigma=1.6$",5,44,Nearest centroid,0.396
+"Digits-32, $\sigma=1.6$",5,44,Ridge,0.378
+"Digits-32, $\sigma=1.6$",5,44,Shrinkage LDA,0.392
+"Digits-32, $\sigma=1.6$",5,45,L-2DLDA,0.476
+"Digits-32, $\sigma=1.6$",5,45,DATER-reg,0.406
+"Digits-32, $\sigma=1.6$",5,45,MPCA,0.374
+"Digits-32, $\sigma=1.6$",5,45,2DLDA,0.39
+"Digits-32, $\sigma=1.6$",5,45,Nearest centroid,0.398
+"Digits-32, $\sigma=1.6$",5,45,Ridge,0.382
+"Digits-32, $\sigma=1.6$",5,45,Shrinkage LDA,0.374
+"Digits-32, $\sigma=1.6$",5,46,L-2DLDA,0.484
+"Digits-32, $\sigma=1.6$",5,46,DATER-reg,0.46
+"Digits-32, $\sigma=1.6$",5,46,MPCA,0.408
+"Digits-32, $\sigma=1.6$",5,46,2DLDA,0.418
+"Digits-32, $\sigma=1.6$",5,46,Nearest centroid,0.44
+"Digits-32, $\sigma=1.6$",5,46,Ridge,0.378
+"Digits-32, $\sigma=1.6$",5,46,Shrinkage LDA,0.408
+"Digits-32, $\sigma=1.6$",5,47,L-2DLDA,0.426
+"Digits-32, $\sigma=1.6$",5,47,DATER-reg,0.414
+"Digits-32, $\sigma=1.6$",5,47,MPCA,0.366
+"Digits-32, $\sigma=1.6$",5,47,2DLDA,0.386
+"Digits-32, $\sigma=1.6$",5,47,Nearest centroid,0.382
+"Digits-32, $\sigma=1.6$",5,47,Ridge,0.33
+"Digits-32, $\sigma=1.6$",5,47,Shrinkage LDA,0.37
+"Digits-32, $\sigma=1.6$",5,48,L-2DLDA,0.424
+"Digits-32, $\sigma=1.6$",5,48,DATER-reg,0.378
+"Digits-32, $\sigma=1.6$",5,48,MPCA,0.342
+"Digits-32, $\sigma=1.6$",5,48,2DLDA,0.366
+"Digits-32, $\sigma=1.6$",5,48,Nearest centroid,0.37
+"Digits-32, $\sigma=1.6$",5,48,Ridge,0.37
+"Digits-32, $\sigma=1.6$",5,48,Shrinkage LDA,0.388
+"Digits-32, $\sigma=1.6$",5,49,L-2DLDA,0.462
+"Digits-32, $\sigma=1.6$",5,49,DATER-reg,0.432
+"Digits-32, $\sigma=1.6$",5,49,MPCA,0.358
+"Digits-32, $\sigma=1.6$",5,49,2DLDA,0.384
+"Digits-32, $\sigma=1.6$",5,49,Nearest centroid,0.384
+"Digits-32, $\sigma=1.6$",5,49,Ridge,0.346
+"Digits-32, $\sigma=1.6$",5,49,Shrinkage LDA,0.366
+"USPS-32, $\sigma=1.2$",5,0,L-2DLDA,0.646
+"USPS-32, $\sigma=1.2$",5,0,DATER-reg,0.644
+"USPS-32, $\sigma=1.2$",5,0,MPCA,0.624
+"USPS-32, $\sigma=1.2$",5,0,2DLDA,0.632
+"USPS-32, $\sigma=1.2$",5,0,Nearest centroid,0.634
+"USPS-32, $\sigma=1.2$",5,0,Ridge,0.532
+"USPS-32, $\sigma=1.2$",5,0,Shrinkage LDA,0.584
+"USPS-32, $\sigma=1.2$",5,1,L-2DLDA,0.642
+"USPS-32, $\sigma=1.2$",5,1,DATER-reg,0.624
+"USPS-32, $\sigma=1.2$",5,1,MPCA,0.606
+"USPS-32, $\sigma=1.2$",5,1,2DLDA,0.604
+"USPS-32, $\sigma=1.2$",5,1,Nearest centroid,0.598
+"USPS-32, $\sigma=1.2$",5,1,Ridge,0.532
+"USPS-32, $\sigma=1.2$",5,1,Shrinkage LDA,0.578
+"USPS-32, $\sigma=1.2$",5,2,L-2DLDA,0.59
+"USPS-32, $\sigma=1.2$",5,2,DATER-reg,0.582
+"USPS-32, $\sigma=1.2$",5,2,MPCA,0.574
+"USPS-32, $\sigma=1.2$",5,2,2DLDA,0.578
+"USPS-32, $\sigma=1.2$",5,2,Nearest centroid,0.564
+"USPS-32, $\sigma=1.2$",5,2,Ridge,0.488
+"USPS-32, $\sigma=1.2$",5,2,Shrinkage LDA,0.524
+"USPS-32, $\sigma=1.2$",5,3,L-2DLDA,0.554
+"USPS-32, $\sigma=1.2$",5,3,DATER-reg,0.556
+"USPS-32, $\sigma=1.2$",5,3,MPCA,0.556
+"USPS-32, $\sigma=1.2$",5,3,2DLDA,0.55
+"USPS-32, $\sigma=1.2$",5,3,Nearest centroid,0.54
+"USPS-32, $\sigma=1.2$",5,3,Ridge,0.436
+"USPS-32, $\sigma=1.2$",5,3,Shrinkage LDA,0.452
+"USPS-32, $\sigma=1.2$",5,4,L-2DLDA,0.52
+"USPS-32, $\sigma=1.2$",5,4,DATER-reg,0.534
+"USPS-32, $\sigma=1.2$",5,4,MPCA,0.524
+"USPS-32, $\sigma=1.2$",5,4,2DLDA,0.522
+"USPS-32, $\sigma=1.2$",5,4,Nearest centroid,0.508
+"USPS-32, $\sigma=1.2$",5,4,Ridge,0.438
+"USPS-32, $\sigma=1.2$",5,4,Shrinkage LDA,0.47
+"USPS-32, $\sigma=1.2$",5,5,L-2DLDA,0.516
+"USPS-32, $\sigma=1.2$",5,5,DATER-reg,0.5
+"USPS-32, $\sigma=1.2$",5,5,MPCA,0.498
+"USPS-32, $\sigma=1.2$",5,5,2DLDA,0.5
+"USPS-32, $\sigma=1.2$",5,5,Nearest centroid,0.504
+"USPS-32, $\sigma=1.2$",5,5,Ridge,0.38
+"USPS-32, $\sigma=1.2$",5,5,Shrinkage LDA,0.43
+"USPS-32, $\sigma=1.2$",5,6,L-2DLDA,0.592
+"USPS-32, $\sigma=1.2$",5,6,DATER-reg,0.598
+"USPS-32, $\sigma=1.2$",5,6,MPCA,0.58
+"USPS-32, $\sigma=1.2$",5,6,2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,6,Nearest centroid,0.596
+"USPS-32, $\sigma=1.2$",5,6,Ridge,0.492
+"USPS-32, $\sigma=1.2$",5,6,Shrinkage LDA,0.56
+"USPS-32, $\sigma=1.2$",5,7,L-2DLDA,0.504
+"USPS-32, $\sigma=1.2$",5,7,DATER-reg,0.514
+"USPS-32, $\sigma=1.2$",5,7,MPCA,0.502
+"USPS-32, $\sigma=1.2$",5,7,2DLDA,0.488
+"USPS-32, $\sigma=1.2$",5,7,Nearest centroid,0.502
+"USPS-32, $\sigma=1.2$",5,7,Ridge,0.424
+"USPS-32, $\sigma=1.2$",5,7,Shrinkage LDA,0.442
+"USPS-32, $\sigma=1.2$",5,8,L-2DLDA,0.572
+"USPS-32, $\sigma=1.2$",5,8,DATER-reg,0.566
+"USPS-32, $\sigma=1.2$",5,8,MPCA,0.552
+"USPS-32, $\sigma=1.2$",5,8,2DLDA,0.562
+"USPS-32, $\sigma=1.2$",5,8,Nearest centroid,0.56
+"USPS-32, $\sigma=1.2$",5,8,Ridge,0.464
+"USPS-32, $\sigma=1.2$",5,8,Shrinkage LDA,0.456
+"USPS-32, $\sigma=1.2$",5,9,L-2DLDA,0.564
+"USPS-32, $\sigma=1.2$",5,9,DATER-reg,0.556
+"USPS-32, $\sigma=1.2$",5,9,MPCA,0.51
+"USPS-32, $\sigma=1.2$",5,9,2DLDA,0.524
+"USPS-32, $\sigma=1.2$",5,9,Nearest centroid,0.516
+"USPS-32, $\sigma=1.2$",5,9,Ridge,0.462
+"USPS-32, $\sigma=1.2$",5,9,Shrinkage LDA,0.488
+"USPS-32, $\sigma=1.2$",5,10,L-2DLDA,0.602
+"USPS-32, $\sigma=1.2$",5,10,DATER-reg,0.598
+"USPS-32, $\sigma=1.2$",5,10,MPCA,0.59
+"USPS-32, $\sigma=1.2$",5,10,2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,10,Nearest centroid,0.586
+"USPS-32, $\sigma=1.2$",5,10,Ridge,0.536
+"USPS-32, $\sigma=1.2$",5,10,Shrinkage LDA,0.55
+"USPS-32, $\sigma=1.2$",5,11,L-2DLDA,0.61
+"USPS-32, $\sigma=1.2$",5,11,DATER-reg,0.598
+"USPS-32, $\sigma=1.2$",5,11,MPCA,0.59
+"USPS-32, $\sigma=1.2$",5,11,2DLDA,0.596
+"USPS-32, $\sigma=1.2$",5,11,Nearest centroid,0.592
+"USPS-32, $\sigma=1.2$",5,11,Ridge,0.506
+"USPS-32, $\sigma=1.2$",5,11,Shrinkage LDA,0.542
+"USPS-32, $\sigma=1.2$",5,12,L-2DLDA,0.57
+"USPS-32, $\sigma=1.2$",5,12,DATER-reg,0.562
+"USPS-32, $\sigma=1.2$",5,12,MPCA,0.538
+"USPS-32, $\sigma=1.2$",5,12,2DLDA,0.534
+"USPS-32, $\sigma=1.2$",5,12,Nearest centroid,0.534
+"USPS-32, $\sigma=1.2$",5,12,Ridge,0.482
+"USPS-32, $\sigma=1.2$",5,12,Shrinkage LDA,0.506
+"USPS-32, $\sigma=1.2$",5,13,L-2DLDA,0.632
+"USPS-32, $\sigma=1.2$",5,13,DATER-reg,0.638
+"USPS-32, $\sigma=1.2$",5,13,MPCA,0.608
+"USPS-32, $\sigma=1.2$",5,13,2DLDA,0.616
+"USPS-32, $\sigma=1.2$",5,13,Nearest centroid,0.608
+"USPS-32, $\sigma=1.2$",5,13,Ridge,0.512
+"USPS-32, $\sigma=1.2$",5,13,Shrinkage LDA,0.526
+"USPS-32, $\sigma=1.2$",5,14,L-2DLDA,0.598
+"USPS-32, $\sigma=1.2$",5,14,DATER-reg,0.592
+"USPS-32, $\sigma=1.2$",5,14,MPCA,0.578
+"USPS-32, $\sigma=1.2$",5,14,2DLDA,0.57
+"USPS-32, $\sigma=1.2$",5,14,Nearest centroid,0.574
+"USPS-32, $\sigma=1.2$",5,14,Ridge,0.484
+"USPS-32, $\sigma=1.2$",5,14,Shrinkage LDA,0.476
+"USPS-32, $\sigma=1.2$",5,15,L-2DLDA,0.548
+"USPS-32, $\sigma=1.2$",5,15,DATER-reg,0.556
+"USPS-32, $\sigma=1.2$",5,15,MPCA,0.538
+"USPS-32, $\sigma=1.2$",5,15,2DLDA,0.534
+"USPS-32, $\sigma=1.2$",5,15,Nearest centroid,0.54
+"USPS-32, $\sigma=1.2$",5,15,Ridge,0.43
+"USPS-32, $\sigma=1.2$",5,15,Shrinkage LDA,0.45
+"USPS-32, $\sigma=1.2$",5,16,L-2DLDA,0.594
+"USPS-32, $\sigma=1.2$",5,16,DATER-reg,0.586
+"USPS-32, $\sigma=1.2$",5,16,MPCA,0.568
+"USPS-32, $\sigma=1.2$",5,16,2DLDA,0.568
+"USPS-32, $\sigma=1.2$",5,16,Nearest centroid,0.57
+"USPS-32, $\sigma=1.2$",5,16,Ridge,0.444
+"USPS-32, $\sigma=1.2$",5,16,Shrinkage LDA,0.512
+"USPS-32, $\sigma=1.2$",5,17,L-2DLDA,0.622
+"USPS-32, $\sigma=1.2$",5,17,DATER-reg,0.618
+"USPS-32, $\sigma=1.2$",5,17,MPCA,0.584
+"USPS-32, $\sigma=1.2$",5,17,2DLDA,0.584
+"USPS-32, $\sigma=1.2$",5,17,Nearest centroid,0.59
+"USPS-32, $\sigma=1.2$",5,17,Ridge,0.536
+"USPS-32, $\sigma=1.2$",5,17,Shrinkage LDA,0.56
+"USPS-32, $\sigma=1.2$",5,18,L-2DLDA,0.618
+"USPS-32, $\sigma=1.2$",5,18,DATER-reg,0.61
+"USPS-32, $\sigma=1.2$",5,18,MPCA,0.586
+"USPS-32, $\sigma=1.2$",5,18,2DLDA,0.586
+"USPS-32, $\sigma=1.2$",5,18,Nearest centroid,0.578
+"USPS-32, $\sigma=1.2$",5,18,Ridge,0.488
+"USPS-32, $\sigma=1.2$",5,18,Shrinkage LDA,0.564
+"USPS-32, $\sigma=1.2$",5,19,L-2DLDA,0.548
+"USPS-32, $\sigma=1.2$",5,19,DATER-reg,0.55
+"USPS-32, $\sigma=1.2$",5,19,MPCA,0.538
+"USPS-32, $\sigma=1.2$",5,19,2DLDA,0.532
+"USPS-32, $\sigma=1.2$",5,19,Nearest centroid,0.53
+"USPS-32, $\sigma=1.2$",5,19,Ridge,0.49
+"USPS-32, $\sigma=1.2$",5,19,Shrinkage LDA,0.536
+"USPS-32, $\sigma=1.2$",5,20,L-2DLDA,0.504
+"USPS-32, $\sigma=1.2$",5,20,DATER-reg,0.518
+"USPS-32, $\sigma=1.2$",5,20,MPCA,0.496
+"USPS-32, $\sigma=1.2$",5,20,2DLDA,0.502
+"USPS-32, $\sigma=1.2$",5,20,Nearest centroid,0.498
+"USPS-32, $\sigma=1.2$",5,20,Ridge,0.45
+"USPS-32, $\sigma=1.2$",5,20,Shrinkage LDA,0.462
+"USPS-32, $\sigma=1.2$",5,21,L-2DLDA,0.508
+"USPS-32, $\sigma=1.2$",5,21,DATER-reg,0.508
+"USPS-32, $\sigma=1.2$",5,21,MPCA,0.494
+"USPS-32, $\sigma=1.2$",5,21,2DLDA,0.482
+"USPS-32, $\sigma=1.2$",5,21,Nearest centroid,0.494
+"USPS-32, $\sigma=1.2$",5,21,Ridge,0.454
+"USPS-32, $\sigma=1.2$",5,21,Shrinkage LDA,0.464
+"USPS-32, $\sigma=1.2$",5,22,L-2DLDA,0.598
+"USPS-32, $\sigma=1.2$",5,22,DATER-reg,0.586
+"USPS-32, $\sigma=1.2$",5,22,MPCA,0.572
+"USPS-32, $\sigma=1.2$",5,22,2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,22,Nearest centroid,0.58
+"USPS-32, $\sigma=1.2$",5,22,Ridge,0.508
+"USPS-32, $\sigma=1.2$",5,22,Shrinkage LDA,0.532
+"USPS-32, $\sigma=1.2$",5,23,L-2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,23,DATER-reg,0.562
+"USPS-32, $\sigma=1.2$",5,23,MPCA,0.548
+"USPS-32, $\sigma=1.2$",5,23,2DLDA,0.554
+"USPS-32, $\sigma=1.2$",5,23,Nearest centroid,0.556
+"USPS-32, $\sigma=1.2$",5,23,Ridge,0.484
+"USPS-32, $\sigma=1.2$",5,23,Shrinkage LDA,0.518
+"USPS-32, $\sigma=1.2$",5,24,L-2DLDA,0.628
+"USPS-32, $\sigma=1.2$",5,24,DATER-reg,0.616
+"USPS-32, $\sigma=1.2$",5,24,MPCA,0.58
+"USPS-32, $\sigma=1.2$",5,24,2DLDA,0.606
+"USPS-32, $\sigma=1.2$",5,24,Nearest centroid,0.604
+"USPS-32, $\sigma=1.2$",5,24,Ridge,0.422
+"USPS-32, $\sigma=1.2$",5,24,Shrinkage LDA,0.48
+"USPS-32, $\sigma=1.2$",5,25,L-2DLDA,0.582
+"USPS-32, $\sigma=1.2$",5,25,DATER-reg,0.578
+"USPS-32, $\sigma=1.2$",5,25,MPCA,0.572
+"USPS-32, $\sigma=1.2$",5,25,2DLDA,0.556
+"USPS-32, $\sigma=1.2$",5,25,Nearest centroid,0.578
+"USPS-32, $\sigma=1.2$",5,25,Ridge,0.464
+"USPS-32, $\sigma=1.2$",5,25,Shrinkage LDA,0.53
+"USPS-32, $\sigma=1.2$",5,26,L-2DLDA,0.572
+"USPS-32, $\sigma=1.2$",5,26,DATER-reg,0.566
+"USPS-32, $\sigma=1.2$",5,26,MPCA,0.57
+"USPS-32, $\sigma=1.2$",5,26,2DLDA,0.566
+"USPS-32, $\sigma=1.2$",5,26,Nearest centroid,0.552
+"USPS-32, $\sigma=1.2$",5,26,Ridge,0.472
+"USPS-32, $\sigma=1.2$",5,26,Shrinkage LDA,0.484
+"USPS-32, $\sigma=1.2$",5,27,L-2DLDA,0.6
+"USPS-32, $\sigma=1.2$",5,27,DATER-reg,0.582
+"USPS-32, $\sigma=1.2$",5,27,MPCA,0.558
+"USPS-32, $\sigma=1.2$",5,27,2DLDA,0.564
+"USPS-32, $\sigma=1.2$",5,27,Nearest centroid,0.568
+"USPS-32, $\sigma=1.2$",5,27,Ridge,0.438
+"USPS-32, $\sigma=1.2$",5,27,Shrinkage LDA,0.48
+"USPS-32, $\sigma=1.2$",5,28,L-2DLDA,0.602
+"USPS-32, $\sigma=1.2$",5,28,DATER-reg,0.592
+"USPS-32, $\sigma=1.2$",5,28,MPCA,0.554
+"USPS-32, $\sigma=1.2$",5,28,2DLDA,0.556
+"USPS-32, $\sigma=1.2$",5,28,Nearest centroid,0.568
+"USPS-32, $\sigma=1.2$",5,28,Ridge,0.498
+"USPS-32, $\sigma=1.2$",5,28,Shrinkage LDA,0.552
+"USPS-32, $\sigma=1.2$",5,29,L-2DLDA,0.534
+"USPS-32, $\sigma=1.2$",5,29,DATER-reg,0.526
+"USPS-32, $\sigma=1.2$",5,29,MPCA,0.506
+"USPS-32, $\sigma=1.2$",5,29,2DLDA,0.514
+"USPS-32, $\sigma=1.2$",5,29,Nearest centroid,0.526
+"USPS-32, $\sigma=1.2$",5,29,Ridge,0.412
+"USPS-32, $\sigma=1.2$",5,29,Shrinkage LDA,0.454
+"USPS-32, $\sigma=1.2$",5,30,L-2DLDA,0.504
+"USPS-32, $\sigma=1.2$",5,30,DATER-reg,0.504
+"USPS-32, $\sigma=1.2$",5,30,MPCA,0.472
+"USPS-32, $\sigma=1.2$",5,30,2DLDA,0.476
+"USPS-32, $\sigma=1.2$",5,30,Nearest centroid,0.488
+"USPS-32, $\sigma=1.2$",5,30,Ridge,0.456
+"USPS-32, $\sigma=1.2$",5,30,Shrinkage LDA,0.502
+"USPS-32, $\sigma=1.2$",5,31,L-2DLDA,0.61
+"USPS-32, $\sigma=1.2$",5,31,DATER-reg,0.608
+"USPS-32, $\sigma=1.2$",5,31,MPCA,0.594
+"USPS-32, $\sigma=1.2$",5,31,2DLDA,0.592
+"USPS-32, $\sigma=1.2$",5,31,Nearest centroid,0.604
+"USPS-32, $\sigma=1.2$",5,31,Ridge,0.52
+"USPS-32, $\sigma=1.2$",5,31,Shrinkage LDA,0.542
+"USPS-32, $\sigma=1.2$",5,32,L-2DLDA,0.586
+"USPS-32, $\sigma=1.2$",5,32,DATER-reg,0.586
+"USPS-32, $\sigma=1.2$",5,32,MPCA,0.574
+"USPS-32, $\sigma=1.2$",5,32,2DLDA,0.578
+"USPS-32, $\sigma=1.2$",5,32,Nearest centroid,0.59
+"USPS-32, $\sigma=1.2$",5,32,Ridge,0.524
+"USPS-32, $\sigma=1.2$",5,32,Shrinkage LDA,0.522
+"USPS-32, $\sigma=1.2$",5,33,L-2DLDA,0.482
+"USPS-32, $\sigma=1.2$",5,33,DATER-reg,0.468
+"USPS-32, $\sigma=1.2$",5,33,MPCA,0.436
+"USPS-32, $\sigma=1.2$",5,33,2DLDA,0.454
+"USPS-32, $\sigma=1.2$",5,33,Nearest centroid,0.446
+"USPS-32, $\sigma=1.2$",5,33,Ridge,0.4
+"USPS-32, $\sigma=1.2$",5,33,Shrinkage LDA,0.444
+"USPS-32, $\sigma=1.2$",5,34,L-2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,34,DATER-reg,0.57
+"USPS-32, $\sigma=1.2$",5,34,MPCA,0.526
+"USPS-32, $\sigma=1.2$",5,34,2DLDA,0.536
+"USPS-32, $\sigma=1.2$",5,34,Nearest centroid,0.536
+"USPS-32, $\sigma=1.2$",5,34,Ridge,0.474
+"USPS-32, $\sigma=1.2$",5,34,Shrinkage LDA,0.514
+"USPS-32, $\sigma=1.2$",5,35,L-2DLDA,0.636
+"USPS-32, $\sigma=1.2$",5,35,DATER-reg,0.642
+"USPS-32, $\sigma=1.2$",5,35,MPCA,0.602
+"USPS-32, $\sigma=1.2$",5,35,2DLDA,0.62
+"USPS-32, $\sigma=1.2$",5,35,Nearest centroid,0.612
+"USPS-32, $\sigma=1.2$",5,35,Ridge,0.508
+"USPS-32, $\sigma=1.2$",5,35,Shrinkage LDA,0.588
+"USPS-32, $\sigma=1.2$",5,36,L-2DLDA,0.558
+"USPS-32, $\sigma=1.2$",5,36,DATER-reg,0.544
+"USPS-32, $\sigma=1.2$",5,36,MPCA,0.518
+"USPS-32, $\sigma=1.2$",5,36,2DLDA,0.506
+"USPS-32, $\sigma=1.2$",5,36,Nearest centroid,0.52
+"USPS-32, $\sigma=1.2$",5,36,Ridge,0.464
+"USPS-32, $\sigma=1.2$",5,36,Shrinkage LDA,0.482
+"USPS-32, $\sigma=1.2$",5,37,L-2DLDA,0.592
+"USPS-32, $\sigma=1.2$",5,37,DATER-reg,0.576
+"USPS-32, $\sigma=1.2$",5,37,MPCA,0.572
+"USPS-32, $\sigma=1.2$",5,37,2DLDA,0.566
+"USPS-32, $\sigma=1.2$",5,37,Nearest centroid,0.552
+"USPS-32, $\sigma=1.2$",5,37,Ridge,0.47
+"USPS-32, $\sigma=1.2$",5,37,Shrinkage LDA,0.49
+"USPS-32, $\sigma=1.2$",5,38,L-2DLDA,0.54
+"USPS-32, $\sigma=1.2$",5,38,DATER-reg,0.548
+"USPS-32, $\sigma=1.2$",5,38,MPCA,0.534
+"USPS-32, $\sigma=1.2$",5,38,2DLDA,0.518
+"USPS-32, $\sigma=1.2$",5,38,Nearest centroid,0.524
+"USPS-32, $\sigma=1.2$",5,38,Ridge,0.454
+"USPS-32, $\sigma=1.2$",5,38,Shrinkage LDA,0.472
+"USPS-32, $\sigma=1.2$",5,39,L-2DLDA,0.598
+"USPS-32, $\sigma=1.2$",5,39,DATER-reg,0.6
+"USPS-32, $\sigma=1.2$",5,39,MPCA,0.586
+"USPS-32, $\sigma=1.2$",5,39,2DLDA,0.59
+"USPS-32, $\sigma=1.2$",5,39,Nearest centroid,0.596
+"USPS-32, $\sigma=1.2$",5,39,Ridge,0.542
+"USPS-32, $\sigma=1.2$",5,39,Shrinkage LDA,0.546
+"USPS-32, $\sigma=1.2$",5,40,L-2DLDA,0.584
+"USPS-32, $\sigma=1.2$",5,40,DATER-reg,0.586
+"USPS-32, $\sigma=1.2$",5,40,MPCA,0.578
+"USPS-32, $\sigma=1.2$",5,40,2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,40,Nearest centroid,0.578
+"USPS-32, $\sigma=1.2$",5,40,Ridge,0.49
+"USPS-32, $\sigma=1.2$",5,40,Shrinkage LDA,0.532
+"USPS-32, $\sigma=1.2$",5,41,L-2DLDA,0.604
+"USPS-32, $\sigma=1.2$",5,41,DATER-reg,0.602
+"USPS-32, $\sigma=1.2$",5,41,MPCA,0.572
+"USPS-32, $\sigma=1.2$",5,41,2DLDA,0.582
+"USPS-32, $\sigma=1.2$",5,41,Nearest centroid,0.582
+"USPS-32, $\sigma=1.2$",5,41,Ridge,0.47
+"USPS-32, $\sigma=1.2$",5,41,Shrinkage LDA,0.516
+"USPS-32, $\sigma=1.2$",5,42,L-2DLDA,0.592
+"USPS-32, $\sigma=1.2$",5,42,DATER-reg,0.598
+"USPS-32, $\sigma=1.2$",5,42,MPCA,0.558
+"USPS-32, $\sigma=1.2$",5,42,2DLDA,0.554
+"USPS-32, $\sigma=1.2$",5,42,Nearest centroid,0.55
+"USPS-32, $\sigma=1.2$",5,42,Ridge,0.504
+"USPS-32, $\sigma=1.2$",5,42,Shrinkage LDA,0.52
+"USPS-32, $\sigma=1.2$",5,43,L-2DLDA,0.568
+"USPS-32, $\sigma=1.2$",5,43,DATER-reg,0.568
+"USPS-32, $\sigma=1.2$",5,43,MPCA,0.556
+"USPS-32, $\sigma=1.2$",5,43,2DLDA,0.558
+"USPS-32, $\sigma=1.2$",5,43,Nearest centroid,0.552
+"USPS-32, $\sigma=1.2$",5,43,Ridge,0.43
+"USPS-32, $\sigma=1.2$",5,43,Shrinkage LDA,0.472
+"USPS-32, $\sigma=1.2$",5,44,L-2DLDA,0.55
+"USPS-32, $\sigma=1.2$",5,44,DATER-reg,0.55
+"USPS-32, $\sigma=1.2$",5,44,MPCA,0.546
+"USPS-32, $\sigma=1.2$",5,44,2DLDA,0.54
+"USPS-32, $\sigma=1.2$",5,44,Nearest centroid,0.538
+"USPS-32, $\sigma=1.2$",5,44,Ridge,0.504
+"USPS-32, $\sigma=1.2$",5,44,Shrinkage LDA,0.514
+"USPS-32, $\sigma=1.2$",5,45,L-2DLDA,0.628
+"USPS-32, $\sigma=1.2$",5,45,DATER-reg,0.632
+"USPS-32, $\sigma=1.2$",5,45,MPCA,0.598
+"USPS-32, $\sigma=1.2$",5,45,2DLDA,0.6
+"USPS-32, $\sigma=1.2$",5,45,Nearest centroid,0.598
+"USPS-32, $\sigma=1.2$",5,45,Ridge,0.524
+"USPS-32, $\sigma=1.2$",5,45,Shrinkage LDA,0.562
+"USPS-32, $\sigma=1.2$",5,46,L-2DLDA,0.608
+"USPS-32, $\sigma=1.2$",5,46,DATER-reg,0.604
+"USPS-32, $\sigma=1.2$",5,46,MPCA,0.578
+"USPS-32, $\sigma=1.2$",5,46,2DLDA,0.58
+"USPS-32, $\sigma=1.2$",5,46,Nearest centroid,0.584
+"USPS-32, $\sigma=1.2$",5,46,Ridge,0.452
+"USPS-32, $\sigma=1.2$",5,46,Shrinkage LDA,0.476
+"USPS-32, $\sigma=1.2$",5,47,L-2DLDA,0.566
+"USPS-32, $\sigma=1.2$",5,47,DATER-reg,0.56
+"USPS-32, $\sigma=1.2$",5,47,MPCA,0.546
+"USPS-32, $\sigma=1.2$",5,47,2DLDA,0.568
+"USPS-32, $\sigma=1.2$",5,47,Nearest centroid,0.542
+"USPS-32, $\sigma=1.2$",5,47,Ridge,0.464
+"USPS-32, $\sigma=1.2$",5,47,Shrinkage LDA,0.496
+"USPS-32, $\sigma=1.2$",5,48,L-2DLDA,0.548
+"USPS-32, $\sigma=1.2$",5,48,DATER-reg,0.548
+"USPS-32, $\sigma=1.2$",5,48,MPCA,0.532
+"USPS-32, $\sigma=1.2$",5,48,2DLDA,0.534
+"USPS-32, $\sigma=1.2$",5,48,Nearest centroid,0.528
+"USPS-32, $\sigma=1.2$",5,48,Ridge,0.408
+"USPS-32, $\sigma=1.2$",5,48,Shrinkage LDA,0.464
+"USPS-32, $\sigma=1.2$",5,49,L-2DLDA,0.558
+"USPS-32, $\sigma=1.2$",5,49,DATER-reg,0.564
+"USPS-32, $\sigma=1.2$",5,49,MPCA,0.536
+"USPS-32, $\sigma=1.2$",5,49,2DLDA,0.55
+"USPS-32, $\sigma=1.2$",5,49,Nearest centroid,0.548
+"USPS-32, $\sigma=1.2$",5,49,Ridge,0.464
+"USPS-32, $\sigma=1.2$",5,49,Shrinkage LDA,0.47
+"USPS-32, $\sigma=1.6$",5,0,L-2DLDA,0.45
+"USPS-32, $\sigma=1.6$",5,0,DATER-reg,0.426
+"USPS-32, $\sigma=1.6$",5,0,MPCA,0.398
+"USPS-32, $\sigma=1.6$",5,0,2DLDA,0.408
+"USPS-32, $\sigma=1.6$",5,0,Nearest centroid,0.408
+"USPS-32, $\sigma=1.6$",5,0,Ridge,0.332
+"USPS-32, $\sigma=1.6$",5,0,Shrinkage LDA,0.376
+"USPS-32, $\sigma=1.6$",5,1,L-2DLDA,0.416
+"USPS-32, $\sigma=1.6$",5,1,DATER-reg,0.41
+"USPS-32, $\sigma=1.6$",5,1,MPCA,0.4
+"USPS-32, $\sigma=1.6$",5,1,2DLDA,0.39
+"USPS-32, $\sigma=1.6$",5,1,Nearest centroid,0.39
+"USPS-32, $\sigma=1.6$",5,1,Ridge,0.296
+"USPS-32, $\sigma=1.6$",5,1,Shrinkage LDA,0.328
+"USPS-32, $\sigma=1.6$",5,2,L-2DLDA,0.48
+"USPS-32, $\sigma=1.6$",5,2,DATER-reg,0.47
+"USPS-32, $\sigma=1.6$",5,2,MPCA,0.436
+"USPS-32, $\sigma=1.6$",5,2,2DLDA,0.444
+"USPS-32, $\sigma=1.6$",5,2,Nearest centroid,0.424
+"USPS-32, $\sigma=1.6$",5,2,Ridge,0.398
+"USPS-32, $\sigma=1.6$",5,2,Shrinkage LDA,0.394
+"USPS-32, $\sigma=1.6$",5,3,L-2DLDA,0.502
+"USPS-32, $\sigma=1.6$",5,3,DATER-reg,0.486
+"USPS-32, $\sigma=1.6$",5,3,MPCA,0.468
+"USPS-32, $\sigma=1.6$",5,3,2DLDA,0.47
+"USPS-32, $\sigma=1.6$",5,3,Nearest centroid,0.474
+"USPS-32, $\sigma=1.6$",5,3,Ridge,0.39
+"USPS-32, $\sigma=1.6$",5,3,Shrinkage LDA,0.41
+"USPS-32, $\sigma=1.6$",5,4,L-2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,4,DATER-reg,0.452
+"USPS-32, $\sigma=1.6$",5,4,MPCA,0.434
+"USPS-32, $\sigma=1.6$",5,4,2DLDA,0.426
+"USPS-32, $\sigma=1.6$",5,4,Nearest centroid,0.43
+"USPS-32, $\sigma=1.6$",5,4,Ridge,0.4
+"USPS-32, $\sigma=1.6$",5,4,Shrinkage LDA,0.426
+"USPS-32, $\sigma=1.6$",5,5,L-2DLDA,0.41
+"USPS-32, $\sigma=1.6$",5,5,DATER-reg,0.386
+"USPS-32, $\sigma=1.6$",5,5,MPCA,0.362
+"USPS-32, $\sigma=1.6$",5,5,2DLDA,0.364
+"USPS-32, $\sigma=1.6$",5,5,Nearest centroid,0.374
+"USPS-32, $\sigma=1.6$",5,5,Ridge,0.364
+"USPS-32, $\sigma=1.6$",5,5,Shrinkage LDA,0.364
+"USPS-32, $\sigma=1.6$",5,6,L-2DLDA,0.482
+"USPS-32, $\sigma=1.6$",5,6,DATER-reg,0.486
+"USPS-32, $\sigma=1.6$",5,6,MPCA,0.474
+"USPS-32, $\sigma=1.6$",5,6,2DLDA,0.478
+"USPS-32, $\sigma=1.6$",5,6,Nearest centroid,0.462
+"USPS-32, $\sigma=1.6$",5,6,Ridge,0.392
+"USPS-32, $\sigma=1.6$",5,6,Shrinkage LDA,0.422
+"USPS-32, $\sigma=1.6$",5,7,L-2DLDA,0.52
+"USPS-32, $\sigma=1.6$",5,7,DATER-reg,0.508
+"USPS-32, $\sigma=1.6$",5,7,MPCA,0.488
+"USPS-32, $\sigma=1.6$",5,7,2DLDA,0.492
+"USPS-32, $\sigma=1.6$",5,7,Nearest centroid,0.494
+"USPS-32, $\sigma=1.6$",5,7,Ridge,0.42
+"USPS-32, $\sigma=1.6$",5,7,Shrinkage LDA,0.434
+"USPS-32, $\sigma=1.6$",5,8,L-2DLDA,0.402
+"USPS-32, $\sigma=1.6$",5,8,DATER-reg,0.404
+"USPS-32, $\sigma=1.6$",5,8,MPCA,0.374
+"USPS-32, $\sigma=1.6$",5,8,2DLDA,0.388
+"USPS-32, $\sigma=1.6$",5,8,Nearest centroid,0.382
+"USPS-32, $\sigma=1.6$",5,8,Ridge,0.314
+"USPS-32, $\sigma=1.6$",5,8,Shrinkage LDA,0.35
+"USPS-32, $\sigma=1.6$",5,9,L-2DLDA,0.446
+"USPS-32, $\sigma=1.6$",5,9,DATER-reg,0.434
+"USPS-32, $\sigma=1.6$",5,9,MPCA,0.43
+"USPS-32, $\sigma=1.6$",5,9,2DLDA,0.43
+"USPS-32, $\sigma=1.6$",5,9,Nearest centroid,0.426
+"USPS-32, $\sigma=1.6$",5,9,Ridge,0.358
+"USPS-32, $\sigma=1.6$",5,9,Shrinkage LDA,0.388
+"USPS-32, $\sigma=1.6$",5,10,L-2DLDA,0.468
+"USPS-32, $\sigma=1.6$",5,10,DATER-reg,0.454
+"USPS-32, $\sigma=1.6$",5,10,MPCA,0.414
+"USPS-32, $\sigma=1.6$",5,10,2DLDA,0.432
+"USPS-32, $\sigma=1.6$",5,10,Nearest centroid,0.42
+"USPS-32, $\sigma=1.6$",5,10,Ridge,0.352
+"USPS-32, $\sigma=1.6$",5,10,Shrinkage LDA,0.38
+"USPS-32, $\sigma=1.6$",5,11,L-2DLDA,0.424
+"USPS-32, $\sigma=1.6$",5,11,DATER-reg,0.412
+"USPS-32, $\sigma=1.6$",5,11,MPCA,0.41
+"USPS-32, $\sigma=1.6$",5,11,2DLDA,0.416
+"USPS-32, $\sigma=1.6$",5,11,Nearest centroid,0.426
+"USPS-32, $\sigma=1.6$",5,11,Ridge,0.338
+"USPS-32, $\sigma=1.6$",5,11,Shrinkage LDA,0.364
+"USPS-32, $\sigma=1.6$",5,12,L-2DLDA,0.448
+"USPS-32, $\sigma=1.6$",5,12,DATER-reg,0.438
+"USPS-32, $\sigma=1.6$",5,12,MPCA,0.4
+"USPS-32, $\sigma=1.6$",5,12,2DLDA,0.408
+"USPS-32, $\sigma=1.6$",5,12,Nearest centroid,0.416
+"USPS-32, $\sigma=1.6$",5,12,Ridge,0.366
+"USPS-32, $\sigma=1.6$",5,12,Shrinkage LDA,0.38
+"USPS-32, $\sigma=1.6$",5,13,L-2DLDA,0.43
+"USPS-32, $\sigma=1.6$",5,13,DATER-reg,0.436
+"USPS-32, $\sigma=1.6$",5,13,MPCA,0.416
+"USPS-32, $\sigma=1.6$",5,13,2DLDA,0.42
+"USPS-32, $\sigma=1.6$",5,13,Nearest centroid,0.422
+"USPS-32, $\sigma=1.6$",5,13,Ridge,0.346
+"USPS-32, $\sigma=1.6$",5,13,Shrinkage LDA,0.368
+"USPS-32, $\sigma=1.6$",5,14,L-2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,14,DATER-reg,0.462
+"USPS-32, $\sigma=1.6$",5,14,MPCA,0.432
+"USPS-32, $\sigma=1.6$",5,14,2DLDA,0.432
+"USPS-32, $\sigma=1.6$",5,14,Nearest centroid,0.442
+"USPS-32, $\sigma=1.6$",5,14,Ridge,0.344
+"USPS-32, $\sigma=1.6$",5,14,Shrinkage LDA,0.386
+"USPS-32, $\sigma=1.6$",5,15,L-2DLDA,0.496
+"USPS-32, $\sigma=1.6$",5,15,DATER-reg,0.488
+"USPS-32, $\sigma=1.6$",5,15,MPCA,0.48
+"USPS-32, $\sigma=1.6$",5,15,2DLDA,0.484
+"USPS-32, $\sigma=1.6$",5,15,Nearest centroid,0.458
+"USPS-32, $\sigma=1.6$",5,15,Ridge,0.358
+"USPS-32, $\sigma=1.6$",5,15,Shrinkage LDA,0.4
+"USPS-32, $\sigma=1.6$",5,16,L-2DLDA,0.476
+"USPS-32, $\sigma=1.6$",5,16,DATER-reg,0.46
+"USPS-32, $\sigma=1.6$",5,16,MPCA,0.468
+"USPS-32, $\sigma=1.6$",5,16,2DLDA,0.458
+"USPS-32, $\sigma=1.6$",5,16,Nearest centroid,0.46
+"USPS-32, $\sigma=1.6$",5,16,Ridge,0.376
+"USPS-32, $\sigma=1.6$",5,16,Shrinkage LDA,0.386
+"USPS-32, $\sigma=1.6$",5,17,L-2DLDA,0.422
+"USPS-32, $\sigma=1.6$",5,17,DATER-reg,0.42
+"USPS-32, $\sigma=1.6$",5,17,MPCA,0.386
+"USPS-32, $\sigma=1.6$",5,17,2DLDA,0.398
+"USPS-32, $\sigma=1.6$",5,17,Nearest centroid,0.39
+"USPS-32, $\sigma=1.6$",5,17,Ridge,0.364
+"USPS-32, $\sigma=1.6$",5,17,Shrinkage LDA,0.382
+"USPS-32, $\sigma=1.6$",5,18,L-2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,18,DATER-reg,0.458
+"USPS-32, $\sigma=1.6$",5,18,MPCA,0.434
+"USPS-32, $\sigma=1.6$",5,18,2DLDA,0.428
+"USPS-32, $\sigma=1.6$",5,18,Nearest centroid,0.436
+"USPS-32, $\sigma=1.6$",5,18,Ridge,0.386
+"USPS-32, $\sigma=1.6$",5,18,Shrinkage LDA,0.394
+"USPS-32, $\sigma=1.6$",5,19,L-2DLDA,0.494
+"USPS-32, $\sigma=1.6$",5,19,DATER-reg,0.498
+"USPS-32, $\sigma=1.6$",5,19,MPCA,0.47
+"USPS-32, $\sigma=1.6$",5,19,2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,19,Nearest centroid,0.448
+"USPS-32, $\sigma=1.6$",5,19,Ridge,0.41
+"USPS-32, $\sigma=1.6$",5,19,Shrinkage LDA,0.442
+"USPS-32, $\sigma=1.6$",5,20,L-2DLDA,0.448
+"USPS-32, $\sigma=1.6$",5,20,DATER-reg,0.458
+"USPS-32, $\sigma=1.6$",5,20,MPCA,0.444
+"USPS-32, $\sigma=1.6$",5,20,2DLDA,0.454
+"USPS-32, $\sigma=1.6$",5,20,Nearest centroid,0.462
+"USPS-32, $\sigma=1.6$",5,20,Ridge,0.368
+"USPS-32, $\sigma=1.6$",5,20,Shrinkage LDA,0.402
+"USPS-32, $\sigma=1.6$",5,21,L-2DLDA,0.404
+"USPS-32, $\sigma=1.6$",5,21,DATER-reg,0.424
+"USPS-32, $\sigma=1.6$",5,21,MPCA,0.42
+"USPS-32, $\sigma=1.6$",5,21,2DLDA,0.418
+"USPS-32, $\sigma=1.6$",5,21,Nearest centroid,0.432
+"USPS-32, $\sigma=1.6$",5,21,Ridge,0.35
+"USPS-32, $\sigma=1.6$",5,21,Shrinkage LDA,0.388
+"USPS-32, $\sigma=1.6$",5,22,L-2DLDA,0.512
+"USPS-32, $\sigma=1.6$",5,22,DATER-reg,0.5
+"USPS-32, $\sigma=1.6$",5,22,MPCA,0.474
+"USPS-32, $\sigma=1.6$",5,22,2DLDA,0.486
+"USPS-32, $\sigma=1.6$",5,22,Nearest centroid,0.49
+"USPS-32, $\sigma=1.6$",5,22,Ridge,0.384
+"USPS-32, $\sigma=1.6$",5,22,Shrinkage LDA,0.402
+"USPS-32, $\sigma=1.6$",5,23,L-2DLDA,0.446
+"USPS-32, $\sigma=1.6$",5,23,DATER-reg,0.442
+"USPS-32, $\sigma=1.6$",5,23,MPCA,0.448
+"USPS-32, $\sigma=1.6$",5,23,2DLDA,0.446
+"USPS-32, $\sigma=1.6$",5,23,Nearest centroid,0.458
+"USPS-32, $\sigma=1.6$",5,23,Ridge,0.382
+"USPS-32, $\sigma=1.6$",5,23,Shrinkage LDA,0.38
+"USPS-32, $\sigma=1.6$",5,24,L-2DLDA,0.502
+"USPS-32, $\sigma=1.6$",5,24,DATER-reg,0.506
+"USPS-32, $\sigma=1.6$",5,24,MPCA,0.462
+"USPS-32, $\sigma=1.6$",5,24,2DLDA,0.468
+"USPS-32, $\sigma=1.6$",5,24,Nearest centroid,0.478
+"USPS-32, $\sigma=1.6$",5,24,Ridge,0.378
+"USPS-32, $\sigma=1.6$",5,24,Shrinkage LDA,0.42
+"USPS-32, $\sigma=1.6$",5,25,L-2DLDA,0.476
+"USPS-32, $\sigma=1.6$",5,25,DATER-reg,0.466
+"USPS-32, $\sigma=1.6$",5,25,MPCA,0.434
+"USPS-32, $\sigma=1.6$",5,25,2DLDA,0.444
+"USPS-32, $\sigma=1.6$",5,25,Nearest centroid,0.442
+"USPS-32, $\sigma=1.6$",5,25,Ridge,0.404
+"USPS-32, $\sigma=1.6$",5,25,Shrinkage LDA,0.424
+"USPS-32, $\sigma=1.6$",5,26,L-2DLDA,0.504
+"USPS-32, $\sigma=1.6$",5,26,DATER-reg,0.5
+"USPS-32, $\sigma=1.6$",5,26,MPCA,0.44
+"USPS-32, $\sigma=1.6$",5,26,2DLDA,0.454
+"USPS-32, $\sigma=1.6$",5,26,Nearest centroid,0.456
+"USPS-32, $\sigma=1.6$",5,26,Ridge,0.416
+"USPS-32, $\sigma=1.6$",5,26,Shrinkage LDA,0.406
+"USPS-32, $\sigma=1.6$",5,27,L-2DLDA,0.418
+"USPS-32, $\sigma=1.6$",5,27,DATER-reg,0.412
+"USPS-32, $\sigma=1.6$",5,27,MPCA,0.42
+"USPS-32, $\sigma=1.6$",5,27,2DLDA,0.414
+"USPS-32, $\sigma=1.6$",5,27,Nearest centroid,0.424
+"USPS-32, $\sigma=1.6$",5,27,Ridge,0.338
+"USPS-32, $\sigma=1.6$",5,27,Shrinkage LDA,0.332
+"USPS-32, $\sigma=1.6$",5,28,L-2DLDA,0.496
+"USPS-32, $\sigma=1.6$",5,28,DATER-reg,0.488
+"USPS-32, $\sigma=1.6$",5,28,MPCA,0.452
+"USPS-32, $\sigma=1.6$",5,28,2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,28,Nearest centroid,0.46
+"USPS-32, $\sigma=1.6$",5,28,Ridge,0.382
+"USPS-32, $\sigma=1.6$",5,28,Shrinkage LDA,0.42
+"USPS-32, $\sigma=1.6$",5,29,L-2DLDA,0.428
+"USPS-32, $\sigma=1.6$",5,29,DATER-reg,0.45
+"USPS-32, $\sigma=1.6$",5,29,MPCA,0.41
+"USPS-32, $\sigma=1.6$",5,29,2DLDA,0.424
+"USPS-32, $\sigma=1.6$",5,29,Nearest centroid,0.424
+"USPS-32, $\sigma=1.6$",5,29,Ridge,0.346
+"USPS-32, $\sigma=1.6$",5,29,Shrinkage LDA,0.38
+"USPS-32, $\sigma=1.6$",5,30,L-2DLDA,0.456
+"USPS-32, $\sigma=1.6$",5,30,DATER-reg,0.456
+"USPS-32, $\sigma=1.6$",5,30,MPCA,0.46
+"USPS-32, $\sigma=1.6$",5,30,2DLDA,0.452
+"USPS-32, $\sigma=1.6$",5,30,Nearest centroid,0.464
+"USPS-32, $\sigma=1.6$",5,30,Ridge,0.396
+"USPS-32, $\sigma=1.6$",5,30,Shrinkage LDA,0.418
+"USPS-32, $\sigma=1.6$",5,31,L-2DLDA,0.464
+"USPS-32, $\sigma=1.6$",5,31,DATER-reg,0.452
+"USPS-32, $\sigma=1.6$",5,31,MPCA,0.42
+"USPS-32, $\sigma=1.6$",5,31,2DLDA,0.426
+"USPS-32, $\sigma=1.6$",5,31,Nearest centroid,0.442
+"USPS-32, $\sigma=1.6$",5,31,Ridge,0.396
+"USPS-32, $\sigma=1.6$",5,31,Shrinkage LDA,0.418
+"USPS-32, $\sigma=1.6$",5,32,L-2DLDA,0.406
+"USPS-32, $\sigma=1.6$",5,32,DATER-reg,0.39
+"USPS-32, $\sigma=1.6$",5,32,MPCA,0.402
+"USPS-32, $\sigma=1.6$",5,32,2DLDA,0.386
+"USPS-32, $\sigma=1.6$",5,32,Nearest centroid,0.396
+"USPS-32, $\sigma=1.6$",5,32,Ridge,0.354
+"USPS-32, $\sigma=1.6$",5,32,Shrinkage LDA,0.37
+"USPS-32, $\sigma=1.6$",5,33,L-2DLDA,0.464
+"USPS-32, $\sigma=1.6$",5,33,DATER-reg,0.476
+"USPS-32, $\sigma=1.6$",5,33,MPCA,0.48
+"USPS-32, $\sigma=1.6$",5,33,2DLDA,0.462
+"USPS-32, $\sigma=1.6$",5,33,Nearest centroid,0.456
+"USPS-32, $\sigma=1.6$",5,33,Ridge,0.4
+"USPS-32, $\sigma=1.6$",5,33,Shrinkage LDA,0.428
+"USPS-32, $\sigma=1.6$",5,34,L-2DLDA,0.46
+"USPS-32, $\sigma=1.6$",5,34,DATER-reg,0.458
+"USPS-32, $\sigma=1.6$",5,34,MPCA,0.436
+"USPS-32, $\sigma=1.6$",5,34,2DLDA,0.428
+"USPS-32, $\sigma=1.6$",5,34,Nearest centroid,0.438
+"USPS-32, $\sigma=1.6$",5,34,Ridge,0.382
+"USPS-32, $\sigma=1.6$",5,34,Shrinkage LDA,0.416
+"USPS-32, $\sigma=1.6$",5,35,L-2DLDA,0.428
+"USPS-32, $\sigma=1.6$",5,35,DATER-reg,0.436
+"USPS-32, $\sigma=1.6$",5,35,MPCA,0.39
+"USPS-32, $\sigma=1.6$",5,35,2DLDA,0.396
+"USPS-32, $\sigma=1.6$",5,35,Nearest centroid,0.388
+"USPS-32, $\sigma=1.6$",5,35,Ridge,0.338
+"USPS-32, $\sigma=1.6$",5,35,Shrinkage LDA,0.378
+"USPS-32, $\sigma=1.6$",5,36,L-2DLDA,0.434
+"USPS-32, $\sigma=1.6$",5,36,DATER-reg,0.428
+"USPS-32, $\sigma=1.6$",5,36,MPCA,0.396
+"USPS-32, $\sigma=1.6$",5,36,2DLDA,0.418
+"USPS-32, $\sigma=1.6$",5,36,Nearest centroid,0.41
+"USPS-32, $\sigma=1.6$",5,36,Ridge,0.346
+"USPS-32, $\sigma=1.6$",5,36,Shrinkage LDA,0.354
+"USPS-32, $\sigma=1.6$",5,37,L-2DLDA,0.512
+"USPS-32, $\sigma=1.6$",5,37,DATER-reg,0.502
+"USPS-32, $\sigma=1.6$",5,37,MPCA,0.45
+"USPS-32, $\sigma=1.6$",5,37,2DLDA,0.456
+"USPS-32, $\sigma=1.6$",5,37,Nearest centroid,0.424
+"USPS-32, $\sigma=1.6$",5,37,Ridge,0.416
+"USPS-32, $\sigma=1.6$",5,37,Shrinkage LDA,0.45
+"USPS-32, $\sigma=1.6$",5,38,L-2DLDA,0.42
+"USPS-32, $\sigma=1.6$",5,38,DATER-reg,0.404
+"USPS-32, $\sigma=1.6$",5,38,MPCA,0.378
+"USPS-32, $\sigma=1.6$",5,38,2DLDA,0.38
+"USPS-32, $\sigma=1.6$",5,38,Nearest centroid,0.388
+"USPS-32, $\sigma=1.6$",5,38,Ridge,0.346
+"USPS-32, $\sigma=1.6$",5,38,Shrinkage LDA,0.37
+"USPS-32, $\sigma=1.6$",5,39,L-2DLDA,0.452
+"USPS-32, $\sigma=1.6$",5,39,DATER-reg,0.464
+"USPS-32, $\sigma=1.6$",5,39,MPCA,0.45
+"USPS-32, $\sigma=1.6$",5,39,2DLDA,0.442
+"USPS-32, $\sigma=1.6$",5,39,Nearest centroid,0.46
+"USPS-32, $\sigma=1.6$",5,39,Ridge,0.398
+"USPS-32, $\sigma=1.6$",5,39,Shrinkage LDA,0.43
+"USPS-32, $\sigma=1.6$",5,40,L-2DLDA,0.472
+"USPS-32, $\sigma=1.6$",5,40,DATER-reg,0.474
+"USPS-32, $\sigma=1.6$",5,40,MPCA,0.464
+"USPS-32, $\sigma=1.6$",5,40,2DLDA,0.458
+"USPS-32, $\sigma=1.6$",5,40,Nearest centroid,0.44
+"USPS-32, $\sigma=1.6$",5,40,Ridge,0.37
+"USPS-32, $\sigma=1.6$",5,40,Shrinkage LDA,0.376
+"USPS-32, $\sigma=1.6$",5,41,L-2DLDA,0.376
+"USPS-32, $\sigma=1.6$",5,41,DATER-reg,0.366
+"USPS-32, $\sigma=1.6$",5,41,MPCA,0.356
+"USPS-32, $\sigma=1.6$",5,41,2DLDA,0.362
+"USPS-32, $\sigma=1.6$",5,41,Nearest centroid,0.358
+"USPS-32, $\sigma=1.6$",5,41,Ridge,0.318
+"USPS-32, $\sigma=1.6$",5,41,Shrinkage LDA,0.34
+"USPS-32, $\sigma=1.6$",5,42,L-2DLDA,0.392
+"USPS-32, $\sigma=1.6$",5,42,DATER-reg,0.392
+"USPS-32, $\sigma=1.6$",5,42,MPCA,0.364
+"USPS-32, $\sigma=1.6$",5,42,2DLDA,0.37
+"USPS-32, $\sigma=1.6$",5,42,Nearest centroid,0.372
+"USPS-32, $\sigma=1.6$",5,42,Ridge,0.31
+"USPS-32, $\sigma=1.6$",5,42,Shrinkage LDA,0.318
+"USPS-32, $\sigma=1.6$",5,43,L-2DLDA,0.41
+"USPS-32, $\sigma=1.6$",5,43,DATER-reg,0.394
+"USPS-32, $\sigma=1.6$",5,43,MPCA,0.358
+"USPS-32, $\sigma=1.6$",5,43,2DLDA,0.366
+"USPS-32, $\sigma=1.6$",5,43,Nearest centroid,0.36
+"USPS-32, $\sigma=1.6$",5,43,Ridge,0.324
+"USPS-32, $\sigma=1.6$",5,43,Shrinkage LDA,0.352
+"USPS-32, $\sigma=1.6$",5,44,L-2DLDA,0.468
+"USPS-32, $\sigma=1.6$",5,44,DATER-reg,0.454
+"USPS-32, $\sigma=1.6$",5,44,MPCA,0.452
+"USPS-32, $\sigma=1.6$",5,44,2DLDA,0.45
+"USPS-32, $\sigma=1.6$",5,44,Nearest centroid,0.448
+"USPS-32, $\sigma=1.6$",5,44,Ridge,0.362
+"USPS-32, $\sigma=1.6$",5,44,Shrinkage LDA,0.386
+"USPS-32, $\sigma=1.6$",5,45,L-2DLDA,0.486
+"USPS-32, $\sigma=1.6$",5,45,DATER-reg,0.476
+"USPS-32, $\sigma=1.6$",5,45,MPCA,0.452
+"USPS-32, $\sigma=1.6$",5,45,2DLDA,0.468
+"USPS-32, $\sigma=1.6$",5,45,Nearest centroid,0.462
+"USPS-32, $\sigma=1.6$",5,45,Ridge,0.362
+"USPS-32, $\sigma=1.6$",5,45,Shrinkage LDA,0.394
+"USPS-32, $\sigma=1.6$",5,46,L-2DLDA,0.456
+"USPS-32, $\sigma=1.6$",5,46,DATER-reg,0.448
+"USPS-32, $\sigma=1.6$",5,46,MPCA,0.386
+"USPS-32, $\sigma=1.6$",5,46,2DLDA,0.398
+"USPS-32, $\sigma=1.6$",5,46,Nearest centroid,0.404
+"USPS-32, $\sigma=1.6$",5,46,Ridge,0.366
+"USPS-32, $\sigma=1.6$",5,46,Shrinkage LDA,0.416
+"USPS-32, $\sigma=1.6$",5,47,L-2DLDA,0.438
+"USPS-32, $\sigma=1.6$",5,47,DATER-reg,0.44
+"USPS-32, $\sigma=1.6$",5,47,MPCA,0.4
+"USPS-32, $\sigma=1.6$",5,47,2DLDA,0.396
+"USPS-32, $\sigma=1.6$",5,47,Nearest centroid,0.396
+"USPS-32, $\sigma=1.6$",5,47,Ridge,0.376
+"USPS-32, $\sigma=1.6$",5,47,Shrinkage LDA,0.366
+"USPS-32, $\sigma=1.6$",5,48,L-2DLDA,0.468
+"USPS-32, $\sigma=1.6$",5,48,DATER-reg,0.452
+"USPS-32, $\sigma=1.6$",5,48,MPCA,0.436
+"USPS-32, $\sigma=1.6$",5,48,2DLDA,0.432
+"USPS-32, $\sigma=1.6$",5,48,Nearest centroid,0.44
+"USPS-32, $\sigma=1.6$",5,48,Ridge,0.364
+"USPS-32, $\sigma=1.6$",5,48,Shrinkage LDA,0.412
+"USPS-32, $\sigma=1.6$",5,49,L-2DLDA,0.434
+"USPS-32, $\sigma=1.6$",5,49,DATER-reg,0.438
+"USPS-32, $\sigma=1.6$",5,49,MPCA,0.42
+"USPS-32, $\sigma=1.6$",5,49,2DLDA,0.396
+"USPS-32, $\sigma=1.6$",5,49,Nearest centroid,0.41
+"USPS-32, $\sigma=1.6$",5,49,Ridge,0.35
+"USPS-32, $\sigma=1.6$",5,49,Shrinkage LDA,0.368
