@@ -1,9 +1,5 @@
 # L-2DLDA
 
-This repository contains the code accompanying the manuscript
-**"Shrinkage Kronecker covariance for robust two-dimensional discriminant
-analysis in small samples"**.
-
 L-2DLDA is a likelihood-based two-dimensional discriminant analysis method for
 matrix-valued classification in high-dimensional small-sample settings. The
 method estimates shrinkage-regularized Kronecker covariance factors, uses them
@@ -36,7 +32,6 @@ tables/ and figures/
     LaTeX table fragments and PDF/PNG figures used by the manuscript.
 ```
 
-The repository intentionally excludes cached datasets and Python cache files.
 OpenML datasets are downloaded on first use into `data/openml/`.
 
 ## Installation
