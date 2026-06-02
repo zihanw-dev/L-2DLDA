@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Local dataset caches
+data/openml/
+data/**/openml.org/
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Keep reported outputs under version control unless intentionally regenerated.

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Shrinkage Kronecker covariance for robust two-dimensional discriminant analysis in small samples"
+authors:
+  - family-names: Wang
+    given-names: Zihan
+repository-code: "https://github.com/zihanw-dev/L-2DLDA"
+date-released: 2026-06-02
+license: MIT
